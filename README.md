@@ -2,6 +2,8 @@
 
 A visual learning library for ISO/IEC 42001:2023 - the international standard for AI Management Systems.
 
+> Status: Work in progress. Current coverage includes the ISO 42001 overview and Clauses 4 to 10.
+
 ## What this repository is
 
 This repository is a practical visual library for learning and explaining ISO/IEC 42001:2023, the international standard for AI Management Systems (AIMS).
@@ -122,13 +124,38 @@ The assets are deliberately short and visual. They are learning aids, not a repl
 
 | Topic | Variant |
 |---|---|
-| ISO 42001: Manage Like a Boss | <img src="cards/funny/other/iso-42001-manage-ai-like-a-boss.png" alt="Funny Clause 8 operation mission control infographic" width="360"> |
-iso-42001-manage-ai-like-a-boss
+| ISO 42001: Manage Like a Boss | <img src="cards/funny/other/iso-42001-manage-ai-like-a-boss.png" alt="Funny ISO 42001 manage AI like a boss infographic" width="360"> |
 | Clause 8: Operation, Mission Control style | <img src="cards/funny/other/clause-08-operation-mission-control.png" alt="Funny Clause 8 operation mission control infographic" width="360"> |
 
-## Planned coverage
+## Roadmap
 
-- Additional topics covering Annex A controls, AI principles, certification, people impact, and regulatory alignment
+Planned additions:
+
+- Annex A controls
+- AI principles
+- Certification preparation
+- People impact
+- ISO 42001 and ISO 27001 comparison
+- EU AI Act alignment
+- Common audit failure modes
+- What an auditor looks for
+- AI policy templates
+
+## Licence
+
+This work is licensed under the Creative Commons Attribution 4.0 International License. See [LICENSE.md](LICENSE.md) for details.
+
+Suggested attribution:
+
+```text
+ISO 42001 Visual Library by Nelson Ambrose, licensed under CC BY 4.0.
+```
+
+## Disclaimer
+
+This repository is an independent learning resource. It is not affiliated with, endorsed by, or certified by ISO, IEC, or any certification body.
+
+The materials are intended as learning aids and should not be treated as a replacement for the official ISO/IEC 42001:2023 standard, legal advice, audit advice, or certification guidance.
 
 ## Folder convention
 
