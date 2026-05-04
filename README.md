@@ -24,7 +24,7 @@ Each topic can have up to three matching assets:
 | Professional infographic | Polished business-ready visual summary | Briefings, audit preparation, stakeholder sharing |
 | Funny infographic | Humorous visual memory aid | Learning reinforcement and making the topic stick |
 
-The reference card is the canonical content source. The infographic versions should stay aligned to it.
+The reference card is the canonical content source. The professional and funny infographics are two different treatments of the same topic: one for clear explanation and sharing, the other for memory and engagement. The funny cards use a different style, but they should not introduce different requirements or change the meaning of the standard.
 
 ## Who this is for
 
