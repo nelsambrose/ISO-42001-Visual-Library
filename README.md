@@ -8,12 +8,12 @@ A visual learning library for ISO/IEC 42001:2023 - the international standard fo
 |---|---|---|---|
 | Overview | [View reference](cards/reference/overview.md) | [View image](cards/professional/overview.png) | [View image](cards/funny/overview.png) |
 | Clause 4: Context of the Organisation | [View reference](cards/reference/clause-04-context-of-the-organisation.md) | [View image](cards/professional/clause-04-context-of-the-organisation.png) | [View image](cards/funny/clause-04-context-of-the-organisation.png) |
-| Clause 5: Leadership | Planned | [View image](cards/professional/clause-05-leadership.png) | [View image](cards/funny/clause-05-leadership.png) |
-| Clause 6: Planning | Planned | [View image](cards/professional/clause-06-planning.png) | [View image](cards/funny/clause-06-planning.png) |
-| Clause 7: Support | Planned | [View image](cards/professional/clause-07-support.png) | [View image](cards/funny/clause-07-support.png) |
-| Clause 8: Operation | Planned | [View image](cards/professional/clause-08-operation.png) | [View image](cards/funny/clause-08-operation.png) |
-| Clause 9: Performance Evaluation | Planned | [View image](cards/professional/clause-09-performance-evaluation.png) | [View image](cards/funny/clause-09-performance-evaluation.png) |
-| Clause 10: Improvement | Planned | [View image](cards/professional/clause-10-improvement.png) | [View image](cards/funny/clause-10-improvement.png) |
+| Clause 5: Leadership | [View reference](cards/reference/clause-05-leadership.md) | [View image](cards/professional/clause-05-leadership.png) | [View image](cards/funny/clause-05-leadership.png) |
+| Clause 6: Planning | [View reference](cards/reference/clause-06-planning.md) | [View image](cards/professional/clause-06-planning.png) | [View image](cards/funny/clause-06-planning.png) |
+| Clause 7: Support | [View reference](cards/reference/clause-07-support.md) | [View image](cards/professional/clause-07-support.png) | [View image](cards/funny/clause-07-support.png) |
+| Clause 8: Operation | [View reference](cards/reference/clause-08-operation.md) | [View image](cards/professional/clause-08-operation.png) | [View image](cards/funny/clause-08-operation.png) |
+| Clause 9: Performance Evaluation | [View reference](cards/reference/clause-09-performance-evaluation.md) | [View image](cards/professional/clause-09-performance-evaluation.png) | [View image](cards/funny/clause-09-performance-evaluation.png) |
+| Clause 10: Improvement | [View reference](cards/reference/clause-10-improvement.md) | [View image](cards/professional/clause-10-improvement.png) | [View image](cards/funny/clause-10-improvement.png) |
 
 ## Card gallery
 
@@ -86,7 +86,6 @@ iso-42001-manage-ai-like-a-boss
 
 ## Planned coverage
 
-- Reference catalogue entries for Clauses 5-10
 - Additional topics covering Annex A controls, AI principles, certification, people impact, and regulatory alignment
 
 ## Folder convention
