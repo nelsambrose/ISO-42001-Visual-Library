@@ -47,7 +47,7 @@ key concepts. Created using Gemini image generation.
 aspects: individual clauses, controls, principles, 
 certification, failure modes, framework connections.
 
-The two-layer approach is deliberate. How you learn something 
+The three-layer approach is deliberate. How you learn something 
 and how you look it up later are different problems that need 
 different solutions.
 
@@ -63,8 +63,8 @@ ISO-42001-Visual-Library/
 ├── CONTEXT.md         (this file)
 │
 ├── reference/         (detailed reference cards)
-├── memory/            (memorable visual cards)
-└── deep_dives/        (specific topic deep dives)
+├── memory/            (memorable visual cards)            [planned]
+└── deep_dives/        (specific topic deep dives)         [planned]
 ```
 
 ---
