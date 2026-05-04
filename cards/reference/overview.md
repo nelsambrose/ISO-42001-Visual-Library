@@ -126,4 +126,4 @@ Annex A is normative, meaning selected controls become mandatory as part of the 
 
 ---
 
-*Reference card — for detailed memory-friendly summaries see the Memory cards*
+*Reference catalogue entry — use this as source material for matching funny and professional infographic cards.*
