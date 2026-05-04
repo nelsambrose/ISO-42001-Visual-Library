@@ -2,20 +2,89 @@
 
 A visual learning library for ISO/IEC 42001:2023 - the international standard for AI Management Systems.
 
-## Current contents
+> Status: Work in progress. Current coverage includes the ISO 42001 overview and Clauses 4 to 10.
+
+## What this repository is
+
+This repository is a practical visual library for learning and explaining ISO/IEC 42001:2023, the international standard for AI Management Systems (AIMS).
+
+It is designed to make ISO 42001 easier to understand, remember and communicate. The library combines neutral reference material with professional and humorous infographic cards so the same topic can be used for study, briefing, audit preparation and memory reinforcement.
+
+## Why this exists
+
+ISO 42001 is important, but most available material is either very dense, overly generic, or aimed at people who already understand management system standards.
+
+This project fills that gap by turning the standard into clear, reusable learning assets. The goal is to help people build confidence with AI governance concepts without losing accuracy or inventing requirements.
+
+## How the library works
+
+Each topic can have up to three matching assets:
+
+| Layer | Purpose | Best used for |
+|---|---|---|
+| Reference card | Neutral source facts and reusable explanations | Learning, checking details, creating new cards |
+| Professional infographic | Polished business-ready visual summary | Briefings, audit preparation, stakeholder sharing |
+| Funny infographic | Humorous visual memory aid | Learning reinforcement and making the topic stick |
+| Funny simple memory card | One strong visual hook for clause recall | Remembering clause number and keyword |
+
+The simple memory cards are deliberately minimal. They are designed to help people remember the clause number and core keyword quickly.
+
+The reference card is the canonical content source. The professional and funny infographics are two different treatments of the same topic: one for clear explanation and sharing, the other for memory and engagement. The funny cards use a different style, but they should not introduce different requirements or change the meaning of the standard.
+
+## Who this is for
+
+This library is useful for:
+
+- AI governance leads and responsible AI practitioners
+- Risk, compliance, privacy, security and audit teams
+- Product, technology and delivery leaders working with AI systems
+- Organisations preparing for ISO 42001 implementation or certification
+- Anyone learning how AI management systems work
+
+## Current coverage
+
+The library currently covers the ISO 42001 overview and Clauses 4 to 10.
 
 | Topic | Reference | Professional infographic | Funny infographic |
 |---|---|---|---|
 | Overview | [View reference](cards/reference/overview.md) | [View image](cards/professional/overview.png) | [View image](cards/funny/overview.png) |
 | Clause 4: Context of the Organisation | [View reference](cards/reference/clause-04-context-of-the-organisation.md) | [View image](cards/professional/clause-04-context-of-the-organisation.png) | [View image](cards/funny/clause-04-context-of-the-organisation.png) |
-| Clause 5: Leadership | Planned | [View image](cards/professional/clause-05-leadership.png) | [View image](cards/funny/clause-05-leadership.png) |
-| Clause 6: Planning | Planned | [View image](cards/professional/clause-06-planning.png) | [View image](cards/funny/clause-06-planning.png) |
-| Clause 7: Support | Planned | [View image](cards/professional/clause-07-support.png) | [View image](cards/funny/clause-07-support.png) |
-| Clause 8: Operation | Planned | [View image](cards/professional/clause-08-operation.png) | [View image](cards/funny/clause-08-operation.png) |
-| Clause 9: Performance Evaluation | Planned | [View image](cards/professional/clause-09-performance-evaluation.png) | [View image](cards/funny/clause-09-performance-evaluation.png) |
-| Clause 10: Improvement | Planned | [View image](cards/professional/clause-10-improvement.png) | [View image](cards/funny/clause-10-improvement.png) |
+| Clause 5: Leadership | [View reference](cards/reference/clause-05-leadership.md) | [View image](cards/professional/clause-05-leadership.png) | [View image](cards/funny/clause-05-leadership.png) |
+| Clause 6: Planning | [View reference](cards/reference/clause-06-planning.md) | [View image](cards/professional/clause-06-planning.png) | [View image](cards/funny/clause-06-planning.png) |
+| Clause 7: Support | [View reference](cards/reference/clause-07-support.md) | [View image](cards/professional/clause-07-support.png) | [View image](cards/funny/clause-07-support.png) |
+| Clause 8: Operation | [View reference](cards/reference/clause-08-operation.md) | [View image](cards/professional/clause-08-operation.png) | [View image](cards/funny/clause-08-operation.png) |
+| Clause 9: Performance Evaluation | [View reference](cards/reference/clause-09-performance-evaluation.md) | [View image](cards/professional/clause-09-performance-evaluation.png) | [View image](cards/funny/clause-09-performance-evaluation.png) |
+| Clause 10: Improvement | [View reference](cards/reference/clause-10-improvement.md) | [View image](cards/professional/clause-10-improvement.png) | [View image](cards/funny/clause-10-improvement.png) |
+
+## How to use it
+
+Start with the reference card when you want the factual explanation of a topic. Use the professional infographic when you need a clean visual for colleagues, leadership or audit preparation. Use the funny infographic when you want the concept to be memorable.
+
+The assets are deliberately short and visual. They are learning aids, not a replacement for the ISO/IEC 42001:2023 standard itself.
 
 ## Card gallery
+
+### Clause memory cards
+
+The simple funny cards are designed for quick recall. Each card reduces one clause to its core keyword using a strong visual hook.
+
+These cards are intentionally simple. The goal is not to explain every sub-clause, but to make the main association easy to remember.
+
+- Clause 4 = Context
+- Clause 5 = Leadership
+- Clause 6 = Planning
+- Clause 7 = Support
+- Clause 8 = Operation
+- Clause 9 = Performance Evaluation
+- Clause 10 = Improvement
+
+| Clause 4 | Clause 5 | Clause 6 |
+|---|---|---|
+| <img src="cards/funny/simple/clause-04-context-of-the-organisation.png" alt="Funny simple Clause 4 context memory card" width="260"> | <img src="cards/funny/simple/clause-05-leadership.png" alt="Funny simple Clause 5 leadership memory card" width="260"> | <img src="cards/funny/simple/clause-06-planning.png" alt="Funny simple Clause 6 planning memory card" width="260"> |
+| Clause 7 | Clause 8 | Clause 9 |
+| <img src="cards/funny/simple/clause-07-support.png" alt="Funny simple Clause 7 support memory card" width="260"> | <img src="cards/funny/simple/clause-08-operation.png" alt="Funny simple Clause 8 operation memory card" width="260"> | <img src="cards/funny/simple/clause-09-performance-evaluation.png" alt="Funny simple Clause 9 performance evaluation memory card" width="260"> |
+| Clause 10 |  |  |
+| <img src="cards/funny/simple/clause-10-improvement.png" alt="Funny simple Clause 10 improvement memory card" width="260"> |  |  |
 
 ### Overview
 
@@ -28,6 +97,9 @@ A visual learning library for ISO/IEC 42001:2023 - the international standard fo
 </p>
 
 ### Clause cards
+
+> [!TIP]
+> Click any card image to open it in a larger view. This is the easiest way to read the full infographic detail.
 
 <table>
   <thead>
@@ -80,14 +152,40 @@ A visual learning library for ISO/IEC 42001:2023 - the international standard fo
 
 | Topic | Variant |
 |---|---|
-| ISO 42001: Manage Like a Boss | <img src="cards/funny/other/iso-42001-manage-ai-like-a-boss.png" alt="Funny Clause 8 operation mission control infographic" width="360"> |
-iso-42001-manage-ai-like-a-boss
+| ISO 42001: Manage Like a Boss | <img src="cards/funny/other/iso-42001-manage-ai-like-a-boss.png" alt="Funny ISO 42001 manage AI like a boss infographic" width="360"> |
 | Clause 8: Operation, Mission Control style | <img src="cards/funny/other/clause-08-operation-mission-control.png" alt="Funny Clause 8 operation mission control infographic" width="360"> |
 
-## Planned coverage
+## Roadmap
 
-- Reference catalogue entries for Clauses 5-10
-- Additional topics covering Annex A controls, AI principles, certification, people impact, and regulatory alignment
+Planned additions:
+
+- Annex A controls
+- AI principles
+- Certification preparation
+- People impact
+- ISO 42001 and ISO 27001 comparison
+- EU AI Act alignment
+- Common audit failure modes
+- What an auditor looks for
+- AI policy templates
+
+## Licence
+
+This work is licensed under the Creative Commons Attribution 4.0 International License. See [LICENSE.md](LICENSE.md) for details.
+
+Suggested attribution:
+
+```text
+ISO 42001 Visual Library by Nelson Ambrose, licensed under CC BY 4.0.
+```
+
+Creator: [Nelson Ambrose](https://www.linkedin.com/in/nelson-ambrose/)
+
+## Disclaimer
+
+This repository is an independent learning resource. It is not affiliated with, endorsed by, or certified by ISO, IEC, or any certification body.
+
+The materials are intended as learning aids and should not be treated as a replacement for the official ISO/IEC 42001:2023 standard, legal advice, audit advice, or certification guidance.
 
 ## Folder convention
 
@@ -95,6 +193,7 @@ iso-42001-manage-ai-like-a-boss
 cards/
   reference/
   funny/
+  funny/simple/
   professional/
 ```
 
