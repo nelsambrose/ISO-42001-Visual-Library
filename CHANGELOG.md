@@ -16,18 +16,19 @@ Cards in development:
 - Reference card: Clause 8
 - Reference card: Clause 9
 - Reference card: Clause 10
-- Memory card set: overview, PDCA cycle, and Clauses 4 to 10
-- Deep dive: Clause 4 in depth
-- Deep dive: Clause 5 in depth
-- Deep dive: Clause 6 in depth
-- Deep dive: Clause 7 in depth
-- Deep dive: Clause 8 in depth
-- Deep dive: Clause 9 in depth
-- Deep dive: Clause 10 in depth
-- Deep dive: Common failure modes
-- Deep dive: What an auditor looks for
-- Deep dive: ISO 42001 vs ISO 27001
-- Deep dive: AI policy template
+- Funny infographic set: overview, PDCA cycle, and Clauses 4 to 10
+- Professional infographic set: overview, PDCA cycle, and Clauses 4 to 10
+- Additional reference topics: Annex A controls, AI principles, certification, people impact, ISO 42001 vs ISO 27001, EU AI Act alignment, common failure modes, what an auditor looks for, and AI policy templates
+
+---
+
+## [0.1.1] - 2026-05-04
+
+### Changed
+
+- Replaced the old `reference/`, `memory/`, and `deep_dives/` convention with `cards/reference/`, `cards/funny/`, and `cards/professional/`.
+- Moved existing reference material into `cards/reference/`.
+- Standardised topic filenames so matching reference, funny, and professional versions can share the same basename across folders.
 
 ---
 
