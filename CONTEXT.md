@@ -134,9 +134,9 @@ The library is private while being built out.
 It will be made public once ISO 42001 coverage is 
 considered substantially complete.
 
-The repo currently contains project documentation and the first
-reference catalogue entries. Funny and professional infographic
-folders are present for future image cards.
+The repo currently contains project documentation, the first
+reference catalogue entries, and funny and professional
+infographic cards for the overview and Clauses 4 to 10.
 
 The repo is actively maintained and growing. 
 See CHANGELOG.md for current contents and planned additions.
