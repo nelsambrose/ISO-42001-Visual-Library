@@ -16,6 +16,6 @@ https://creativecommons.org/licenses/by/4.0/
 
 ## Suggested attribution
 
-ISO 42001 Visual Library by Nelson Ambrose, licensed under CC BY 4.0.
+ISO 42001 Visual Library by [Nelson Ambrose](https://www.linkedin.com/in/nelson-ambrose/), licensed under CC BY 4.0.
 
 This summary is provided for convenience. The full legal license terms are available from Creative Commons at the link above.
