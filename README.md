@@ -64,9 +64,6 @@ The assets are deliberately short and visual. They are learning aids, not a repl
 
 ## Card gallery
 
-> [!TIP]
-> Click any card to open a full-size view. This is the easiest way to read the detail.
-
 ### Clause memory cards
 
 The simple funny cards are designed for quick recall. Each card reduces one clause to its core keyword using a strong visual hook.
@@ -81,13 +78,16 @@ These cards are intentionally simple. The goal is not to explain every sub-claus
 - Clause 9 = Performance Evaluation
 - Clause 10 = Improvement
 
+> [!TIP]
+> Click any card to open a full-size view. This is the easiest way to read the detail.
+
 | Clause 4 | Clause 5 | Clause 6 |
 |---|---|---|
 | <img src="cards/funny/simple/clause-04-context-of-the-organisation.png" alt="Funny simple Clause 4 context memory card" width="260"> | <img src="cards/funny/simple/clause-05-leadership.png" alt="Funny simple Clause 5 leadership memory card" width="260"> | <img src="cards/funny/simple/clause-06-planning.png" alt="Funny simple Clause 6 planning memory card" width="260"> |
 | Clause 7 | Clause 8 | Clause 9 |
 | <img src="cards/funny/simple/clause-07-support.png" alt="Funny simple Clause 7 support memory card" width="260"> | <img src="cards/funny/simple/clause-08-operation.png" alt="Funny simple Clause 8 operation memory card" width="260"> | <img src="cards/funny/simple/clause-09-performance-evaluation.png" alt="Funny simple Clause 9 performance evaluation memory card" width="260"> |
-| Clause 10 |  |  |
-| <img src="cards/funny/simple/clause-10-improvement.png" alt="Funny simple Clause 10 improvement memory card" width="260"> |  |  |
+|  | Clause 10 |  |
+|  | <img src="cards/funny/simple/clause-10-improvement.png" alt="Funny simple Clause 10 improvement memory card" width="260"> |  |
 
 ### Overview
 
