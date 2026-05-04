@@ -154,6 +154,8 @@ Suggested attribution:
 ISO 42001 Visual Library by Nelson Ambrose, licensed under CC BY 4.0.
 ```
 
+Creator: [Nelson Ambrose](https://www.linkedin.com/in/nelson-ambrose/)
+
 ## Disclaimer
 
 This repository is an independent learning resource. It is not affiliated with, endorsed by, or certified by ISO, IEC, or any certification body.
