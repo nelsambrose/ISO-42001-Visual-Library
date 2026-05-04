@@ -10,6 +10,13 @@ The format follows [Keep a Changelog](https://keepachangelog.com).
 ## [Unreleased]
 
 Cards in development:
+- Reference card: Clause 5
+- Reference card: Clause 6
+- Reference card: Clause 7
+- Reference card: Clause 8
+- Reference card: Clause 9
+- Reference card: Clause 10
+- Memory card set: overview, PDCA cycle, and Clauses 4 to 10
 - Deep dive: Clause 4 in depth
 - Deep dive: Clause 5 in depth
 - Deep dive: Clause 6 in depth
@@ -28,39 +35,15 @@ Cards in development:
 
 ### Added
 
+**Project documentation**
+- README with current contents and planned coverage
+- CONTEXT guidance for contributors and AI assistants
+- CHANGELOG tracking current and planned additions
+
 **Reference cards**
 - Overview: Full ISO 42001 overview with PDCA structure, 
   clause summary, AI principles and certification path
 - Clause 4: Context of the Organisation
-- Clause 5: Leadership
-- Clause 6: Planning
-- Clause 7: Support
-- Clause 8: Operation
-- Clause 9: Performance Evaluation
-- Clause 10: Improvement
-
-**Memory cards**
-- Overview: Full overview, memorable visual format
-- PDCA Plan: What the Plan phase requires
-- PDCA Do: What the Do phase requires
-- PDCA Check: What the Check phase requires
-- PDCA Act: What the Act phase requires
-- Clause 4: Context, memorable format
-- Clause 5: Leadership, memorable format
-- Clause 6: Planning, memorable format
-- Clause 7: Support, memorable format
-- Clause 8: Operation, memorable format
-- Clause 9: Performance Evaluation, memorable format
-- Clause 10: Improvement, memorable format
-
-**Deep dive cards**
-- Annex A Controls Part 1: Categories 1 to 6
-- Annex A Controls Part 2: Categories 7 to 9
-- AI Principles: The 8 principles from Annex A guidance
-- Getting Certified: The practical certification journey
-- Impact on People: Who the standard affects and why
-- ISO 42001 meets EU AI Act: How the standard 
-  satisfies the regulation
 
 ---
 

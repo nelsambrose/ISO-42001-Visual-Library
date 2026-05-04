@@ -33,7 +33,7 @@ who already know the standard.
 
 ## Design philosophy
 
-Two visual layers per topic:
+Three visual layers per topic:
 
 **Reference cards:** Dense, comprehensive, accurate. 
 For looking things up, audit preparation, briefing colleagues. 
@@ -98,7 +98,7 @@ of tone.
 
 ## Content accuracy
 
-All cards have been verified for accuracy against 
+Published cards must be verified for accuracy against
 ISO/IEC 42001:2023. If adding new cards, accuracy 
 must be verified before committing.
 
@@ -115,6 +115,10 @@ Key accuracy principles:
 The library is private while being built out. 
 It will be made public once ISO 42001 coverage is 
 considered substantially complete.
+
+The repo currently contains project documentation and the first
+reference cards. Memory cards and deep dive folders are planned
+and should be added when content is ready.
 
 The repo is actively maintained and growing. 
 See CHANGELOG.md for current contents and planned additions.
