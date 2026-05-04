@@ -130,4 +130,4 @@ Drive ongoing enhancement of the AIMS's suitability, adequacy and effectiveness 
 
 ---
 
-*Reference card — for a quick memorable summary see the Clause 4 Memory card*
+*Reference catalogue entry — use this as source material for matching funny and professional infographic cards.*

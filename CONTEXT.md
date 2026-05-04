@@ -9,8 +9,8 @@ working with this repository.
 
 This is a visual learning library for ISO/IEC 42001:2023, 
 the international standard for AI Management Systems (AIMS). 
-It contains infographic cards created to help people learn, 
-understand and retain the standard.
+It contains reference material and infographic cards created
+to help people learn, understand and retain the standard.
 
 It is not a code project. It is an image library with 
 supporting documentation.
@@ -33,19 +33,20 @@ who already know the standard.
 
 ## Design philosophy
 
-Two visual layers per topic:
+Three card layers per topic:
 
-**Reference cards:** Dense, comprehensive, accurate. 
-For looking things up, audit preparation, briefing colleagues. 
-Created using ChatGPT image generation.
+**Reference catalogue:** Neutral source facts, key messages,
+definitions and reusable base material. This is the canonical
+content source for each topic.
 
-**Memory cards:** Minimal, visual, memorable. 
-For learning the standard for the first time or retaining 
-key concepts. Created using Gemini image generation.
+**Funny infographic cards:** Humorous visual versions based on
+the matching reference topic. They should be memorable and
+engaging without distorting the facts.
 
-**Deep dive cards:** Go beyond the overview into specific 
-aspects: individual clauses, controls, principles, 
-certification, failure modes, framework connections.
+**Professional infographic cards:** Polished, business-ready
+visual versions based on the matching reference topic. They
+should be suitable for briefings, audit preparation and
+professional sharing.
 
 The three-layer approach is deliberate. How you learn something 
 and how you look it up later are different problems that need 
@@ -62,22 +63,35 @@ ISO-42001-Visual-Library/
 ├── CHANGELOG.md       (history of all additions)
 ├── CONTEXT.md         (this file)
 │
-├── reference/         (detailed reference cards)
-├── memory/            (memorable visual cards)            [planned]
-└── deep_dives/        (specific topic deep dives)         [planned]
+└── cards/
+    ├── reference/     (neutral source facts and base material)
+    ├── funny/         (funny infographic versions)
+    └── professional/  (professional infographic versions)
 ```
 
 ---
 
 ## File naming conventions
 
-Reference cards: `clause_04_context.png`, `clause_05_leadership.png`
-Memory cards: `clause_04.png`, `01_pdca_plan.png`
-Deep dives: `annex_a_controls_part1.png`, `getting_certified.png`
-Overviews: `00_overview.png`
+Use topic slugs as filenames. Slugs must be lowercase kebab-case,
+with no spaces, and should be descriptive enough to stand alone.
 
-Always use lowercase, hyphens or underscores, no spaces.
-Always use two-digit numbering for ordered files (01, 02 etc).
+Use the same basename for the same topic across folders where
+applicable:
+
+```text
+cards/reference/ai-risk.md
+cards/funny/ai-risk.png
+cards/professional/ai-risk.png
+```
+
+For clause-based topics, use two-digit clause numbers:
+
+```text
+cards/reference/clause-04-context-of-the-organisation.md
+cards/funny/clause-04-context-of-the-organisation.png
+cards/professional/clause-04-context-of-the-organisation.png
+```
 
 ---
 
@@ -87,18 +101,22 @@ All images are PNG format, portrait orientation unless
 otherwise specified. Landscape images are used only for 
 GitHub banner or header purposes.
 
-Reference cards: professional style, dark navy or white 
-background, clean typography, no cartoon elements.
+Reference catalogue entries: neutral, factual and reusable.
+They should contain source facts, definitions, key messages and
+any notes needed to generate matching visual versions.
 
-Memory cards: visual, engaging, may include cartoon characters 
-or humorous elements. Content must remain accurate regardless 
-of tone.
+Funny infographic cards: visual, engaging and humorous. They may
+include cartoon characters or playful framing. Content must remain
+accurate regardless of tone.
+
+Professional infographic cards: polished, restrained and suitable
+for sharing with colleagues, auditors and senior stakeholders.
 
 ---
 
 ## Content accuracy
 
-All cards have been verified for accuracy against 
+Published cards must be verified for accuracy against
 ISO/IEC 42001:2023. If adding new cards, accuracy 
 must be verified before committing.
 
@@ -116,6 +134,10 @@ The library is private while being built out.
 It will be made public once ISO 42001 coverage is 
 considered substantially complete.
 
+The repo currently contains project documentation, the first
+reference catalogue entries, and funny and professional
+infographic cards for the overview and Clauses 4 to 10.
+
 The repo is actively maintained and growing. 
 See CHANGELOG.md for current contents and planned additions.
 
@@ -129,9 +151,9 @@ If you are an AI assistant helping with this project:
 - Do not rename existing files without instruction
 - When adding new entries to CHANGELOG.md, follow the 
   existing format exactly
-- When updating README.md content tables, keep the 
-  formatting consistent
-- Always confirm before making any structural changes 
-  to the folder layout
+- When updating README.md card tables, keep the formatting
+  consistent and embed image cards directly when available
+- Keep the `cards/reference/`, `cards/funny/`, and
+  `cards/professional/` structure unless instructed otherwise
 - The content is ISO 42001 specific: do not introduce 
   content from other frameworks without instruction
