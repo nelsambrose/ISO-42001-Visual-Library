@@ -25,6 +25,9 @@ Each topic can have up to three matching assets:
 | Reference card | Neutral source facts and reusable explanations | Learning, checking details, creating new cards |
 | Professional infographic | Polished business-ready visual summary | Briefings, audit preparation, stakeholder sharing |
 | Funny infographic | Humorous visual memory aid | Learning reinforcement and making the topic stick |
+| Funny simple memory card | One strong visual hook for clause recall | Remembering clause number and keyword |
+
+The simple memory cards are deliberately minimal. They are designed to help people remember the clause number and core keyword quickly.
 
 The reference card is the canonical content source. The professional and funny infographics are two different treatments of the same topic: one for clear explanation and sharing, the other for memory and engagement. The funny cards use a different style, but they should not introduce different requirements or change the meaning of the standard.
 
@@ -60,6 +63,28 @@ Start with the reference card when you want the factual explanation of a topic. 
 The assets are deliberately short and visual. They are learning aids, not a replacement for the ISO/IEC 42001:2023 standard itself.
 
 ## Card gallery
+
+### Clause memory cards
+
+The simple funny cards are designed for quick recall. Each card reduces one clause to its core keyword using a strong visual hook.
+
+These cards are intentionally simple. The goal is not to explain every sub-clause, but to make the main association easy to remember.
+
+- Clause 4 = Context
+- Clause 5 = Leadership
+- Clause 6 = Planning
+- Clause 7 = Support
+- Clause 8 = Operation
+- Clause 9 = Performance Evaluation
+- Clause 10 = Improvement
+
+| Clause 4 | Clause 5 | Clause 6 |
+|---|---|---|
+| <img src="cards/funny/simple/clause-04-context-of-the-organisation.png" alt="Funny simple Clause 4 context memory card" width="260"> | <img src="cards/funny/simple/clause-05-leadership.png" alt="Funny simple Clause 5 leadership memory card" width="260"> | <img src="cards/funny/simple/clause-06-planning.png" alt="Funny simple Clause 6 planning memory card" width="260"> |
+| Clause 7 | Clause 8 | Clause 9 |
+| <img src="cards/funny/simple/clause-07-support.png" alt="Funny simple Clause 7 support memory card" width="260"> | <img src="cards/funny/simple/clause-08-operation.png" alt="Funny simple Clause 8 operation memory card" width="260"> | <img src="cards/funny/simple/clause-09-performance-evaluation.png" alt="Funny simple Clause 9 performance evaluation memory card" width="260"> |
+| Clause 10 |  |  |
+| <img src="cards/funny/simple/clause-10-improvement.png" alt="Funny simple Clause 10 improvement memory card" width="260"> |  |  |
 
 ### Overview
 
@@ -168,6 +193,7 @@ The materials are intended as learning aids and should not be treated as a repla
 cards/
   reference/
   funny/
+  funny/simple/
   professional/
 ```
 
