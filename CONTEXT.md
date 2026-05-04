@@ -33,7 +33,7 @@ who already know the standard.
 
 ## Design philosophy
 
-Three card layers per topic:
+Multiple card layers per topic:
 
 **Reference catalogue:** Neutral source facts, key messages,
 definitions and reusable base material. This is the canonical
@@ -48,9 +48,15 @@ visual versions based on the matching reference topic. They
 should be suitable for briefings, audit preparation and
 professional sharing.
 
-The three-layer approach is deliberate. How you learn something 
-and how you look it up later are different problems that need 
-different solutions.
+**Funny simple memory cards:** Minimal cards that use one strong
+visual hook to help people remember the clause number and core
+keyword. They are intentionally simpler than the full infographics
+and are not intended to explain every sub-clause. Stored in
+`cards/funny/simple/`.
+
+The multi-layer approach is deliberate. How you learn something,
+how you recall it quickly, and how you look it up later are
+different problems that need different solutions.
 
 ---
 
@@ -66,6 +72,9 @@ ISO-42001-Visual-Library/
 └── cards/
     ├── reference/     (neutral source facts and base material)
     ├── funny/         (funny infographic versions)
+    │   ├── simple/    (simple memory cards: clause number and keyword recall)
+    │   ├── other/     (additional funny variants)
+    │   └── expanded/  (retained optional variants, not on primary learning path)
     └── professional/  (professional infographic versions)
 ```
 

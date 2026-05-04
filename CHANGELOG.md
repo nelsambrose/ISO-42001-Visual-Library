@@ -14,6 +14,20 @@ Cards in development:
 
 ---
 
+## [0.1.4] - 2026-05-04
+
+### Added
+
+- Simple funny memory cards for Clauses 4 to 10.
+- `cards/funny/simple/` folder for clause number and keyword recall.
+
+### Changed
+
+- Updated README to explain the simple memory card layer and show the new memory card gallery.
+- Updated project context to document the simple memory card purpose.
+
+---
+
 ## [0.1.2] - 2026-05-04
 
 ### Added
