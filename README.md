@@ -61,6 +61,9 @@ The assets are deliberately short and visual. They are learning aids, not a repl
 
 ## Card gallery
 
+> [!TIP]
+> Click any card to open a full-size view. This is the easiest way to read the detail.
+
 ### Overview
 
 <p>
@@ -72,9 +75,6 @@ The assets are deliberately short and visual. They are learning aids, not a repl
 </p>
 
 ### Clause cards
-
-> [!TIP]
-> Click any card image to open it in a larger view. This is the easiest way to read the full infographic detail.
 
 <table>
   <thead>
