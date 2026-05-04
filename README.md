@@ -80,7 +80,9 @@ A visual learning library for ISO/IEC 42001:2023 - the international standard fo
 
 | Topic | Variant |
 |---|---|
-| Clause 8: Operation, Mission Control style | <img src="cards/funny/clause-08-operation-mission-control.png" alt="Funny Clause 8 operation mission control infographic" width="360"> |
+| ISO 42001: Manage Like a Boss | <img src="cards/funny/other/iso-42001-manage-ai-like-a-boss.png" alt="Funny Clause 8 operation mission control infographic" width="360"> |
+iso-42001-manage-ai-like-a-boss
+| Clause 8: Operation, Mission Control style | <img src="cards/funny/other/clause-08-operation-mission-control.png" alt="Funny Clause 8 operation mission control infographic" width="360"> |
 
 ## Planned coverage
 
