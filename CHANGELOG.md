@@ -10,13 +10,25 @@ The format follows [Keep a Changelog](https://keepachangelog.com).
 ## [Unreleased]
 
 Cards in development:
-- Reference card: Clause 5
-- Reference card: Clause 6
-- Reference card: Clause 7
-- Reference card: Clause 8
-- Reference card: Clause 9
-- Reference card: Clause 10
 - Additional reference topics: Annex A controls, AI principles, certification, people impact, ISO 42001 vs ISO 27001, EU AI Act alignment, common failure modes, what an auditor looks for, and AI policy templates
+
+---
+
+## [0.1.2] - 2026-05-04
+
+### Added
+
+- Reference catalogue entry for Clause 5: Leadership.
+- Reference catalogue entry for Clause 6: Planning.
+- Reference catalogue entry for Clause 7: Support.
+- Reference catalogue entry for Clause 8: Operation.
+- Reference catalogue entry for Clause 9: Performance Evaluation.
+- Reference catalogue entry for Clause 10: Improvement.
+
+### Changed
+
+- Updated README current contents table so Clauses 5 to 10 link to their reference catalogue entries.
+- Removed completed Clause 5 to 10 reference work from planned coverage.
 
 ---
 
