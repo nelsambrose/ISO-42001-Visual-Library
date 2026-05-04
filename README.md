@@ -73,6 +73,9 @@ The assets are deliberately short and visual. They are learning aids, not a repl
 
 ### Clause cards
 
+> [!TIP]
+> Click any card image to open it in a larger view. This is the easiest way to read the full infographic detail.
+
 <table>
   <thead>
     <tr>
