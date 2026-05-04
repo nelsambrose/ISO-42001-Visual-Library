@@ -2,7 +2,43 @@
 
 A visual learning library for ISO/IEC 42001:2023 - the international standard for AI Management Systems.
 
-## Current contents
+## What this repository is
+
+This repository is a practical visual library for learning and explaining ISO/IEC 42001:2023, the international standard for AI Management Systems (AIMS).
+
+It is designed to make ISO 42001 easier to understand, remember and communicate. The library combines neutral reference material with professional and humorous infographic cards so the same topic can be used for study, briefing, audit preparation and memory reinforcement.
+
+## Why this exists
+
+ISO 42001 is important, but most available material is either very dense, overly generic, or aimed at people who already understand management system standards.
+
+This project fills that gap by turning the standard into clear, reusable learning assets. The goal is to help people build confidence with AI governance concepts without losing accuracy or inventing requirements.
+
+## How the library works
+
+Each topic can have up to three matching assets:
+
+| Layer | Purpose | Best used for |
+|---|---|---|
+| Reference card | Neutral source facts and reusable explanations | Learning, checking details, creating new cards |
+| Professional infographic | Polished business-ready visual summary | Briefings, audit preparation, stakeholder sharing |
+| Funny infographic | Humorous visual memory aid | Learning reinforcement and making the topic stick |
+
+The reference card is the canonical content source. The infographic versions should stay aligned to it.
+
+## Who this is for
+
+This library is useful for:
+
+- AI governance leads and responsible AI practitioners
+- Risk, compliance, privacy, security and audit teams
+- Product, technology and delivery leaders working with AI systems
+- Organisations preparing for ISO 42001 implementation or certification
+- Anyone learning how AI management systems work
+
+## Current coverage
+
+The library currently covers the ISO 42001 overview and Clauses 4 to 10.
 
 | Topic | Reference | Professional infographic | Funny infographic |
 |---|---|---|---|
@@ -14,6 +50,12 @@ A visual learning library for ISO/IEC 42001:2023 - the international standard fo
 | Clause 8: Operation | [View reference](cards/reference/clause-08-operation.md) | [View image](cards/professional/clause-08-operation.png) | [View image](cards/funny/clause-08-operation.png) |
 | Clause 9: Performance Evaluation | [View reference](cards/reference/clause-09-performance-evaluation.md) | [View image](cards/professional/clause-09-performance-evaluation.png) | [View image](cards/funny/clause-09-performance-evaluation.png) |
 | Clause 10: Improvement | [View reference](cards/reference/clause-10-improvement.md) | [View image](cards/professional/clause-10-improvement.png) | [View image](cards/funny/clause-10-improvement.png) |
+
+## How to use it
+
+Start with the reference card when you want the factual explanation of a topic. Use the professional infographic when you need a clean visual for colleagues, leadership or audit preparation. Use the funny infographic when you want the concept to be memorable.
+
+The assets are deliberately short and visual. They are learning aids, not a replacement for the ISO/IEC 42001:2023 standard itself.
 
 ## Card gallery
 
