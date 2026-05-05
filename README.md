@@ -99,6 +99,27 @@ These cards are intentionally simple. The goal is not to explain every sub-claus
   <img src="cards/funny/overview.png" alt="Funny ISO 42001 overview infographic" width="760">
 </p>
 
+### Annex A domain cards
+
+![Annex A overview professional](cards/annex-a/overview/annex-a-overview-professional.png)
+![Annex A overview funny](cards/annex-a/overview/annex-a-overview-funny.png)
+
+| Professional | Funny memory card |
+|---|---|
+| ![Governance professional](cards/annex-a/domain/professional/governance.png) | ![Governance funny memory card](cards/annex-a/domain/funny/governance.png) |
+
+| Professional | Funny memory card |
+|---|---|
+| ![Organisation professional](cards/annex-a/domain/professional/organisation.png) | ![Organisation funny memory card](cards/annex-a/domain/funny/organisation.png) |
+
+| Professional | Funny memory card |
+|---|---|
+| ![Operation professional](cards/annex-a/domain/professional/operation.png) | ![Operation funny memory card](cards/annex-a/domain/funny/operation.png) |
+
+| Professional | Funny memory card |
+|---|---|
+| ![Relationships professional](cards/annex-a/domain/professional/relationships.png) | ![Relationships funny memory card](cards/annex-a/domain/funny/relationships.png) |
+
 ### Clause cards
 
 <table>
