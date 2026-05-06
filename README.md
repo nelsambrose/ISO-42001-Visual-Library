@@ -110,6 +110,8 @@ These cards are intentionally simple. The goal is not to explain every sub-claus
 ![Annex A overview professional](cards/annex-a/overview/annex-a-overview-professional.png)
 ![Annex A overview funny](cards/annex-a/overview/annex-a-overview-funny.png)
 
+The overview images show how Annex A is grouped. The table below compares the professional and funny versions of each Annex A domain card.
+
 | Domain | Professional | Funny memory card |
 |---|---|---|
 | Governance | ![Governance professional](cards/annex-a/domain/professional/governance.png) | ![Governance funny memory card](cards/annex-a/domain/funny/governance.png) |
