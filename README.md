@@ -2,7 +2,7 @@
 
 A visual learning library for ISO/IEC 42001:2023 - the international standard for AI Management Systems.
 
-> Status: Work in progress. Current coverage includes the ISO 42001 overview and Clauses 4 to 10.
+> Status: Work in progress. Current coverage includes the ISO 42001 overview, Annex A overview and domain cards, and Clauses 4 to 10.
 
 ## What this repository is
 
@@ -18,7 +18,7 @@ This project fills that gap by turning the standard into clear, reusable learnin
 
 ## How the library works
 
-Each topic can have up to three matching assets:
+Each topic can have up to four matching assets:
 
 | Layer | Purpose | Best used for |
 |---|---|---|
@@ -43,7 +43,7 @@ This library is useful for:
 
 ## Current coverage
 
-The library currently covers the ISO 42001 overview and Clauses 4 to 10.
+The library currently covers the ISO 42001 overview, Annex A overview and domain cards, and Clauses 4 to 10.
 
 | Topic | Reference | Professional infographic | Funny infographic |
 |---|---|---|---|
@@ -55,6 +55,12 @@ The library currently covers the ISO 42001 overview and Clauses 4 to 10.
 | Clause 8: Operation | [View reference](cards/reference/clause-08-operation.md) | [View image](cards/professional/clause-08-operation.png) | [View image](cards/funny/clause-08-operation.png) |
 | Clause 9: Performance Evaluation | [View reference](cards/reference/clause-09-performance-evaluation.md) | [View image](cards/professional/clause-09-performance-evaluation.png) | [View image](cards/funny/clause-09-performance-evaluation.png) |
 | Clause 10: Improvement | [View reference](cards/reference/clause-10-improvement.md) | [View image](cards/professional/clause-10-improvement.png) | [View image](cards/funny/clause-10-improvement.png) |
+
+Annex A coverage currently includes:
+
+- `cards/annex-a/overview/annex-a-overview-professional.png`
+- `cards/annex-a/overview/annex-a-overview-funny.png`
+- Domain cards for governance, organisation, operation, and relationships under `cards/annex-a/domain/`
 
 ## How to use it
 
@@ -104,21 +110,12 @@ These cards are intentionally simple. The goal is not to explain every sub-claus
 ![Annex A overview professional](cards/annex-a/overview/annex-a-overview-professional.png)
 ![Annex A overview funny](cards/annex-a/overview/annex-a-overview-funny.png)
 
-| Professional | Funny memory card |
-|---|---|
-| ![Governance professional](cards/annex-a/domain/professional/governance.png) | ![Governance funny memory card](cards/annex-a/domain/funny/governance.png) |
-
-| Professional | Funny memory card |
-|---|---|
-| ![Organisation professional](cards/annex-a/domain/professional/organisation.png) | ![Organisation funny memory card](cards/annex-a/domain/funny/organisation.png) |
-
-| Professional | Funny memory card |
-|---|---|
-| ![Operation professional](cards/annex-a/domain/professional/operation.png) | ![Operation funny memory card](cards/annex-a/domain/funny/operation.png) |
-
-| Professional | Funny memory card |
-|---|---|
-| ![Relationships professional](cards/annex-a/domain/professional/relationships.png) | ![Relationships funny memory card](cards/annex-a/domain/funny/relationships.png) |
+| Domain | Professional | Funny memory card |
+|---|---|---|
+| Governance | ![Governance professional](cards/annex-a/domain/professional/governance.png) | ![Governance funny memory card](cards/annex-a/domain/funny/governance.png) |
+| Organisation | ![Organisation professional](cards/annex-a/domain/professional/organisation.png) | ![Organisation funny memory card](cards/annex-a/domain/funny/organisation.png) |
+| Operation | ![Operation professional](cards/annex-a/domain/professional/operation.png) | ![Operation funny memory card](cards/annex-a/domain/funny/operation.png) |
+| Relationships | ![Relationships professional](cards/annex-a/domain/professional/relationships.png) | ![Relationships funny memory card](cards/annex-a/domain/funny/relationships.png) |
 
 ### Clause cards
 
@@ -180,7 +177,7 @@ These cards are intentionally simple. The goal is not to explain every sub-claus
 
 Planned additions:
 
-- Annex A controls
+- Annex A control-level cards
 - AI principles
 - Certification preparation
 - People impact
@@ -212,13 +209,24 @@ The materials are intended as learning aids and should not be treated as a repla
 
 ```text
 cards/
+  annex-a/
+    overview/
+    domain/
+      professional/
+      funny/
   reference/
   funny/
-  funny/simple/
+    simple/
+    other/
+    expanded/
   professional/
+    simple/
+  Archive/
 ```
 
 Use the same topic filename across folders where applicable. For example, an `ai-risk` topic should use `cards/reference/ai-risk.md`, `cards/funny/ai-risk.png`, and `cards/professional/ai-risk.png`.
+
+For Annex A domain cards, use the same basename across `cards/annex-a/domain/professional/` and `cards/annex-a/domain/funny/`. For example, `governance.png` should exist in both folders.
 
 ## Contributor context
 
