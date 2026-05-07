@@ -312,6 +312,10 @@ Earlier visual styles explored during the development of this library. They have
 
 ## Roadmap
 
+In progress:
+
+- **Audit Readiness mini-deck** — reference files added (`cards/audit/reference/`). Professional and funny visual cards are planned but not yet produced.
+
 Planned additions:
 
 - Additional Annex A supporting material
@@ -320,8 +324,6 @@ Planned additions:
 - People impact
 - ISO 42001 and ISO 27001 comparison
 - EU AI Act alignment
-- Common audit failure modes
-- What an auditor looks for
 - AI policy templates
 
 ## Licence
@@ -354,6 +356,10 @@ cards/
     control/
       professional/
       funny/
+  audit/
+    reference/
+    professional/
+    funny/
   reference/
   funny/
     simple/
