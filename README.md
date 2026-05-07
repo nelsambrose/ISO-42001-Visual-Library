@@ -294,6 +294,18 @@ Earlier visual styles explored during the development of this library. They have
       <td width="16%">Clause 7: Support</td>
       <td width="84%"><img src="cards/funny/other/clause-07-support.png" alt="Funny Clause 7 support infographic" width="100%"></td>
     </tr>
+    <tr>
+      <td width="16%">Clause 9: Performance Evaluation (variant 1)</td>
+      <td width="84%"><img src="cards/funny/other/clause-09-performance-evaluation-1.png" alt="Funny Clause 9 performance evaluation variant 1" width="100%"></td>
+    </tr>
+    <tr>
+      <td width="16%">Clause 9: Performance Evaluation (variant 2)</td>
+      <td width="84%"><img src="cards/funny/other/clause-09-performance-evaluation-2.png" alt="Funny Clause 9 performance evaluation variant 2" width="100%"></td>
+    </tr>
+    <tr>
+      <td width="16%">Clause 9: Performance Evaluation (variant 3)</td>
+      <td width="84%"><img src="cards/funny/other/clause-09-performance-evaluation-3.png" alt="Funny Clause 9 performance evaluation variant 3" width="100%"></td>
+    </tr>
   </tbody>
 </table>
 
