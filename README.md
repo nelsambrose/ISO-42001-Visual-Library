@@ -291,6 +291,10 @@ Earlier visual styles explored during the development of this library. They have
       <td width="84%"><img src="cards/funny/other/A5-assessing-impact-of-ai-systems.png" alt="Funny Annex A A5 assessing impact of AI systems infographic" width="100%"></td>
     </tr>
     <tr>
+      <td width="16%">Clause 5: Leadership</td>
+      <td width="84%"><img src="cards/funny/other/clause-05-leadership.png" alt="Funny Clause 5 leadership infographic" width="100%"></td>
+    </tr>
+    <tr>
       <td width="16%">Clause 7: Support</td>
       <td width="84%"><img src="cards/funny/other/clause-07-support.png" alt="Funny Clause 7 support infographic" width="100%"></td>
     </tr>
