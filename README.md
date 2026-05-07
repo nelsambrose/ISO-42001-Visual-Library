@@ -108,6 +108,8 @@ These cards are intentionally simple. The goal is not to explain every sub-claus
 
 ### Clause cards
 
+Clauses 4–10 are the mandatory requirements of ISO 42001 — the core of the standard that every organisation must implement. Unlike Annex A (which provides controls to select from), these clauses are non-negotiable. Each clause builds on the previous one, forming a management system cycle: understand your context, lead with commitment, plan for risks, support with resources, operate responsibly, evaluate performance, and continually improve.
+
 <table>
   <thead>
     <tr>
