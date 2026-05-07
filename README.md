@@ -157,7 +157,12 @@ These cards are intentionally simple. The goal is not to explain every sub-claus
 
 ### Annex A domain cards
 
-Annex A is the operational heart of ISO 42001. It contains 38 AI-specific controls grouped into nine control areas (A.2–A.10), covering everything from AI policy and internal roles to data management, system lifecycle, and third-party relationships. For learning purposes, these nine areas are simplified here into four broad domains: **Governance** (policies and accountability), **Organisation** (roles, resources, and responsibilities), **Operation** (AI system lifecycle, data, and use), and **Relationships** (third-party and customer obligations). Together they define what responsible AI management looks like in practice.
+Annex A is the operational core of ISO 42001. It contains 38 controls across nine areas (A.2–A.10) that define what responsible AI management looks like in practice. These controls are grouped into four domains:
+
+- **Governance** — Establishing AI policies, leadership accountability, and the overall direction for responsible AI within the organisation.
+- **Organisation** — Defining internal roles and responsibilities, ensuring the right people, skills, and resources are in place to manage AI effectively.
+- **Operation** — Managing the full AI system lifecycle: from design and data management through deployment, monitoring, and decommissioning.
+- **Relationships** — Governing how the organisation works with third parties, customers, and other stakeholders who develop, supply, or are affected by AI systems.
 
 ![Annex A overview professional](cards/annex-a/overview/annex-a-overview-professional.png)
 ![Annex A overview funny](cards/annex-a/overview/annex-a-overview-funny.png)
