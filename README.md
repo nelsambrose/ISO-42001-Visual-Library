@@ -173,23 +173,23 @@ The overview images show how Annex A is grouped. The table below compares the pr
   <tbody>
     <tr>
       <td width="16%">Governance</td>
-      <td width="42%"><img src="cards/annex-a/domain/professional/governance.png" alt="Governance professional" width="280"></td>
-      <td width="42%"><img src="cards/annex-a/domain/funny/governance.png" alt="Governance funny memory card" width="280"></td>
+      <td width="42%"><img src="cards/annex-a/domain/professional/governance.png" alt="Governance professional" width="100%"></td>
+      <td width="42%"><img src="cards/annex-a/domain/funny/governance.png" alt="Governance funny memory card" width="100%"></td>
     </tr>
     <tr>
       <td width="16%">Organisation</td>
-      <td width="42%"><img src="cards/annex-a/domain/professional/organisation.png" alt="Organisation professional" width="280"></td>
-      <td width="42%"><img src="cards/annex-a/domain/funny/organisation.png" alt="Organisation funny memory card" width="280"></td>
+      <td width="42%"><img src="cards/annex-a/domain/professional/organisation.png" alt="Organisation professional" width="100%"></td>
+      <td width="42%"><img src="cards/annex-a/domain/funny/organisation.png" alt="Organisation funny memory card" width="100%"></td>
     </tr>
     <tr>
       <td width="16%">Operation</td>
-      <td width="42%"><img src="cards/annex-a/domain/professional/operation.png" alt="Operation professional" width="280"></td>
-      <td width="42%"><img src="cards/annex-a/domain/funny/operation.png" alt="Operation funny memory card" width="280"></td>
+      <td width="42%"><img src="cards/annex-a/domain/professional/operation.png" alt="Operation professional" width="100%"></td>
+      <td width="42%"><img src="cards/annex-a/domain/funny/operation.png" alt="Operation funny memory card" width="100%"></td>
     </tr>
     <tr>
       <td width="16%">Relationships</td>
-      <td width="42%"><img src="cards/annex-a/domain/professional/relationships.png" alt="Relationships professional" width="280"></td>
-      <td width="42%"><img src="cards/annex-a/domain/funny/relationships.png" alt="Relationships funny memory card" width="280"></td>
+      <td width="42%"><img src="cards/annex-a/domain/professional/relationships.png" alt="Relationships professional" width="100%"></td>
+      <td width="42%"><img src="cards/annex-a/domain/funny/relationships.png" alt="Relationships funny memory card" width="100%"></td>
     </tr>
   </tbody>
 </table>
