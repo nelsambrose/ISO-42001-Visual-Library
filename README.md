@@ -272,6 +272,9 @@ Earlier visual styles explored during the development of this library. They have
 
 <img src="cards/funny/other/iso-42001-manage-ai-like-a-boss.png" alt="Funny ISO 42001 manage AI like a boss infographic" width="100%">
 
+> [!TIP]
+> Click any card to open a full-size view. This is the easiest way to read the detail.
+
 <table>
   <tbody>
     <tr>
