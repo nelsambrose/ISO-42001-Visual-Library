@@ -166,8 +166,8 @@ Annex A is the operational core of ISO 42001. It contains 38 controls across nin
 - **Operation** — Managing the full AI system lifecycle: from design and data management through deployment, monitoring, and decommissioning.
 - **Relationships** — Governing how the organisation works with third parties, customers, and other stakeholders who develop, supply, or are affected by AI systems.
 
-![Annex A overview professional](cards/annex-a/overview/annex-a-overview-professional.png)
-![Annex A overview funny](cards/annex-a/overview/annex-a-overview-funny.png)
+<img src="cards/annex-a/overview/annex-a-overview-professional.png" alt="Annex A overview professional" style="border: 1px solid #d0d7de; border-radius: 6px;">
+<img src="cards/annex-a/overview/annex-a-overview-funny.png" alt="Annex A overview funny" style="border: 1px solid #d0d7de; border-radius: 6px;">
 
 The overview images show how Annex A is grouped. The table below compares the professional and funny versions of each Annex A domain card.
 
