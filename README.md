@@ -268,6 +268,8 @@ These cards provide individual control-level learning summaries for Annex A. Eac
 
 ### Additional variants
 
+Earlier visual styles explored during the development of this library. They have since been superseded by the current card designs, but the content remains accurate. Feel free to use any of these if you prefer the format.
+
 <table>
   <thead>
     <tr>
