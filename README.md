@@ -260,18 +260,18 @@ These cards provide individual control-level learning summaries for Annex A. Eac
 <table>
   <thead>
     <tr>
-      <th width="25%">Topic</th>
-      <th width="75%">Variant</th>
+      <th width="16%">Topic</th>
+      <th width="84%">Variant</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td width="25%">ISO 42001: Manage Like a Boss</td>
-      <td width="75%"><img src="cards/funny/other/iso-42001-manage-ai-like-a-boss.png" alt="Funny ISO 42001 manage AI like a boss infographic" width="100%"></td>
+      <td width="16%">ISO 42001: Manage Like a Boss</td>
+      <td width="84%"><img src="cards/funny/other/iso-42001-manage-ai-like-a-boss.png" alt="Funny ISO 42001 manage AI like a boss infographic" width="100%"></td>
     </tr>
     <tr>
-      <td width="25%">Clause 8: Operation, Mission Control style</td>
-      <td width="75%"><img src="cards/funny/other/clause-08-operation-mission-control.png" alt="Funny Clause 8 operation mission control infographic" width="100%"></td>
+      <td width="16%">Clause 8: Operation, Mission Control style</td>
+      <td width="84%"><img src="cards/funny/other/clause-08-operation-mission-control.png" alt="Funny Clause 8 operation mission control infographic" width="100%"></td>
     </tr>
   </tbody>
 </table>
