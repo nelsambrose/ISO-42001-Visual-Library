@@ -77,6 +77,8 @@ The assets are deliberately short and visual. They are learning aids, not a repl
   <img src="cards/professional/overview.png" alt="Professional ISO 42001 overview infographic" width="760">
 </p>
 
+---
+
 <p>
   <img src="cards/funny/overview.png" alt="Funny ISO 42001 overview infographic" width="760">
 </p>
