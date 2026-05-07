@@ -295,8 +295,8 @@ Earlier visual styles explored during the development of this library. They have
 <table>
   <tbody>
     <tr>
-      <td width="25%"><img src="cards/funny/other/clause-08-operation-mission-control.png" alt="Funny Clause 8 operation mission control infographic" width="100%"></td>
       <td width="25%"><img src="cards/funny/other/clause-08-operation.png" alt="Funny Clause 8 operation infographic" width="100%"></td>
+      <td width="25%"><img src="cards/funny/other/clause-08-operation-mission-control.png" alt="Funny Clause 8 operation mission control infographic" width="100%"></td>
       <td width="25%"><img src="cards/funny/other/A5-assessing-impact-of-ai-systems.png" alt="Funny Annex A A5 assessing impact of AI systems infographic" width="100%"></td>
       <td width="25%"><img src="cards/funny/other/annex-a-domain-operation.png" alt="Funny Annex A domain Operation infographic" width="100%"></td>
     </tr>
