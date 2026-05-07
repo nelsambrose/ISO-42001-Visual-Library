@@ -287,6 +287,10 @@ Earlier visual styles explored during the development of this library. They have
       <td width="84%"><img src="cards/funny/other/clause-08-operation-mission-control.png" alt="Funny Clause 8 operation mission control infographic" width="100%"></td>
     </tr>
     <tr>
+      <td width="16%">Clause 8: Operation</td>
+      <td width="84%"><img src="cards/funny/other/clause-08-operation.png" alt="Funny Clause 8 operation infographic" width="100%"></td>
+    </tr>
+    <tr>
       <td width="16%">Annex A - A5: Assessing Impact of AI Systems</td>
       <td width="84%"><img src="cards/funny/other/A5-assessing-impact-of-ai-systems.png" alt="Funny Annex A A5 assessing impact of AI systems infographic" width="100%"></td>
     </tr>
