@@ -71,6 +71,16 @@ The assets are deliberately short and visual. They are learning aids, not a repl
 
 ## Card gallery
 
+### Overview
+
+<p>
+  <img src="cards/professional/overview.png" alt="Professional ISO 42001 overview infographic" width="760">
+</p>
+
+<p>
+  <img src="cards/funny/overview.png" alt="Funny ISO 42001 overview infographic" width="760">
+</p>
+
 ### Clause memory cards
 
 The simple funny cards are designed for quick recall. Each card reduces one clause to its core keyword using a strong visual hook.
@@ -95,16 +105,6 @@ These cards are intentionally simple. The goal is not to explain every sub-claus
 | <img src="cards/funny/simple/clause-07-support.png" alt="Funny simple Clause 7 support memory card" width="260"> | <img src="cards/funny/simple/clause-08-operation.png" alt="Funny simple Clause 8 operation memory card" width="260"> | <img src="cards/funny/simple/clause-09-performance-evaluation.png" alt="Funny simple Clause 9 performance evaluation memory card" width="260"> |
 |  | Clause 10 |  |
 |  | <img src="cards/funny/simple/clause-10-improvement.png" alt="Funny simple Clause 10 improvement memory card" width="260"> |  |
-
-### Overview
-
-<p>
-  <img src="cards/professional/overview.png" alt="Professional ISO 42001 overview infographic" width="760">
-</p>
-
-<p>
-  <img src="cards/funny/overview.png" alt="Funny ISO 42001 overview infographic" width="760">
-</p>
 
 ### Clause cards
 
