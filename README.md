@@ -270,6 +270,8 @@ These cards provide individual control-level learning summaries for Annex A. Eac
 
 Earlier visual styles explored during the development of this library. They have since been superseded by the current card designs, but the content remains accurate. Feel free to use any of these if you prefer the format.
 
+<img src="cards/funny/other/iso-42001-manage-ai-like-a-boss.png" alt="Funny ISO 42001 manage AI like a boss infographic" width="100%">
+
 <table>
   <thead>
     <tr>
@@ -280,7 +282,7 @@ Earlier visual styles explored during the development of this library. They have
   <tbody>
     <tr>
       <td width="16%">ISO 42001: Manage Like a Boss</td>
-      <td width="84%"><img src="cards/funny/other/iso-42001-manage-ai-like-a-boss.png" alt="Funny ISO 42001 manage AI like a boss infographic" width="100%"></td>
+      <td width="84%"></td>
     </tr>
     <tr>
       <td width="16%">Clause 8: Operation, Mission Control style</td>
