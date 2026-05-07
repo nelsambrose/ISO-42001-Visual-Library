@@ -43,7 +43,7 @@ This library is useful for:
 
 ## Current coverage
 
-The library currently covers the ISO 42001 overview, Annex A overview and domain cards, and Clauses 4 to 10.
+The library currently covers the ISO 42001 overview, Annex A overview, domain cards, control cards, and Clauses 4 to 10.
 
 | Topic | Reference | Professional infographic | Funny infographic |
 |---|---|---|---|
@@ -61,6 +61,7 @@ Annex A coverage currently includes:
 - `cards/annex-a/overview/annex-a-overview-professional.png`
 - `cards/annex-a/overview/annex-a-overview-funny.png`
 - Domain cards for governance, organisation, operation, and relationships under `cards/annex-a/domain/`
+- Control cards for A.2 to A.10 under `cards/annex-a/control/`
 
 ## How to use it
 
@@ -118,6 +119,22 @@ The overview images show how Annex A is grouped. The table below compares the pr
 | Organisation | ![Organisation professional](cards/annex-a/domain/professional/organisation.png) | ![Organisation funny memory card](cards/annex-a/domain/funny/organisation.png) |
 | Operation | ![Operation professional](cards/annex-a/domain/professional/operation.png) | ![Operation funny memory card](cards/annex-a/domain/funny/operation.png) |
 | Relationships | ![Relationships professional](cards/annex-a/domain/professional/relationships.png) | ![Relationships funny memory card](cards/annex-a/domain/funny/relationships.png) |
+
+### Annex A Control Cards
+
+These cards provide individual control-level learning summaries for Annex A. Each control is available in a professional version and a funny version.
+
+| Control | Professional | Funny |
+|---|---|---|
+| A.2 Policies Related to AI | [Professional](cards/annex-a/control/professional/a-02-policies-related-to-ai.png) | [Funny](cards/annex-a/control/funny/a-02-policies-related-to-ai.png) |
+| A.3 Internal Organisation | [Professional](cards/annex-a/control/professional/a-03-internal-organisation.png) | [Funny](cards/annex-a/control/funny/a-03-internal-organisation.png) |
+| A.4 Resources for AI Systems | [Professional](cards/annex-a/control/professional/a-04-resources-for-ai-systems.png) | [Funny](cards/annex-a/control/funny/a-04-resources-for-ai-systems.png) |
+| A.5 Assessing Impacts of AI Systems | [Professional](cards/annex-a/control/professional/a-05-assessing-impacts-of-ai-systems.png) | [Funny](cards/annex-a/control/funny/a-05-assessing-impacts-of-ai-systems.png) |
+| A.6 AI System Life Cycle | [Professional](cards/annex-a/control/professional/a-06-ai-system-life-cycle.png) | [Funny](cards/annex-a/control/funny/a-06-ai-system-life-cycle.png) |
+| A.7 Data for AI Systems | [Professional](cards/annex-a/control/professional/a-07-data-for-ai-systems.png) | [Funny](cards/annex-a/control/funny/a-07-data-for-ai-systems.png) |
+| A.8 Information for Interested Parties | [Professional](cards/annex-a/control/professional/a-08-information-for-interested-parties.png) | [Funny](cards/annex-a/control/funny/a-08-information-for-interested-parties.png) |
+| A.9 Use of AI Systems | [Professional](cards/annex-a/control/professional/a-09-use-of-ai-systems.png) | [Funny](cards/annex-a/control/funny/a-09-use-of-ai-systems.png) |
+| A.10 Third-party and Customer Relationships | [Professional](cards/annex-a/control/professional/a-10-third-party-and-customer-relationships.png) | [Funny](cards/annex-a/control/funny/a-10-third-party-and-customer-relationships.png) |
 
 ### Clause cards
 
@@ -214,6 +231,9 @@ cards/
   annex-a/
     overview/
     domain/
+      professional/
+      funny/
+    control/
       professional/
       funny/
   reference/
