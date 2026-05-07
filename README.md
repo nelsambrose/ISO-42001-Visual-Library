@@ -275,87 +275,22 @@ Earlier visual styles explored during the development of this library. They have
 <table>
   <tbody>
     <tr>
-      <td width="33%"><img src="cards/funny/other/clause-08-operation-mission-control.png" alt="Funny Clause 8 operation mission control infographic" width="100%"></td>
-      <td width="33%"><img src="cards/funny/other/clause-08-operation.png" alt="Funny Clause 8 operation infographic" width="100%"></td>
-      <td width="33%"><img src="cards/funny/other/A5-assessing-impact-of-ai-systems.png" alt="Funny Annex A A5 assessing impact of AI systems infographic" width="100%"></td>
+      <td width="25%"><img src="cards/funny/other/clause-08-operation-mission-control.png" alt="Funny Clause 8 operation mission control infographic" width="100%"></td>
+      <td width="25%"><img src="cards/funny/other/clause-08-operation.png" alt="Funny Clause 8 operation infographic" width="100%"></td>
+      <td width="25%"><img src="cards/funny/other/A5-assessing-impact-of-ai-systems.png" alt="Funny Annex A A5 assessing impact of AI systems infographic" width="100%"></td>
+      <td width="25%"><img src="cards/funny/other/annex-a-domain-operation.png" alt="Funny Annex A domain Operation infographic" width="100%"></td>
     </tr>
     <tr>
-      <td width="33%"><img src="cards/funny/other/annex-a-domain-operation.png" alt="Funny Annex A domain Operation infographic" width="100%"></td>
-      <td width="33%"><img src="cards/funny/other/clause-05-leadership.png" alt="Funny Clause 5 leadership infographic" width="100%"></td>
-      <td width="33%"><img src="cards/funny/other/clause-07-support.png" alt="Funny Clause 7 support infographic" width="100%"></td>
+      <td width="25%"><img src="cards/funny/other/clause-05-leadership.png" alt="Funny Clause 5 leadership infographic" width="100%"></td>
+      <td width="25%"><img src="cards/funny/other/clause-07-support.png" alt="Funny Clause 7 support infographic" width="100%"></td>
+      <td width="25%"><img src="cards/funny/other/clause-09-performance-evaluation-1.png" alt="Funny Clause 9 performance evaluation variant 1" width="100%"></td>
+      <td width="25%"><img src="cards/funny/other/clause-09-performance-evaluation-2.png" alt="Funny Clause 9 performance evaluation variant 2" width="100%"></td>
     </tr>
     <tr>
-      <td width="33%"><img src="cards/funny/other/clause-09-performance-evaluation-1.png" alt="Funny Clause 9 performance evaluation variant 1" width="100%"></td>
-      <td width="33%"><img src="cards/funny/other/clause-09-performance-evaluation-2.png" alt="Funny Clause 9 performance evaluation variant 2" width="100%"></td>
-      <td width="33%"><img src="cards/funny/other/clause-09-performance-evaluation-3.png" alt="Funny Clause 9 performance evaluation variant 3" width="100%"></td>
-    </tr>
-    <tr>
-      <td width="33%"><img src="cards/funny/other/clause-10-improvement.png" alt="Funny Clause 10 improvement infographic" width="100%"></td>
-      <td width="33%"><img src="cards/professional/other/a-10-third-party-and-customer-relationships.png" alt="Professional Annex A A.10 third-party and customer relationships infographic" width="100%"></td>
-      <td width="33%"><img src="cards/professional/other/clause-09-performance-evaluation.png" alt="Professional Clause 9 performance evaluation infographic" width="100%"></td>
-    </tr>
-  </tbody>
-</table>
-
-<table>
-  <thead>
-    <tr>
-      <th width="16%">Topic</th>
-      <th width="84%">Variant</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td width="16%">ISO 42001: Manage Like a Boss</td>
-      <td width="84%"></td>
-    </tr>
-    <tr>
-      <td width="16%">Clause 8: Operation, Mission Control style</td>
-      <td width="84%"></td>
-    </tr>
-    <tr>
-      <td width="16%">Clause 8: Operation</td>
-      <td width="84%"></td>
-    </tr>
-    <tr>
-      <td width="16%">Annex A - A5: Assessing Impact of AI Systems</td>
-      <td width="84%"></td>
-    </tr>
-    <tr>
-      <td width="16%">Annex A Domain: Operation</td>
-      <td width="84%"></td>
-    </tr>
-    <tr>
-      <td width="16%">Clause 5: Leadership</td>
-      <td width="84%"></td>
-    </tr>
-    <tr>
-      <td width="16%">Clause 7: Support</td>
-      <td width="84%"></td>
-    </tr>
-    <tr>
-      <td width="16%">Clause 9: Performance Evaluation (variant 1)</td>
-      <td width="84%"></td>
-    </tr>
-    <tr>
-      <td width="16%">Clause 9: Performance Evaluation (variant 2)</td>
-      <td width="84%"></td>
-    </tr>
-    <tr>
-      <td width="16%">Clause 9: Performance Evaluation (variant 3)</td>
-      <td width="84%"></td>
-    </tr>
-    <tr>
-      <td width="16%">Clause 10: Improvement</td>
-      <td width="84%"></td>
-    </tr>
-    <tr>
-      <td width="16%">Annex A - A.10: Third-party and Customer Relationships</td>
-      <td width="84%"></td>
-    </tr>
-    <tr>
-      <td width="16%">Clause 9: Performance Evaluation (professional)</td>
-      <td width="84%"></td>
+      <td width="25%"><img src="cards/funny/other/clause-09-performance-evaluation-3.png" alt="Funny Clause 9 performance evaluation variant 3" width="100%"></td>
+      <td width="25%"><img src="cards/funny/other/clause-10-improvement.png" alt="Funny Clause 10 improvement infographic" width="100%"></td>
+      <td width="25%"><img src="cards/professional/other/a-10-third-party-and-customer-relationships.png" alt="Professional Annex A A.10 third-party and customer relationships infographic" width="100%"></td>
+      <td width="25%"><img src="cards/professional/other/clause-09-performance-evaluation.png" alt="Professional Clause 9 performance evaluation infographic" width="100%"></td>
     </tr>
   </tbody>
 </table>
