@@ -2,7 +2,7 @@
 
 A visual learning library for ISO/IEC 42001:2023 - the international standard for AI Management Systems.
 
-> Status: Work in progress. Current coverage includes the ISO 42001 overview, Annex A overview and domain cards, and Clauses 4 to 10.
+> Status: Work in progress. Current coverage includes the ISO 42001 overview, Annex A overview, domain cards, control cards, and Clauses 4 to 10.
 
 ## What this repository is
 
@@ -196,7 +196,7 @@ These cards provide individual control-level learning summaries for Annex A. Eac
 
 Planned additions:
 
-- Annex A control-level cards
+- Additional Annex A supporting material
 - AI principles
 - Certification preparation
 - People impact
@@ -249,6 +249,8 @@ cards/
 Use the same topic filename across folders where applicable. For example, an `ai-risk` topic should use `cards/reference/ai-risk.md`, `cards/funny/ai-risk.png`, and `cards/professional/ai-risk.png`.
 
 For Annex A domain cards, use the same basename across `cards/annex-a/domain/professional/` and `cards/annex-a/domain/funny/`. For example, `governance.png` should exist in both folders.
+
+For Annex A control cards, use the same basename across `cards/annex-a/control/professional/` and `cards/annex-a/control/funny/`. For example, `a-02-policies-related-to-ai.png` should exist in both folders.
 
 ## Contributor context
 
