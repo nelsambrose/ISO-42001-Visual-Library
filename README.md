@@ -185,6 +185,9 @@ Annex A is the operational core of ISO 42001. It contains 38 controls across nin
 
 The overview images show how Annex A is grouped. The table below compares the professional and funny versions of each Annex A domain card.
 
+> [!TIP]
+> Click any card to open a full-size view. This is the easiest way to read the detail.
+
 <table>
   <thead>
     <tr>
