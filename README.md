@@ -209,48 +209,48 @@ These cards provide individual control-level learning summaries for Annex A. Eac
   <tbody>
     <tr>
       <td width="16%">A.2 Policies Related to AI</td>
-      <td width="42%"><img src="cards/annex-a/control/professional/a-02-policies-related-to-ai.png" alt="Professional Annex A.2 policies related to AI card" width="280"></td>
-      <td width="42%"><img src="cards/annex-a/control/funny/a-02-policies-related-to-ai.png" alt="Funny Annex A.2 policies related to AI card" width="280"></td>
+      <td width="42%"><img src="cards/annex-a/control/professional/a-02-policies-related-to-ai.png" alt="Professional Annex A.2 policies related to AI card" width="100%"></td>
+      <td width="42%"><img src="cards/annex-a/control/funny/a-02-policies-related-to-ai.png" alt="Funny Annex A.2 policies related to AI card" width="100%"></td>
     </tr>
     <tr>
       <td width="16%">A.3 Internal Organisation</td>
-      <td width="42%"><img src="cards/annex-a/control/professional/a-03-internal-organisation.png" alt="Professional Annex A.3 internal organisation card" width="280"></td>
-      <td width="42%"><img src="cards/annex-a/control/funny/a-03-internal-organisation.png" alt="Funny Annex A.3 internal organisation card" width="280"></td>
+      <td width="42%"><img src="cards/annex-a/control/professional/a-03-internal-organisation.png" alt="Professional Annex A.3 internal organisation card" width="100%"></td>
+      <td width="42%"><img src="cards/annex-a/control/funny/a-03-internal-organisation.png" alt="Funny Annex A.3 internal organisation card" width="100%"></td>
     </tr>
     <tr>
       <td width="16%">A.4 Resources for AI Systems</td>
-      <td width="42%"><img src="cards/annex-a/control/professional/a-04-resources-for-ai-systems.png" alt="Professional Annex A.4 resources for AI systems card" width="280"></td>
-      <td width="42%"><img src="cards/annex-a/control/funny/a-04-resources-for-ai-systems.png" alt="Funny Annex A.4 resources for AI systems card" width="280"></td>
+      <td width="42%"><img src="cards/annex-a/control/professional/a-04-resources-for-ai-systems.png" alt="Professional Annex A.4 resources for AI systems card" width="100%"></td>
+      <td width="42%"><img src="cards/annex-a/control/funny/a-04-resources-for-ai-systems.png" alt="Funny Annex A.4 resources for AI systems card" width="100%"></td>
     </tr>
     <tr>
       <td width="16%">A.5 Assessing Impacts of AI Systems</td>
-      <td width="42%"><img src="cards/annex-a/control/professional/a-05-assessing-impacts-of-ai-systems.png" alt="Professional Annex A.5 assessing impacts of AI systems card" width="280"></td>
-      <td width="42%"><img src="cards/annex-a/control/funny/a-05-assessing-impacts-of-ai-systems.png" alt="Funny Annex A.5 assessing impacts of AI systems card" width="280"></td>
+      <td width="42%"><img src="cards/annex-a/control/professional/a-05-assessing-impacts-of-ai-systems.png" alt="Professional Annex A.5 assessing impacts of AI systems card" width="100%"></td>
+      <td width="42%"><img src="cards/annex-a/control/funny/a-05-assessing-impacts-of-ai-systems.png" alt="Funny Annex A.5 assessing impacts of AI systems card" width="100%"></td>
     </tr>
     <tr>
       <td width="16%">A.6 AI System Life Cycle</td>
-      <td width="42%"><img src="cards/annex-a/control/professional/a-06-ai-system-life-cycle.png" alt="Professional Annex A.6 AI system life cycle card" width="280"></td>
-      <td width="42%"><img src="cards/annex-a/control/funny/a-06-ai-system-life-cycle.png" alt="Funny Annex A.6 AI system life cycle card" width="280"></td>
+      <td width="42%"><img src="cards/annex-a/control/professional/a-06-ai-system-life-cycle.png" alt="Professional Annex A.6 AI system life cycle card" width="100%"></td>
+      <td width="42%"><img src="cards/annex-a/control/funny/a-06-ai-system-life-cycle.png" alt="Funny Annex A.6 AI system life cycle card" width="100%"></td>
     </tr>
     <tr>
       <td width="16%">A.7 Data for AI Systems</td>
-      <td width="42%"><img src="cards/annex-a/control/professional/a-07-data-for-ai-systems.png" alt="Professional Annex A.7 data for AI systems card" width="280"></td>
-      <td width="42%"><img src="cards/annex-a/control/funny/a-07-data-for-ai-systems.png" alt="Funny Annex A.7 data for AI systems card" width="280"></td>
+      <td width="42%"><img src="cards/annex-a/control/professional/a-07-data-for-ai-systems.png" alt="Professional Annex A.7 data for AI systems card" width="100%"></td>
+      <td width="42%"><img src="cards/annex-a/control/funny/a-07-data-for-ai-systems.png" alt="Funny Annex A.7 data for AI systems card" width="100%"></td>
     </tr>
     <tr>
       <td width="16%">A.8 Information for Interested Parties</td>
-      <td width="42%"><img src="cards/annex-a/control/professional/a-08-information-for-interested-parties.png" alt="Professional Annex A.8 information for interested parties card" width="280"></td>
-      <td width="42%"><img src="cards/annex-a/control/funny/a-08-information-for-interested-parties.png" alt="Funny Annex A.8 information for interested parties card" width="280"></td>
+      <td width="42%"><img src="cards/annex-a/control/professional/a-08-information-for-interested-parties.png" alt="Professional Annex A.8 information for interested parties card" width="100%"></td>
+      <td width="42%"><img src="cards/annex-a/control/funny/a-08-information-for-interested-parties.png" alt="Funny Annex A.8 information for interested parties card" width="100%"></td>
     </tr>
     <tr>
       <td width="16%">A.9 Use of AI Systems</td>
-      <td width="42%"><img src="cards/annex-a/control/professional/a-09-use-of-ai-systems.png" alt="Professional Annex A.9 use of AI systems card" width="280"></td>
-      <td width="42%"><img src="cards/annex-a/control/funny/a-09-use-of-ai-systems.png" alt="Funny Annex A.9 use of AI systems card" width="280"></td>
+      <td width="42%"><img src="cards/annex-a/control/professional/a-09-use-of-ai-systems.png" alt="Professional Annex A.9 use of AI systems card" width="100%"></td>
+      <td width="42%"><img src="cards/annex-a/control/funny/a-09-use-of-ai-systems.png" alt="Funny Annex A.9 use of AI systems card" width="100%"></td>
     </tr>
     <tr>
       <td width="16%">A.10 Third-party and Customer Relationships</td>
-      <td width="42%"><img src="cards/annex-a/control/professional/a-10-third-party-and-customer-relationships.png" alt="Professional Annex A.10 third-party and customer relationships card" width="280"></td>
-      <td width="42%"><img src="cards/annex-a/control/funny/a-10-third-party-and-customer-relationships.png" alt="Funny Annex A.10 third-party and customer relationships card" width="280"></td>
+      <td width="42%"><img src="cards/annex-a/control/professional/a-10-third-party-and-customer-relationships.png" alt="Professional Annex A.10 third-party and customer relationships card" width="100%"></td>
+      <td width="42%"><img src="cards/annex-a/control/funny/a-10-third-party-and-customer-relationships.png" alt="Funny Annex A.10 third-party and customer relationships card" width="100%"></td>
     </tr>
   </tbody>
 </table>
