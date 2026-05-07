@@ -322,6 +322,10 @@ Earlier visual styles explored during the development of this library. They have
       <td width="16%">Clause 10: Improvement</td>
       <td width="84%"><img src="cards/funny/other/clause-10-improvement.png" alt="Funny Clause 10 improvement infographic" width="100%"></td>
     </tr>
+    <tr>
+      <td width="16%">Annex A - A.10: Third-party and Customer Relationships</td>
+      <td width="84%"><img src="cards/professional/other/a-10-third-party-and-customer-relationships.png" alt="Professional Annex A A.10 third-party and customer relationships infographic" width="100%"></td>
+    </tr>
   </tbody>
 </table>
 
