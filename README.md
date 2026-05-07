@@ -106,6 +106,55 @@ These cards are intentionally simple. The goal is not to explain every sub-claus
   <img src="cards/funny/overview.png" alt="Funny ISO 42001 overview infographic" width="760">
 </p>
 
+### Clause cards
+
+<table>
+  <thead>
+    <tr>
+      <th width="16%">Topic</th>
+      <th width="42%">Professional</th>
+      <th width="42%">Funny</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="16%"><strong>Clause 4</strong><br>Context of the Organisation</td>
+      <td width="42%"><img src="cards/professional/clause-04-context-of-the-organisation.png" alt="Professional Clause 4 context of the organisation infographic" width="340"></td>
+      <td width="42%"><img src="cards/funny/clause-04-context-of-the-organisation.png" alt="Funny Clause 4 context of the organisation infographic" width="340"></td>
+    </tr>
+    <tr>
+      <td width="16%"><strong>Clause 5</strong><br>Leadership</td>
+      <td width="42%"><img src="cards/professional/clause-05-leadership.png" alt="Professional Clause 5 leadership infographic" width="340"></td>
+      <td width="42%"><img src="cards/funny/clause-05-leadership.png" alt="Funny Clause 5 leadership infographic" width="340"></td>
+    </tr>
+    <tr>
+      <td width="16%"><strong>Clause 6</strong><br>Planning</td>
+      <td width="42%"><img src="cards/professional/clause-06-planning.png" alt="Professional Clause 6 planning infographic" width="340"></td>
+      <td width="42%"><img src="cards/funny/clause-06-planning.png" alt="Funny Clause 6 planning infographic" width="340"></td>
+    </tr>
+    <tr>
+      <td width="16%"><strong>Clause 7</strong><br>Support</td>
+      <td width="42%"><img src="cards/professional/clause-07-support.png" alt="Professional Clause 7 support infographic" width="340"></td>
+      <td width="42%"><img src="cards/funny/clause-07-support.png" alt="Funny Clause 7 support infographic" width="340"></td>
+    </tr>
+    <tr>
+      <td width="16%"><strong>Clause 8</strong><br>Operation</td>
+      <td width="42%"><img src="cards/professional/clause-08-operation.png" alt="Professional Clause 8 operation infographic" width="340"></td>
+      <td width="42%"><img src="cards/funny/clause-08-operation.png" alt="Funny Clause 8 operation infographic" width="340"></td>
+    </tr>
+    <tr>
+      <td width="16%"><strong>Clause 9</strong><br>Performance Evaluation</td>
+      <td width="42%"><img src="cards/professional/clause-09-performance-evaluation.png" alt="Professional Clause 9 performance evaluation infographic" width="340"></td>
+      <td width="42%"><img src="cards/funny/clause-09-performance-evaluation.png" alt="Funny Clause 9 performance evaluation infographic" width="340"></td>
+    </tr>
+    <tr>
+      <td width="16%"><strong>Clause 10</strong><br>Improvement</td>
+      <td width="42%"><img src="cards/professional/clause-10-improvement.png" alt="Professional Clause 10 improvement infographic" width="340"></td>
+      <td width="42%"><img src="cards/funny/clause-10-improvement.png" alt="Funny Clause 10 improvement infographic" width="340"></td>
+    </tr>
+  </tbody>
+</table>
+
 ### Annex A domain cards
 
 ![Annex A overview professional](cards/annex-a/overview/annex-a-overview-professional.png)
@@ -202,55 +251,6 @@ These cards provide individual control-level learning summaries for Annex A. Eac
       <td width="16%">A.10 Third-party and Customer Relationships</td>
       <td width="42%"><img src="cards/annex-a/control/professional/a-10-third-party-and-customer-relationships.png" alt="Professional Annex A.10 third-party and customer relationships card" width="280"></td>
       <td width="42%"><img src="cards/annex-a/control/funny/a-10-third-party-and-customer-relationships.png" alt="Funny Annex A.10 third-party and customer relationships card" width="280"></td>
-    </tr>
-  </tbody>
-</table>
-
-### Clause cards
-
-<table>
-  <thead>
-    <tr>
-      <th width="16%">Topic</th>
-      <th width="42%">Professional</th>
-      <th width="42%">Funny</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td width="16%"><strong>Clause 4</strong><br>Context of the Organisation</td>
-      <td width="42%"><img src="cards/professional/clause-04-context-of-the-organisation.png" alt="Professional Clause 4 context of the organisation infographic" width="340"></td>
-      <td width="42%"><img src="cards/funny/clause-04-context-of-the-organisation.png" alt="Funny Clause 4 context of the organisation infographic" width="340"></td>
-    </tr>
-    <tr>
-      <td width="16%"><strong>Clause 5</strong><br>Leadership</td>
-      <td width="42%"><img src="cards/professional/clause-05-leadership.png" alt="Professional Clause 5 leadership infographic" width="340"></td>
-      <td width="42%"><img src="cards/funny/clause-05-leadership.png" alt="Funny Clause 5 leadership infographic" width="340"></td>
-    </tr>
-    <tr>
-      <td width="16%"><strong>Clause 6</strong><br>Planning</td>
-      <td width="42%"><img src="cards/professional/clause-06-planning.png" alt="Professional Clause 6 planning infographic" width="340"></td>
-      <td width="42%"><img src="cards/funny/clause-06-planning.png" alt="Funny Clause 6 planning infographic" width="340"></td>
-    </tr>
-    <tr>
-      <td width="16%"><strong>Clause 7</strong><br>Support</td>
-      <td width="42%"><img src="cards/professional/clause-07-support.png" alt="Professional Clause 7 support infographic" width="340"></td>
-      <td width="42%"><img src="cards/funny/clause-07-support.png" alt="Funny Clause 7 support infographic" width="340"></td>
-    </tr>
-    <tr>
-      <td width="16%"><strong>Clause 8</strong><br>Operation</td>
-      <td width="42%"><img src="cards/professional/clause-08-operation.png" alt="Professional Clause 8 operation infographic" width="340"></td>
-      <td width="42%"><img src="cards/funny/clause-08-operation.png" alt="Funny Clause 8 operation infographic" width="340"></td>
-    </tr>
-    <tr>
-      <td width="16%"><strong>Clause 9</strong><br>Performance Evaluation</td>
-      <td width="42%"><img src="cards/professional/clause-09-performance-evaluation.png" alt="Professional Clause 9 performance evaluation infographic" width="340"></td>
-      <td width="42%"><img src="cards/funny/clause-09-performance-evaluation.png" alt="Funny Clause 9 performance evaluation infographic" width="340"></td>
-    </tr>
-    <tr>
-      <td width="16%"><strong>Clause 10</strong><br>Improvement</td>
-      <td width="42%"><img src="cards/professional/clause-10-improvement.png" alt="Professional Clause 10 improvement infographic" width="340"></td>
-      <td width="42%"><img src="cards/funny/clause-10-improvement.png" alt="Funny Clause 10 improvement infographic" width="340"></td>
     </tr>
   </tbody>
 </table>
