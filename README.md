@@ -263,7 +263,7 @@ These cards provide individual control-level learning summaries for Annex A. Eac
     <tr>
       <td width="16%">A.5 Assessing Impacts of AI Systems</td>
       <td width="42%"><img src="cards/annex-a/control/professional/a-05-assessing-impacts-of-ai-systems.png" alt="ISO/IEC 42001 Annex A professional control card about assessing impacts of AI systems" width="100%"></td>
-      <td width="42%"><img src="cards/annex-a/control/funny/a-05-assessing-impacts-of-ai-systems.png" alt="Funny Annex A.5 assessing impacts of AI systems card" width="100%"></td>
+      <td width="42%"><img src="cards/annex-a/control/funny/a-05-assessing-impacts-of-ai-systems.png" alt="ISO/IEC 42001 Annex A funny control card about assessing impacts of AI systems" width="100%"></td>
     </tr>
     <tr>
       <td width="16%">A.6 AI System Life Cycle</td>
