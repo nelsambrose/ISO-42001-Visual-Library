@@ -71,7 +71,7 @@ Audit Readiness coverage currently includes:
 | Audit-02 Evidence vs Good Intentions | [Reference](cards/audit/reference/audit-02-evidence-vs-good-intentions.md) | [Professional](cards/audit/professional/audit-02-evidence-vs-good-intentions.png) | [Funny](cards/audit/funny/audit-02-evidence-vs-good-intentions.png) |
 | Audit-03 Strong Versus Weak Evidence Examples | [Reference](cards/audit/reference/audit-03-strong-versus-weak-evidence-examples.md) | [Professional](cards/audit/professional/audit-03-strong-versus-weak-evidence-examples.png) | [Funny](cards/audit/funny/audit-03-strong-versus-weak-evidence-examples.png) |
 | Audit-04 Common Audit Failure Modes Across Annex A | [Reference](cards/audit/reference/audit-04-common-audit-failure-modes-across-annex-a.md) | [Professional](cards/audit/professional/audit-04-common-audit-failure-modes-across-annex-a.png) | [Funny](cards/audit/funny/audit-04-common-audit-failure-modes-across-annex-a.png) |
-| Audit-05 How to Talk About Controls Confidently | [Reference](cards/audit/reference/audit-05-how-to-talk-about-controls-confidently.md) | [Professional](cards/audit/professional/audit-05-how-to-talk-about-controls-confidently.png) | Planned |
+| Audit-05 How to Talk About Controls Confidently | [Reference](cards/audit/reference/audit-05-how-to-talk-about-controls-confidently.md) | [Professional](cards/audit/professional/audit-05-how-to-talk-about-controls-confidently.png) | [Funny](cards/audit/funny/audit-05-how-to-talk-about-controls-confidently.png) |
 
 ## How to use it
 
@@ -295,7 +295,7 @@ These cards provide individual control-level learning summaries for Annex A. Eac
 
 ### Audit Readiness Cards
 
-The Audit Readiness Cards help translate ISO/IEC 42001 governance into audit-ready evidence and conversations. They explain what auditors look for, why evidence matters more than intention, how to recognise strong and weak evidence, common failure patterns across Annex A, and how to talk about controls confidently. Reference files act as the canonical content source for each card. Professional visual cards are available now; funny visual cards are planned.
+The Audit Readiness Cards help translate ISO/IEC 42001 governance into audit-ready evidence and conversations. They explain what auditors look for, why evidence matters more than intention, how to recognise strong and weak evidence, common failure patterns across Annex A, and how to talk about controls confidently. Reference files act as the canonical content source for each card. Professional and funny visual cards are available.
 
 <table>
   <thead>
@@ -329,7 +329,7 @@ The Audit Readiness Cards help translate ISO/IEC 42001 governance into audit-rea
     <tr>
       <td width="16%"><strong>Audit-05</strong><br><a href="cards/audit/reference/audit-05-how-to-talk-about-controls-confidently.md">How to Talk About Controls Confidently</a></td>
       <td width="42%"><img src="cards/audit/professional/audit-05-how-to-talk-about-controls-confidently.png" alt="Professional Audit-05 how to talk about controls confidently card" width="100%"></td>
-      <td width="42%"></td>
+      <td width="42%"><img src="cards/audit/funny/audit-05-how-to-talk-about-controls-confidently.png" alt="Funny Audit-05 how to talk about controls confidently card" width="100%"></td>
     </tr>
   </tbody>
 </table>
@@ -370,7 +370,7 @@ Earlier visual styles explored during the development of this library. They have
 
 In progress:
 
-- **Audit Readiness mini-deck** — reference files added (`cards/audit/reference/`). Professional and funny visual cards are planned but not yet produced.
+- **Audit Readiness mini-deck** — reference files, professional cards, and funny cards are all available under `cards/audit/`.
 
 Planned additions:
 
