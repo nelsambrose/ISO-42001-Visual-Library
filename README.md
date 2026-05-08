@@ -138,7 +138,7 @@ Clauses 4–10 are the mandatory requirements of ISO 42001 — the core of the s
     </tr>
     <tr>
       <td width="16%"><strong>Clause 5</strong><br>Leadership</td>
-      <td width="42%"><img src="cards/professional/clause-05-leadership.png" alt="Professional Clause 5 leadership infographic" width="340"></td>
+      <td width="42%"><img src="cards/professional/clause-05-leadership.png" alt="ISO/IEC 42001 professional card about leadership" width="340"></td>
       <td width="42%"><img src="cards/funny/clause-05-leadership.png" alt="Funny Clause 5 leadership infographic" width="340"></td>
     </tr>
     <tr>
