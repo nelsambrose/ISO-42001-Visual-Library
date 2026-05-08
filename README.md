@@ -432,6 +432,12 @@ For Annex A domain cards, use the same basename across `cards/annex-a/domain/pro
 
 For Annex A control cards, use the same basename across `cards/annex-a/control/professional/` and `cards/annex-a/control/funny/`. For example, `a-02-policies-related-to-ai.png` should exist in both folders.
 
+## About the Author
+
+A personal visual overview of the author's AI governance focus and role in building the library.
+
+[Author Overview](cards/about/author-overview.png)
+
 ## Contributor context
 
 See [CONTEXT.md](CONTEXT.md) for project guidance, file naming conventions, content accuracy rules, and the intended library structure.
