@@ -273,7 +273,7 @@ These cards provide individual control-level learning summaries for Annex A. Eac
     <tr>
       <td width="16%">A.7 Data for AI Systems</td>
       <td width="42%"><img src="cards/annex-a/control/professional/a-07-data-for-ai-systems.png" alt="ISO/IEC 42001 Annex A professional control card about data for AI systems" width="100%"></td>
-      <td width="42%"><img src="cards/annex-a/control/funny/a-07-data-for-ai-systems.png" alt="Funny Annex A.7 data for AI systems card" width="100%"></td>
+      <td width="42%"><img src="cards/annex-a/control/funny/a-07-data-for-ai-systems.png" alt="ISO/IEC 42001 Annex A funny control card about data for AI systems" width="100%"></td>
     </tr>
     <tr>
       <td width="16%">A.8 Information for Interested Parties</td>
