@@ -268,7 +268,7 @@ These cards provide individual control-level learning summaries for Annex A. Eac
     <tr>
       <td width="16%">A.6 AI System Life Cycle</td>
       <td width="42%"><img src="cards/annex-a/control/professional/a-06-ai-system-life-cycle.png" alt="ISO/IEC 42001 Annex A professional control card about AI system life cycle" width="100%"></td>
-      <td width="42%"><img src="cards/annex-a/control/funny/a-06-ai-system-life-cycle.png" alt="Funny Annex A.6 AI system life cycle card" width="100%"></td>
+      <td width="42%"><img src="cards/annex-a/control/funny/a-06-ai-system-life-cycle.png" alt="ISO/IEC 42001 Annex A funny control card about AI system life cycle" width="100%"></td>
     </tr>
     <tr>
       <td width="16%">A.7 Data for AI Systems</td>
