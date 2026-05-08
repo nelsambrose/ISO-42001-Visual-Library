@@ -114,7 +114,7 @@ These cards are intentionally simple. The goal is not to explain every sub-claus
 |---|---|---|
 | <img src="cards/funny/simple/clause-04-context-of-the-organisation.png" alt="ISO/IEC 42001 simple funny card about context of the organisation" width="260"> | <img src="cards/funny/simple/clause-05-leadership.png" alt="ISO/IEC 42001 simple funny card about leadership" width="260"> | <img src="cards/funny/simple/clause-06-planning.png" alt="ISO/IEC 42001 simple funny card about planning" width="260"> |
 | Clause 7 | Clause 8 | Clause 9 |
-| <img src="cards/funny/simple/clause-07-support.png" alt="Funny simple Clause 7 support memory card" width="260"> | <img src="cards/funny/simple/clause-08-operation.png" alt="Funny simple Clause 8 operation memory card" width="260"> | <img src="cards/funny/simple/clause-09-performance-evaluation.png" alt="Funny simple Clause 9 performance evaluation memory card" width="260"> |
+| <img src="cards/funny/simple/clause-07-support.png" alt="ISO/IEC 42001 simple funny card about support" width="260"> | <img src="cards/funny/simple/clause-08-operation.png" alt="Funny simple Clause 8 operation memory card" width="260"> | <img src="cards/funny/simple/clause-09-performance-evaluation.png" alt="Funny simple Clause 9 performance evaluation memory card" width="260"> |
 |  | Clause 10 |  |
 |  | <img src="cards/funny/simple/clause-10-improvement.png" alt="Funny simple Clause 10 improvement memory card" width="260"> |  |
 
