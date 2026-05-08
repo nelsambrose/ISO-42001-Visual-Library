@@ -338,7 +338,7 @@ The Audit Readiness Cards help translate ISO/IEC 42001 governance into audit-rea
 
 Earlier visual styles explored during the development of this library. They have since been superseded by the current card designs, but the content remains accurate. Feel free to use any of these if you prefer the format.
 
-<img src="cards/archive/iso-42001-manage-ai-like-a-boss.png" alt="Funny ISO 42001 manage AI like a boss infographic" width="100%">
+<img src="cards/archive/iso-42001-manage-ai-like-a-boss.png" alt="ISO/IEC 42001 funny archive card about managing AI like a boss" width="100%">
 
 > [!TIP]
 > Click any card to open a full-size view. This is the easiest way to read the detail.
