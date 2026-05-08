@@ -323,8 +323,8 @@ The Audit Readiness Cards help translate ISO/IEC 42001 governance into audit-rea
     </tr>
     <tr>
       <td width="16%"><strong>Audit-04</strong><br><a href="cards/audit/reference/audit-04-common-audit-failure-modes-across-annex-a.md">Common Audit Failure Modes Across Annex A</a></td>
-      <td width="42%"><img src="cards/audit/professional/audit-04-common-audit-failure-modes-across-annex-a.png" alt="Professional Audit-04 common audit failure modes across Annex A card" width="100%"></td>
-      <td width="42%"><img src="cards/audit/funny/audit-04-common-audit-failure-modes-across-annex-a.png" alt="Funny Audit-04 common audit failure modes across Annex A card" width="100%"></td>
+      <td width="42%"><img src="cards/audit/professional/audit-04-common-audit-failure-modes-across-annex-a.png" alt="ISO/IEC 42001 professional audit card about common audit failure modes across Annex A" width="100%"></td>
+      <td width="42%"><img src="cards/audit/funny/audit-04-common-audit-failure-modes-across-annex-a.png" alt="ISO/IEC 42001 funny audit card about common audit failure modes across Annex A" width="100%"></td>
     </tr>
     <tr>
       <td width="16%"><strong>Audit-05</strong><br><a href="cards/audit/reference/audit-05-how-to-talk-about-controls-confidently.md">How to Talk About Controls Confidently</a></td>
