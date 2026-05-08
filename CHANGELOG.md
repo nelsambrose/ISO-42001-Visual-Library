@@ -10,7 +10,26 @@ The format follows [Keep a Changelog](https://keepachangelog.com).
 ## [Unreleased]
 
 Cards in development:
-- Additional reference topics: Annex A controls, AI principles, certification, people impact, ISO 42001 vs ISO 27001, EU AI Act alignment, common failure modes, what an auditor looks for, and AI policy templates
+- Additional reference topics: Annex A controls, AI principles, certification, people impact, ISO 42001 vs ISO 27001, EU AI Act alignment, common failure modes, and AI policy templates
+
+---
+
+## [0.1.5] - 2026-05-08
+
+### Added
+
+- Audit Readiness mini-deck: professional and funny infographic cards for audit-01 through audit-05 in `cards/audit/professional/` and `cards/audit/funny/`.
+- Reference content for all five audit cards in `cards/audit/reference/`.
+- `cards/about/` folder with author overview card moved from `cards/funny/`.
+- `cards/archive/` folder consolidating all prior `other/` folders from `cards/funny/other/` and `cards/professional/other/`, plus three additional variant cards from `cards/other/`.
+
+### Changed
+
+- Renamed three archive variant cards to follow kebab-case naming conventions based on card content (`audit-01-what-an-auditor-actually-looks-for-2.png`, `audit-01-what-an-auditor-actually-looks-for-3.png`, `audit-02-evidence-vs-good-intentions-2.png`).
+- Updated all image alt text in `README.md` to use the `ISO/IEC 42001` format for improved SEO and discoverability, covering overview, clause, Annex A domain, Annex A control, audit, and archive image tables.
+- Updated Audit Readiness coverage table link text from `Reference` to `View Reference`.
+- Added `## About the Author` section to `README.md`.
+- Updated `CONTEXT.md` folder structure and current status to reflect new `cards/audit/`, `cards/about/`, and `cards/archive/` folders.
 
 ---
 
