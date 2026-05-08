@@ -143,7 +143,7 @@ Clauses 4–10 are the mandatory requirements of ISO 42001 — the core of the s
     </tr>
     <tr>
       <td width="16%"><strong>Clause 6</strong><br>Planning</td>
-      <td width="42%"><img src="cards/professional/clause-06-planning.png" alt="Professional Clause 6 planning infographic" width="340"></td>
+      <td width="42%"><img src="cards/professional/clause-06-planning.png" alt="ISO/IEC 42001 professional card about planning" width="340"></td>
       <td width="42%"><img src="cards/funny/clause-06-planning.png" alt="Funny Clause 6 planning infographic" width="340"></td>
     </tr>
     <tr>
