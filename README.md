@@ -2,7 +2,7 @@
 
 A visual learning library for ISO/IEC 42001:2023 - the international standard for AI Management Systems.
 
-> Status: Work in progress. Current coverage includes the ISO 42001 overview, Annex A overview, domain cards, control cards, and Clauses 4 to 10.
+> Status: Work in progress. Current coverage includes the ISO 42001 overview, Annex A overview, domain cards, control cards, Clauses 4 to 10, and the Audit Readiness mini-deck.
 
 ## What this repository is
 
@@ -416,14 +416,14 @@ cards/
     reference/
     professional/
     funny/
+  about/
   reference/
   funny/
     simple/
-    other/
     expanded/
   professional/
     simple/
-  Archive/
+  archive/
 ```
 
 Use the same topic filename across folders where applicable. For example, an `ai-risk` topic should use `cards/reference/ai-risk.md`, `cards/funny/ai-risk.png`, and `cards/professional/ai-risk.png`.
