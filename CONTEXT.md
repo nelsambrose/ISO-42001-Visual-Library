@@ -75,14 +75,18 @@ ISO-42001-Visual-Library/
     │   └── domain/
     │       ├── funny/         (funny Annex A domain cards)
     │       └── professional/  (professional Annex A domain cards)
+    ├── audit/         (Audit Readiness mini-deck)
+    │   ├── reference/    (reference content for audit cards audit-01 to audit-05)
+    │   ├── funny/        (funny audit cards)
+    │   └── professional/ (professional audit cards)
+    ├── about/         (author overview and personal context cards)
     ├── reference/     (neutral source facts and base material)
     ├── funny/         (funny infographic versions)
     │   ├── simple/    (simple memory cards: clause number and keyword recall)
-    │   ├── other/     (additional funny variants)
     │   └── expanded/  (retained optional variants, not on primary learning path)
     ├── professional/  (professional infographic versions)
     │   └── simple/    (simple professional memory-card variants)
-    └── Archive/       (legacy or superseded image assets kept outside the main path)
+    └── archive/       (additional variants and superseded assets kept outside the main path)
 ```
 
 ---
@@ -158,10 +162,11 @@ The library is private while being built out.
 It will be made public once ISO 42001 coverage is 
 considered substantially complete.
 
-The repo currently contains project documentation, the first
-reference catalogue entries, funny and professional
-infographic cards for the overview and Clauses 4 to 10, and
-Annex A overview and domain image sets.
+The repo currently contains project documentation, reference catalogue
+entries, funny and professional infographic cards for the overview and
+Clauses 4 to 10, Annex A overview and domain image sets, an Audit
+Readiness mini-deck (audit-01 to audit-05, professional and funny), an
+author overview card, and archive variants for additional card versions.
 
 The repo is actively maintained and growing. 
 See CHANGELOG.md for current contents and planned additions.
@@ -178,8 +183,8 @@ If you are an AI assistant helping with this project:
   existing format exactly
 - When updating README.md card tables, keep the formatting
   consistent and embed image cards directly when available
-- Keep the documented `cards/annex-a/`, `cards/reference/`,
-  `cards/funny/`, and `cards/professional/` structure unless
-  instructed otherwise
+- Keep the documented `cards/annex-a/`, `cards/audit/`, `cards/about/`,
+  `cards/archive/`, `cards/reference/`, `cards/funny/`, and
+  `cards/professional/` structure unless instructed otherwise
 - The content is ISO 42001 specific: do not introduce 
   content from other frameworks without instruction
