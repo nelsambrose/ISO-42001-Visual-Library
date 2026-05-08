@@ -287,7 +287,7 @@ These cards provide individual control-level learning summaries for Annex A. Eac
     </tr>
     <tr>
       <td width="16%">A.10 Third-party and Customer Relationships</td>
-      <td width="42%"><img src="cards/annex-a/control/professional/a-10-third-party-and-customer-relationships.png" alt="Professional Annex A.10 third-party and customer relationships card" width="100%"></td>
+      <td width="42%"><img src="cards/annex-a/control/professional/a-10-third-party-and-customer-relationships.png" alt="ISO/IEC 42001 Annex A professional control card about third-party and customer relationships" width="100%"></td>
       <td width="42%"><img src="cards/annex-a/control/funny/a-10-third-party-and-customer-relationships.png" alt="Funny Annex A.10 third-party and customer relationships card" width="100%"></td>
     </tr>
   </tbody>
