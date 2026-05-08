@@ -248,7 +248,7 @@ These cards provide individual control-level learning summaries for Annex A. Eac
     <tr>
       <td width="16%">A.2 Policies Related to AI</td>
       <td width="42%"><img src="cards/annex-a/control/professional/a-02-policies-related-to-ai.png" alt="ISO/IEC 42001 Annex A professional control card about policies related to AI" width="100%"></td>
-      <td width="42%"><img src="cards/annex-a/control/funny/a-02-policies-related-to-ai.png" alt="Funny Annex A.2 policies related to AI card" width="100%"></td>
+      <td width="42%"><img src="cards/annex-a/control/funny/a-02-policies-related-to-ai.png" alt="ISO/IEC 42001 Annex A funny control card about policies related to AI" width="100%"></td>
     </tr>
     <tr>
       <td width="16%">A.3 Internal Organisation</td>
