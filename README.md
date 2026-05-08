@@ -63,6 +63,16 @@ Annex A coverage currently includes:
 - Domain cards for governance, organisation, operation, and relationships under `cards/annex-a/domain/`
 - Control cards for A.2 to A.10 under `cards/annex-a/control/`
 
+Audit Readiness coverage currently includes:
+
+| Card | Reference | Professional | Funny |
+|---|---|---|---|
+| Audit-01 What an Auditor Actually Looks For | [Reference](cards/audit/reference/audit-01-what-an-auditor-actually-looks-for.md) | [Professional](cards/audit/professional/audit-01-what-an-auditor-actually-looks-for.png) | Planned |
+| Audit-02 Evidence vs Good Intentions | [Reference](cards/audit/reference/audit-02-evidence-vs-good-intentions.md) | [Professional](cards/audit/professional/audit-02-evidence-vs-good-intentions.png) | Planned |
+| Audit-03 Strong Versus Weak Evidence Examples | [Reference](cards/audit/reference/audit-03-strong-versus-weak-evidence-examples.md) | [Professional](cards/audit/professional/audit-03-strong-versus-weak-evidence-examples.png) | Planned |
+| Audit-04 Common Audit Failure Modes Across Annex A | [Reference](cards/audit/reference/audit-04-common-audit-failure-modes-across-annex-a.md) | [Professional](cards/audit/professional/audit-04-common-audit-failure-modes-across-annex-a.png) | Planned |
+| Audit-05 How to Talk About Controls Confidently | [Reference](cards/audit/reference/audit-05-how-to-talk-about-controls-confidently.md) | [Professional](cards/audit/professional/audit-05-how-to-talk-about-controls-confidently.png) | Planned |
+
 ## How to use it
 
 Start with the reference card when you want the factual explanation of a topic. Use the professional infographic when you need a clean visual for colleagues, leadership or audit preparation. Use the funny infographic when you want the concept to be memorable.
