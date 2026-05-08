@@ -436,7 +436,7 @@ For Annex A control cards, use the same basename across `cards/annex-a/control/p
 
 A personal visual overview of the author's AI governance focus and role in building the library.
 
-[Author Overview](cards/about/author-overview.png)
+<img src="cards/about/author-overview.png" alt="Author overview showing Nelson Ambrose's AI governance focus and role in building the library">
 
 ## Contributor context
 
