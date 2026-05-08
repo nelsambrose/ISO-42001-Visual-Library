@@ -44,11 +44,11 @@ Each file follows a consistent structure:
 
 Use these files to validate content before commissioning or generating visual cards. Do not create images that diverge from the content defined here.
 
-## Future visual outputs
+## Visual outputs
 
-For each reference file, two visual cards are planned:
+For each reference file, two visual cards are available:
 
 - A **professional card** in `cards/audit/professional/` — clear, structured, suitable for workplace and audit preparation use
 - A **funny card** in `cards/audit/funny/` — memorable, visual, suitable for learning and recall
 
-Visual cards do not yet exist. This folder contains reference content only.
+All five professional and funny cards have been produced. This folder contains the reference content that underpins them.

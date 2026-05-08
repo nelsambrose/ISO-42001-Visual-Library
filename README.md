@@ -63,7 +63,7 @@ Annex A coverage currently includes:
 - Domain cards for governance, organisation, operation, and relationships under `cards/annex-a/domain/`
 - Control cards for A.2 to A.10 under `cards/annex-a/control/`
 
-Audit Readiness coverage currently includes:
+Audit Readiness coverage currently includes all five cards with reference files, professional images, and funny images. See the [Audit Readiness reference index](cards/audit/reference/README.md) for an overview of the deck.
 
 | Card | Reference | Professional | Funny |
 |---|---|---|---|
@@ -295,7 +295,7 @@ These cards provide individual control-level learning summaries for Annex A. Eac
 
 ### Audit Readiness Cards
 
-The Audit Readiness Cards help translate ISO/IEC 42001 governance into audit-ready evidence and conversations. They explain what auditors look for, why evidence matters more than intention, how to recognise strong and weak evidence, common failure patterns across Annex A, and how to talk about controls confidently. Reference files act as the canonical content source for each card. Professional and funny visual cards are available.
+The Audit Readiness Cards help translate ISO/IEC 42001 governance into audit-ready evidence and conversations. They explain what auditors look for, why evidence matters more than intention, how to recognise strong and weak evidence, common failure patterns across Annex A, and how to talk about controls confidently. Reference files act as the canonical content source for each card — see the [Audit Readiness reference index](cards/audit/reference/README.md) for an overview of the deck. Professional and funny visual cards are available for all five cards.
 
 <table>
   <thead>
@@ -349,7 +349,7 @@ Earlier visual styles explored during the development of this library. They have
       <td width="25%"><img src="cards/funny/other/clause-08-operation.png" alt="Funny Clause 8 operation infographic" width="100%"></td>
       <td width="25%"><img src="cards/funny/other/clause-10-improvement.png" alt="Funny Clause 10 improvement infographic" width="100%"></td>
       <td width="25%"><img src="cards/funny/other/clause-08-operation-mission-control.png" alt="Funny Clause 8 operation mission control infographic" width="100%"></td>
-      <td width="25%"><img src="cards/funny/other/A5-assessing-impact-of-ai-systems.png" alt="Funny Annex A A5 assessing impact of AI systems infographic" width="100%"></td>
+      <td width="25%"><img src="cards/funny/other/a5-assessing-impact-of-ai-systems.png" alt="Funny Annex A A5 assessing impact of AI systems infographic" width="100%"></td>
     </tr>
     <tr>
       <td width="25%"><img src="cards/funny/other/annex-a-domain-operation.png" alt="Funny Annex A domain Operation infographic" width="100%"></td>
@@ -368,9 +368,9 @@ Earlier visual styles explored during the development of this library. They have
 
 ## Roadmap
 
-In progress:
+Complete:
 
-- **Audit Readiness mini-deck** — reference files, professional cards, and funny cards are all available under `cards/audit/`.
+- **Audit Readiness mini-deck** — all five cards are available with reference files, professional cards, and funny cards under `cards/audit/`.
 
 Planned additions:
 
