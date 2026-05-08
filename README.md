@@ -215,7 +215,7 @@ The overview images show how Annex A is grouped. The table below compares the pr
     <tr>
       <td width="16%">Organisation</td>
       <td width="42%"><img src="cards/annex-a/domain/professional/organisation.png" alt="ISO/IEC 42001 Annex A professional domain card about organisation" width="100%"></td>
-      <td width="42%"><img src="cards/annex-a/domain/funny/organisation.png" alt="Organisation funny memory card" width="100%"></td>
+      <td width="42%"><img src="cards/annex-a/domain/funny/organisation.png" alt="ISO/IEC 42001 Annex A funny domain card about organisation" width="100%"></td>
     </tr>
     <tr>
       <td width="16%">Operation</td>
