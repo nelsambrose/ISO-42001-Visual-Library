@@ -1,5 +1,9 @@
 # ISO-42001-Visual-Library
 
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+![Status](https://img.shields.io/badge/status-work%20in%20progress-orange)
+![Last commit](https://img.shields.io/github/last-commit/nelsambrose/ISO-42001-Visual-Library)
+
 A visual learning library for ISO/IEC 42001:2023 - the international standard for AI Management Systems.
 
 > Status: Work in progress. Current coverage includes the ISO 42001 overview, Annex A overview, domain cards, control cards, Clauses 4 to 10, and the Audit Readiness mini-deck.
