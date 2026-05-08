@@ -90,7 +90,7 @@ The assets are deliberately short and visual. They are learning aids, not a repl
 ---
 
 <p>
-  <img src="cards/funny/overview.png" alt="Funny ISO 42001 overview infographic" width="760">
+  <img src="cards/funny/overview.png" alt="ISO/IEC 42001 funny overview infographic" width="760">
 </p>
 
 ### Clause memory cards
