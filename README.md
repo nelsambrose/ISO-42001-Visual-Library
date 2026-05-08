@@ -187,7 +187,7 @@ Annex A is the operational core of ISO 42001. It contains 38 controls across nin
   </thead>
   <tbody>
     <tr>
-      <td width="50%"><img src="cards/annex-a/overview/annex-a-overview-professional.png" alt="Annex A overview professional" width="100%"></td>
+      <td width="50%"><img src="cards/annex-a/overview/annex-a-overview-professional.png" alt="ISO/IEC 42001 Annex A professional overview infographic" width="100%"></td>
       <td width="50%"><img src="cards/annex-a/overview/annex-a-overview-funny.png" alt="Annex A overview funny" width="100%"></td>
     </tr>
   </tbody>
