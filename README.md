@@ -278,7 +278,7 @@ These cards provide individual control-level learning summaries for Annex A. Eac
     <tr>
       <td width="16%">A.8 Information for Interested Parties</td>
       <td width="42%"><img src="cards/annex-a/control/professional/a-08-information-for-interested-parties.png" alt="ISO/IEC 42001 Annex A professional control card about information for interested parties" width="100%"></td>
-      <td width="42%"><img src="cards/annex-a/control/funny/a-08-information-for-interested-parties.png" alt="Funny Annex A.8 information for interested parties card" width="100%"></td>
+      <td width="42%"><img src="cards/annex-a/control/funny/a-08-information-for-interested-parties.png" alt="ISO/IEC 42001 Annex A funny control card about information for interested parties" width="100%"></td>
     </tr>
     <tr>
       <td width="16%">A.9 Use of AI Systems</td>
