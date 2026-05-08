@@ -372,10 +372,6 @@ Earlier visual styles explored during the development of this library. They have
 
 ## Roadmap
 
-Complete:
-
-- **Audit Readiness mini-deck** — all five cards are available with reference files, professional cards, and funny cards under `cards/audit/`.
-
 Planned additions:
 
 - Additional Annex A supporting material
