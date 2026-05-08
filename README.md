@@ -164,7 +164,7 @@ Clauses 4–10 are the mandatory requirements of ISO 42001 — the core of the s
     <tr>
       <td width="16%"><strong>Clause 10</strong><br>Improvement</td>
       <td width="42%"><img src="cards/professional/clause-10-improvement.png" alt="ISO/IEC 42001 professional card about improvement" width="340"></td>
-      <td width="42%"><img src="cards/funny/clause-10-improvement.png" alt="Funny Clause 10 improvement infographic" width="340"></td>
+      <td width="42%"><img src="cards/funny/clause-10-improvement.png" alt="ISO/IEC 42001 funny card about improvement" width="340"></td>
     </tr>
   </tbody>
 </table>
