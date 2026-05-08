@@ -358,7 +358,7 @@ Earlier visual styles explored during the development of this library. They have
       <td width="25%"><img src="cards/archive/clause-07-support.png" alt="ISO/IEC 42001 funny archive card about support" width="100%"></td>
     </tr>
     <tr>
-      <td width="25%"><img src="cards/archive/clause-09-performance-evaluation-1.png" alt="Funny Clause 9 performance evaluation variant 1" width="100%"></td>
+      <td width="25%"><img src="cards/archive/clause-09-performance-evaluation-1.png" alt="ISO/IEC 42001 funny archive card about performance evaluation variant 1" width="100%"></td>
       <td width="25%"><img src="cards/archive/clause-05-leadership.png" alt="Funny Clause 5 leadership infographic" width="100%"></td>
       <td width="25%"><img src="cards/archive/a-10-third-party-and-customer-relationships.png" alt="Professional Annex A A.10 third-party and customer relationships infographic" width="100%"></td>
       <td width="25%"><img src="cards/archive/clause-09-performance-evaluation.png" alt="Professional Clause 9 performance evaluation infographic" width="100%"></td>
