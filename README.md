@@ -69,7 +69,7 @@ Audit Readiness coverage currently includes:
 |---|---|---|---|
 | Audit-01 What an Auditor Actually Looks For | [Reference](cards/audit/reference/audit-01-what-an-auditor-actually-looks-for.md) | [Professional](cards/audit/professional/audit-01-what-an-auditor-actually-looks-for.png) | [Funny](cards/audit/funny/audit-01-what-an-auditor-actually-looks-for.png) |
 | Audit-02 Evidence vs Good Intentions | [Reference](cards/audit/reference/audit-02-evidence-vs-good-intentions.md) | [Professional](cards/audit/professional/audit-02-evidence-vs-good-intentions.png) | [Funny](cards/audit/funny/audit-02-evidence-vs-good-intentions.png) |
-| Audit-03 Strong Versus Weak Evidence Examples | [Reference](cards/audit/reference/audit-03-strong-versus-weak-evidence-examples.md) | [Professional](cards/audit/professional/audit-03-strong-versus-weak-evidence-examples.png) | Planned |
+| Audit-03 Strong Versus Weak Evidence Examples | [Reference](cards/audit/reference/audit-03-strong-versus-weak-evidence-examples.md) | [Professional](cards/audit/professional/audit-03-strong-versus-weak-evidence-examples.png) | [Funny](cards/audit/funny/audit-03-strong-versus-weak-evidence-examples.png) |
 | Audit-04 Common Audit Failure Modes Across Annex A | [Reference](cards/audit/reference/audit-04-common-audit-failure-modes-across-annex-a.md) | [Professional](cards/audit/professional/audit-04-common-audit-failure-modes-across-annex-a.png) | Planned |
 | Audit-05 How to Talk About Controls Confidently | [Reference](cards/audit/reference/audit-05-how-to-talk-about-controls-confidently.md) | [Professional](cards/audit/professional/audit-05-how-to-talk-about-controls-confidently.png) | Planned |
 
@@ -319,7 +319,7 @@ The Audit Readiness Cards help translate ISO/IEC 42001 governance into audit-rea
     <tr>
       <td width="16%"><strong>Audit-03</strong><br><a href="cards/audit/reference/audit-03-strong-versus-weak-evidence-examples.md">Strong Versus Weak Evidence Examples</a></td>
       <td width="42%"><img src="cards/audit/professional/audit-03-strong-versus-weak-evidence-examples.png" alt="Professional Audit-03 strong versus weak evidence examples card" width="100%"></td>
-      <td width="42%"></td>
+      <td width="42%"><img src="cards/audit/funny/audit-03-strong-versus-weak-evidence-examples.png" alt="Funny Audit-03 strong versus weak evidence examples card" width="100%"></td>
     </tr>
     <tr>
       <td width="16%"><strong>Audit-04</strong><br><a href="cards/audit/reference/audit-04-common-audit-failure-modes-across-annex-a.md">Common Audit Failure Modes Across Annex A</a></td>
