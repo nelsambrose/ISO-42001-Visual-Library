@@ -348,7 +348,7 @@ Earlier visual styles explored during the development of this library. They have
     <tr>
       <td width="25%"><img src="cards/archive/clause-08-operation.png" alt="ISO/IEC 42001 funny archive card about operation" width="100%"></td>
       <td width="25%"><img src="cards/archive/clause-10-improvement.png" alt="ISO/IEC 42001 funny archive card about improvement" width="100%"></td>
-      <td width="25%"><img src="cards/archive/clause-08-operation-mission-control.png" alt="Funny Clause 8 operation mission control infographic" width="100%"></td>
+      <td width="25%"><img src="cards/archive/clause-08-operation-mission-control.png" alt="ISO/IEC 42001 funny archive card about operation mission control variant" width="100%"></td>
       <td width="25%"><img src="cards/archive/a5-assessing-impact-of-ai-systems.png" alt="Funny Annex A A5 assessing impact of AI systems infographic" width="100%"></td>
     </tr>
     <tr>
