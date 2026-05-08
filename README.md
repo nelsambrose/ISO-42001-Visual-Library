@@ -313,8 +313,8 @@ The Audit Readiness Cards help translate ISO/IEC 42001 governance into audit-rea
     </tr>
     <tr>
       <td width="16%"><strong>Audit-02</strong><br><a href="cards/audit/reference/audit-02-evidence-vs-good-intentions.md">Evidence vs Good Intentions</a></td>
-      <td width="42%"><img src="cards/audit/professional/audit-02-evidence-vs-good-intentions.png" alt="Professional Audit-02 evidence vs good intentions card" width="100%"></td>
-      <td width="42%"><img src="cards/audit/funny/audit-02-evidence-vs-good-intentions.png" alt="Funny Audit-02 evidence vs good intentions card" width="100%"></td>
+      <td width="42%"><img src="cards/audit/professional/audit-02-evidence-vs-good-intentions.png" alt="ISO/IEC 42001 professional audit card about evidence versus good intentions" width="100%"></td>
+      <td width="42%"><img src="cards/audit/funny/audit-02-evidence-vs-good-intentions.png" alt="ISO/IEC 42001 funny audit card about evidence versus good intentions" width="100%"></td>
     </tr>
     <tr>
       <td width="16%"><strong>Audit-03</strong><br><a href="cards/audit/reference/audit-03-strong-versus-weak-evidence-examples.md">Strong Versus Weak Evidence Examples</a></td>
