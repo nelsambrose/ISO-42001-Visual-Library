@@ -328,8 +328,8 @@ The Audit Readiness Cards help translate ISO/IEC 42001 governance into audit-rea
     </tr>
     <tr>
       <td width="16%"><strong>Audit-05</strong><br><a href="cards/audit/reference/audit-05-how-to-talk-about-controls-confidently.md">How to Talk About Controls Confidently</a></td>
-      <td width="42%"><img src="cards/audit/professional/audit-05-how-to-talk-about-controls-confidently.png" alt="Professional Audit-05 how to talk about controls confidently card" width="100%"></td>
-      <td width="42%"><img src="cards/audit/funny/audit-05-how-to-talk-about-controls-confidently.png" alt="Funny Audit-05 how to talk about controls confidently card" width="100%"></td>
+      <td width="42%"><img src="cards/audit/professional/audit-05-how-to-talk-about-controls-confidently.png" alt="ISO/IEC 42001 professional audit card about how to talk about controls confidently" width="100%"></td>
+      <td width="42%"><img src="cards/audit/funny/audit-05-how-to-talk-about-controls-confidently.png" alt="ISO/IEC 42001 funny audit card about how to talk about controls confidently" width="100%"></td>
     </tr>
   </tbody>
 </table>
