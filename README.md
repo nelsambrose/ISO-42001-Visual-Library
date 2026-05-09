@@ -285,9 +285,11 @@ These cards provide individual control-level learning summaries for Annex A. Eac
   </tbody>
 </table>
 
-### Audit Readiness Cards
+## Audit Readiness Cards
 
-The Audit Readiness Cards help translate ISO/IEC 42001 governance into audit-ready evidence and conversations. They explain what auditors look for, why evidence matters more than intention, how to recognise strong and weak evidence, common failure patterns across Annex A, and how to talk about controls confidently. Reference files act as the canonical content source for each card — see the [Audit Readiness reference index](cards/audit/reference/README.md) for an overview of the deck. Professional and funny visual cards are available for all five cards.
+These five cards help you prepare for ISO 42001 audits. They cover what auditors actually look for, the difference between strong and weak evidence, common failure patterns across Annex A, and how to talk about controls confidently.
+
+Reference files and both professional and funny visual versions are available for all five cards. See the [Audit Readiness reference index](cards/audit/reference/README.md) for an overview.
 
 <table>
   <thead>
