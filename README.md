@@ -63,10 +63,22 @@ The library currently covers the ISO 42001 overview, Annex A overview, domain ca
 
 Annex A coverage currently includes:
 
-- `cards/annex-a/overview/annex-a-overview-professional.png`
-- `cards/annex-a/overview/annex-a-overview-funny.png`
-- Domain cards for governance, organisation, operation, and relationships under `cards/annex-a/domain/`
-- Control cards for A.2 to A.10 under `cards/annex-a/control/`
+| Topic | Professional | Funny |
+|---|---|---|
+| Annex A overview | [View image](cards/annex-a/overview/annex-a-overview-professional.png) | [View image](cards/annex-a/overview/annex-a-overview-funny.png) |
+| Domain: Governance | [View image](cards/annex-a/domain/professional/governance.png) | [View image](cards/annex-a/domain/funny/governance.png) |
+| Domain: Organisation | [View image](cards/annex-a/domain/professional/organisation.png) | [View image](cards/annex-a/domain/funny/organisation.png) |
+| Domain: Operation | [View image](cards/annex-a/domain/professional/operation.png) | [View image](cards/annex-a/domain/funny/operation.png) |
+| Domain: Relationships | [View image](cards/annex-a/domain/professional/relationships.png) | [View image](cards/annex-a/domain/funny/relationships.png) |
+| A.2 Policies Related to AI | [View image](cards/annex-a/control/professional/a-02-policies-related-to-ai.png) | [View image](cards/annex-a/control/funny/a-02-policies-related-to-ai.png) |
+| A.3 Internal Organisation | [View image](cards/annex-a/control/professional/a-03-internal-organisation.png) | [View image](cards/annex-a/control/funny/a-03-internal-organisation.png) |
+| A.4 Resources for AI Systems | [View image](cards/annex-a/control/professional/a-04-resources-for-ai-systems.png) | [View image](cards/annex-a/control/funny/a-04-resources-for-ai-systems.png) |
+| A.5 Assessing Impacts of AI Systems | [View image](cards/annex-a/control/professional/a-05-assessing-impacts-of-ai-systems.png) | [View image](cards/annex-a/control/funny/a-05-assessing-impacts-of-ai-systems.png) |
+| A.6 AI System Life Cycle | [View image](cards/annex-a/control/professional/a-06-ai-system-life-cycle.png) | [View image](cards/annex-a/control/funny/a-06-ai-system-life-cycle.png) |
+| A.7 Data for AI Systems | [View image](cards/annex-a/control/professional/a-07-data-for-ai-systems.png) | [View image](cards/annex-a/control/funny/a-07-data-for-ai-systems.png) |
+| A.8 Information for Interested Parties | [View image](cards/annex-a/control/professional/a-08-information-for-interested-parties.png) | [View image](cards/annex-a/control/funny/a-08-information-for-interested-parties.png) |
+| A.9 Use of AI Systems | [View image](cards/annex-a/control/professional/a-09-use-of-ai-systems.png) | [View image](cards/annex-a/control/funny/a-09-use-of-ai-systems.png) |
+| A.10 Third-party and Customer Relationships | [View image](cards/annex-a/control/professional/a-10-third-party-and-customer-relationships.png) | [View image](cards/annex-a/control/funny/a-10-third-party-and-customer-relationships.png) |
 
 Audit Readiness coverage currently includes all five cards with reference files, professional images, and funny images. See the [Audit Readiness reference index](cards/audit/reference/README.md) for an overview of the deck.
 
