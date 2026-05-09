@@ -86,6 +86,8 @@ Start with the reference card when you want the factual explanation of a topic. 
 
 The assets are deliberately short and visual. They are learning aids, not a replacement for the ISO/IEC 42001:2023 standard itself.
 
+Project structure, content rules, and file naming are documented in [CONTEXT.md](CONTEXT.md).
+
 ## Card gallery
 
 ### Overview
@@ -421,6 +423,3 @@ A personal visual overview of the author's AI governance focus and role in build
 
 <img src="cards/about/author-overview.png" alt="Author overview showing Nelson Ambrose's AI governance focus and role in building the library">
 
-## Contributor context
-
-See [CONTEXT.md](CONTEXT.md) for project guidance, file naming conventions, content accuracy rules, and the intended library structure.
