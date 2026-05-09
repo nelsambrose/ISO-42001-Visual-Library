@@ -8,7 +8,7 @@ A collection of professional and humorous infographic cards to help you understa
 
 🔓 Open Access: Feel free to use, share, or remix these cards in presentations, training, and awareness sessions. No gatekeeping, you may credit the repo.
 
-> Status: Work in progress. Current coverage includes the ISO 42001 overview, Annex A overview, domain cards, control cards, Clauses 4 to 10, and the Audit Readiness mini-deck.
+> Status: Work in progress. Current coverage includes Clauses 4–10, Annex A domain and control cards, and the Audit Readiness mini-deck.
 
 ## What this repository is
 
