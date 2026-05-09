@@ -238,47 +238,47 @@ These cards provide individual control-level learning summaries for Annex A. Eac
   </thead>
   <tbody>
     <tr>
-      <td width="16%">A.2 Policies Related to AI<br><a href="cards/annex-a/reference/control/a-02-policies-related-to-ai.md">Reference ↗</a></td>
+      <td width="16%"><strong>A.2</strong> Policies Related to AI<br><a href="cards/annex-a/reference/control/a-02-policies-related-to-ai.md">Reference ↗</a></td>
       <td width="42%"><img src="cards/annex-a/control/professional/a-02-policies-related-to-ai.png" alt="ISO/IEC 42001 Annex A professional control card about policies related to AI" width="100%"></td>
       <td width="42%"><img src="cards/annex-a/control/funny/a-02-policies-related-to-ai.png" alt="ISO/IEC 42001 Annex A funny control card about policies related to AI" width="100%"></td>
     </tr>
     <tr>
-      <td width="16%">A.3 Internal Organisation<br><a href="cards/annex-a/reference/control/a-03-internal-organisation.md">Reference ↗</a></td>
+      <td width="16%"><strong>A.3</strong> Internal Organisation<br><a href="cards/annex-a/reference/control/a-03-internal-organisation.md">Reference ↗</a></td>
       <td width="42%"><img src="cards/annex-a/control/professional/a-03-internal-organisation.png" alt="ISO/IEC 42001 Annex A professional control card about internal organisation" width="100%"></td>
       <td width="42%"><img src="cards/annex-a/control/funny/a-03-internal-organisation.png" alt="ISO/IEC 42001 Annex A funny control card about internal organisation" width="100%"></td>
     </tr>
     <tr>
-      <td width="16%">A.4 Resources for AI Systems<br><a href="cards/annex-a/reference/control/a-04-resources-for-ai-systems.md">Reference ↗</a></td>
+      <td width="16%"><strong>A.4</strong> Resources for AI Systems<br><a href="cards/annex-a/reference/control/a-04-resources-for-ai-systems.md">Reference ↗</a></td>
       <td width="42%"><img src="cards/annex-a/control/professional/a-04-resources-for-ai-systems.png" alt="ISO/IEC 42001 Annex A professional control card about resources for AI systems" width="100%"></td>
       <td width="42%"><img src="cards/annex-a/control/funny/a-04-resources-for-ai-systems.png" alt="ISO/IEC 42001 Annex A funny control card about resources for AI systems" width="100%"></td>
     </tr>
     <tr>
-      <td width="16%">A.5 Assessing Impacts of AI Systems<br><a href="cards/annex-a/reference/control/a-05-assessing-impacts-of-ai-systems.md">Reference ↗</a></td>
+      <td width="16%"><strong>A.5</strong> Assessing Impacts of AI Systems<br><a href="cards/annex-a/reference/control/a-05-assessing-impacts-of-ai-systems.md">Reference ↗</a></td>
       <td width="42%"><img src="cards/annex-a/control/professional/a-05-assessing-impacts-of-ai-systems.png" alt="ISO/IEC 42001 Annex A professional control card about assessing impacts of AI systems" width="100%"></td>
       <td width="42%"><img src="cards/annex-a/control/funny/a-05-assessing-impacts-of-ai-systems.png" alt="ISO/IEC 42001 Annex A funny control card about assessing impacts of AI systems" width="100%"></td>
     </tr>
     <tr>
-      <td width="16%">A.6 AI System Life Cycle<br><a href="cards/annex-a/reference/control/a-06-ai-system-life-cycle.md">Reference ↗</a></td>
+      <td width="16%"><strong>A.6</strong> AI System Life Cycle<br><a href="cards/annex-a/reference/control/a-06-ai-system-life-cycle.md">Reference ↗</a></td>
       <td width="42%"><img src="cards/annex-a/control/professional/a-06-ai-system-life-cycle.png" alt="ISO/IEC 42001 Annex A professional control card about AI system life cycle" width="100%"></td>
       <td width="42%"><img src="cards/annex-a/control/funny/a-06-ai-system-life-cycle.png" alt="ISO/IEC 42001 Annex A funny control card about AI system life cycle" width="100%"></td>
     </tr>
     <tr>
-      <td width="16%">A.7 Data for AI Systems<br><a href="cards/annex-a/reference/control/a-07-data-for-ai-systems.md">Reference ↗</a></td>
+      <td width="16%"><strong>A.7</strong> Data for AI Systems<br><a href="cards/annex-a/reference/control/a-07-data-for-ai-systems.md">Reference ↗</a></td>
       <td width="42%"><img src="cards/annex-a/control/professional/a-07-data-for-ai-systems.png" alt="ISO/IEC 42001 Annex A professional control card about data for AI systems" width="100%"></td>
       <td width="42%"><img src="cards/annex-a/control/funny/a-07-data-for-ai-systems.png" alt="ISO/IEC 42001 Annex A funny control card about data for AI systems" width="100%"></td>
     </tr>
     <tr>
-      <td width="16%">A.8 Information for Interested Parties<br><a href="cards/annex-a/reference/control/a-08-information-for-interested-parties.md">Reference ↗</a></td>
+      <td width="16%"><strong>A.8</strong> Information for Interested Parties<br><a href="cards/annex-a/reference/control/a-08-information-for-interested-parties.md">Reference ↗</a></td>
       <td width="42%"><img src="cards/annex-a/control/professional/a-08-information-for-interested-parties.png" alt="ISO/IEC 42001 Annex A professional control card about information for interested parties" width="100%"></td>
       <td width="42%"><img src="cards/annex-a/control/funny/a-08-information-for-interested-parties.png" alt="ISO/IEC 42001 Annex A funny control card about information for interested parties" width="100%"></td>
     </tr>
     <tr>
-      <td width="16%">A.9 Use of AI Systems<br><a href="cards/annex-a/reference/control/a-09-use-of-ai-systems.md">Reference ↗</a></td>
+      <td width="16%"><strong>A.9</strong> Use of AI Systems<br><a href="cards/annex-a/reference/control/a-09-use-of-ai-systems.md">Reference ↗</a></td>
       <td width="42%"><img src="cards/annex-a/control/professional/a-09-use-of-ai-systems.png" alt="ISO/IEC 42001 Annex A professional control card about use of AI systems" width="100%"></td>
       <td width="42%"><img src="cards/annex-a/control/funny/a-09-use-of-ai-systems.png" alt="ISO/IEC 42001 Annex A funny control card about use of AI systems" width="100%"></td>
     </tr>
     <tr>
-      <td width="16%">A.10 Third-party and Customer Relationships<br><a href="cards/annex-a/reference/control/a-10-third-party-and-customer-relationships.md">Reference ↗</a></td>
+      <td width="16%"><strong>A.10</strong> Third-party and Customer Relationships<br><a href="cards/annex-a/reference/control/a-10-third-party-and-customer-relationships.md">Reference ↗</a></td>
       <td width="42%"><img src="cards/annex-a/control/professional/a-10-third-party-and-customer-relationships.png" alt="ISO/IEC 42001 Annex A professional control card about third-party and customer relationships" width="100%"></td>
       <td width="42%"><img src="cards/annex-a/control/funny/a-10-third-party-and-customer-relationships.png" alt="ISO/IEC 42001 Annex A funny control card about third-party and customer relationships" width="100%"></td>
     </tr>
