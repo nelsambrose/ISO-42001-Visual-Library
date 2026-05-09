@@ -365,7 +365,7 @@ The Audit Readiness Cards help translate ISO/IEC 42001 governance into audit-rea
       <td width="42%"><img src="cards/audit/funny/audit-03-strong-versus-weak-evidence-examples.png" alt="ISO/IEC 42001 funny audit card about strong versus weak evidence examples" width="100%"></td>
     </tr>
     <tr>
-      <td width="16%"><strong>Audit-04</strong><br><a href="cards/audit/reference/audit-04-common-audit-failure-modes-across-annex-a.md">Common Audit Failure Modes Across Annex A</a></td>
+      <td width="16%"><strong>Audit-04</strong><br>Common Audit Failure Modes Across Annex A<br><a href="cards/audit/reference/audit-04-common-audit-failure-modes-across-annex-a.md">Reference</a></td>
       <td width="42%"><img src="cards/audit/professional/audit-04-common-audit-failure-modes-across-annex-a.png" alt="ISO/IEC 42001 professional audit card about common audit failure modes across Annex A" width="100%"></td>
       <td width="42%"><img src="cards/audit/funny/audit-04-common-audit-failure-modes-across-annex-a.png" alt="ISO/IEC 42001 funny audit card about common audit failure modes across Annex A" width="100%"></td>
     </tr>
