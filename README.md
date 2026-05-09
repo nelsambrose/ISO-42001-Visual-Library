@@ -50,8 +50,6 @@ This library is useful for:
 
 The library currently covers the ISO 42001 overview, Annex A overview, domain cards, control cards, and Clauses 4 to 10.
 
-Annex A coverage currently includes:
-
 Audit Readiness coverage currently includes all five cards with reference files, professional images, and funny images. See the [Audit Readiness reference index](cards/audit/reference/README.md) for an overview of the deck.
 
 ## Planned additions
