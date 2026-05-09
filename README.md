@@ -228,7 +228,7 @@ The overview images show how Annex A is grouped. The table below compares the pr
       <td width="42%"><img src="cards/annex-a/domain/funny/operation.png" alt="ISO/IEC 42001 Annex A funny domain card about operation" width="100%"></td>
     </tr>
     <tr>
-      <td width="16%">Relationships</td>
+      <td width="16%">Relationships<br><a href="cards/annex-a/reference/domain/relationships.md">Reference ↗</a></td>
       <td width="42%"><img src="cards/annex-a/domain/professional/relationships.png" alt="ISO/IEC 42001 Annex A professional domain card about relationships" width="100%"></td>
       <td width="42%"><img src="cards/annex-a/domain/funny/relationships.png" alt="ISO/IEC 42001 Annex A funny domain card about relationships" width="100%"></td>
     </tr>
