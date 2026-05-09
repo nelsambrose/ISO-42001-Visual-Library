@@ -361,6 +361,8 @@ Earlier visual styles explored during the development of this library. They have
 
 This work is licensed under the Creative Commons Attribution 4.0 International License. See [LICENSE.md](LICENSE.md) for details.
 
+Suggested attribution:
+
 ```text
 ISO 42001 Visual Library by Nelson Ambrose, licensed under CC BY 4.0.
 ```
