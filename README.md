@@ -348,22 +348,22 @@ Earlier visual styles explored during the development of this library. They have
 <table>
   <tbody>
     <tr>
-      <td width="25%"><img src="cards/archive/clause-08-operation.png" alt="ISO/IEC 42001 funny archive card about operation" width="100%"></td>
-      <td width="25%"><img src="cards/archive/clause-10-improvement.png" alt="ISO/IEC 42001 funny archive card about improvement" width="100%"></td>
-      <td width="25%"><img src="cards/archive/clause-08-operation-mission-control.png" alt="ISO/IEC 42001 funny archive card about operation mission control variant" width="100%"></td>
-      <td width="25%"><img src="cards/archive/a5-assessing-impact-of-ai-systems.png" alt="ISO/IEC 42001 funny archive card about assessing impact of AI systems" width="100%"></td>
+      <td width="25%"><img src="cards/archive/iso-42001-clause-08-operation.png" alt="ISO/IEC 42001 funny archive card about operation" width="100%"></td>
+      <td width="25%"><img src="cards/archive/iso-42001-clause-10-improvement.png" alt="ISO/IEC 42001 funny archive card about improvement" width="100%"></td>
+      <td width="25%"><img src="cards/archive/iso-42001-clause-08-operation-mission-control.png" alt="ISO/IEC 42001 funny archive card about operation mission control variant" width="100%"></td>
+      <td width="25%"><img src="cards/archive/iso-42001-a5-assessing-impact-of-ai-systems.png" alt="ISO/IEC 42001 funny archive card about assessing impact of AI systems" width="100%"></td>
     </tr>
     <tr>
-      <td width="25%"><img src="cards/archive/annex-a-domain-operation.png" alt="ISO/IEC 42001 funny archive card about Annex A domain operation" width="100%"></td>
-      <td width="25%"><img src="cards/archive/clause-09-performance-evaluation-2.png" alt="ISO/IEC 42001 funny archive card about performance evaluation variant 2" width="100%"></td>
-      <td width="25%"><img src="cards/archive/clause-09-performance-evaluation-3.png" alt="ISO/IEC 42001 funny archive card about performance evaluation variant 3" width="100%"></td>
-      <td width="25%"><img src="cards/archive/clause-07-support.png" alt="ISO/IEC 42001 funny archive card about support" width="100%"></td>
+      <td width="25%"><img src="cards/archive/iso-42001-annex-a-domain-operation.png" alt="ISO/IEC 42001 funny archive card about Annex A domain operation" width="100%"></td>
+      <td width="25%"><img src="cards/archive/iso-42001-clause-09-performance-evaluation-2.png" alt="ISO/IEC 42001 funny archive card about performance evaluation variant 2" width="100%"></td>
+      <td width="25%"><img src="cards/archive/iso-42001-clause-09-performance-evaluation-3.png" alt="ISO/IEC 42001 funny archive card about performance evaluation variant 3" width="100%"></td>
+      <td width="25%"><img src="cards/archive/iso-42001-clause-07-support.png" alt="ISO/IEC 42001 funny archive card about support" width="100%"></td>
     </tr>
     <tr>
-      <td width="25%"><img src="cards/archive/clause-09-performance-evaluation-1.png" alt="ISO/IEC 42001 funny archive card about performance evaluation variant 1" width="100%"></td>
-      <td width="25%"><img src="cards/archive/clause-05-leadership.png" alt="ISO/IEC 42001 funny archive card about leadership" width="100%"></td>
-      <td width="25%"><img src="cards/archive/a-10-third-party-and-customer-relationships.png" alt="ISO/IEC 42001 professional archive card about third-party and customer relationships" width="100%"></td>
-      <td width="25%"><img src="cards/archive/clause-09-performance-evaluation.png" alt="ISO/IEC 42001 professional archive card about performance evaluation" width="100%"></td>
+      <td width="25%"><img src="cards/archive/iso-42001-clause-09-performance-evaluation-1.png" alt="ISO/IEC 42001 funny archive card about performance evaluation variant 1" width="100%"></td>
+      <td width="25%"><img src="cards/archive/iso-42001-clause-05-leadership.png" alt="ISO/IEC 42001 funny archive card about leadership" width="100%"></td>
+      <td width="25%"><img src="cards/archive/iso-42001-a-10-third-party-and-customer-relationships.png" alt="ISO/IEC 42001 professional archive card about third-party and customer relationships" width="100%"></td>
+      <td width="25%"><img src="cards/archive/iso-42001-clause-09-performance-evaluation.png" alt="ISO/IEC 42001 professional archive card about performance evaluation" width="100%"></td>
     </tr>
   </tbody>
 </table>
@@ -390,5 +390,5 @@ The materials are intended as learning aids and should not be treated as a repla
 
 A personal visual overview of the author's AI governance focus and role in building the library.
 
-<img src="cards/about/author-overview.png" alt="Author overview showing Nelson Ambrose's AI governance focus and role in building the library">
+<img src="cards/about/iso-42001-author-overview.png" alt="Author overview showing Nelson Ambrose's AI governance focus and role in building the library">
 
