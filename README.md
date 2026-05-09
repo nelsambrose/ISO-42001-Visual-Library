@@ -29,6 +29,7 @@ Each topic can have up to four matching assets:
 | Reference card | Neutral source facts and reusable explanations | Learning, checking details, creating new cards |
 | Professional infographic | Polished business-ready visual summary | Briefings, audit preparation, stakeholder sharing |
 | Funny infographic | Humorous visual memory aid | Learning reinforcement and making the topic stick |
+| Professional simple memory card | Clean minimal visual summary for clause recall | Quick reference and professional sharing |
 | Funny simple memory card | One strong visual hook for clause recall | Remembering clause number and keyword |
 
 The simple memory cards are deliberately minimal. They are designed to help people remember the clause number and core keyword quickly.
@@ -99,7 +100,7 @@ The assets are deliberately short and visual. They are learning aids, not a repl
 
 ### Clause memory cards
 
-The simple funny cards are designed for quick recall. Each card reduces one clause to its core keyword using a strong visual hook.
+The simple memory cards are designed for quick recall. Each card reduces one clause to its core keyword. The professional simple cards use a clean minimal style. The funny simple cards use a strong visual hook.
 
 These cards are intentionally simple. The goal is not to explain every sub-clause, but to make the main association easy to remember.
 
@@ -113,6 +114,18 @@ These cards are intentionally simple. The goal is not to explain every sub-claus
 
 > [!TIP]
 > Click any card to open a full-size view. This is the easiest way to read the detail.
+
+#### Professional simple memory cards
+
+| Clause 4 | Clause 5 | Clause 6 |
+|---|---|---|
+| <img src="cards/professional/simple/clause-04-context-of-the-organisation.png" alt="ISO/IEC 42001 simple professional card about context of the organisation" width="260"> | <img src="cards/professional/simple/clause-05-leadership.png" alt="ISO/IEC 42001 simple professional card about leadership" width="260"> | <img src="cards/professional/simple/clause-06-planning.png" alt="ISO/IEC 42001 simple professional card about planning" width="260"> |
+| Clause 7 | Clause 8 | Clause 9 |
+| <img src="cards/professional/simple/clause-07-support.png" alt="ISO/IEC 42001 simple professional card about support" width="260"> | <img src="cards/professional/simple/clause-08-operation.png" alt="ISO/IEC 42001 simple professional card about operation" width="260"> | <img src="cards/professional/simple/clause-09-performance-evaluation.png" alt="ISO/IEC 42001 simple professional card about performance evaluation" width="260"> |
+|  | Clause 10 |  |
+|  | <img src="cards/professional/simple/clause-10-improvement.png" alt="ISO/IEC 42001 simple professional card about improvement" width="260"> |  |
+
+#### Funny simple memory cards
 
 | Clause 4 | Clause 5 | Clause 6 |
 |---|---|---|
