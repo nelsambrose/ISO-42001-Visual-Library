@@ -350,7 +350,7 @@ The Audit Readiness Cards help translate ISO/IEC 42001 governance into audit-rea
   </thead>
   <tbody>
     <tr>
-      <td width="16%"><strong>Audit-01</strong><br>What an Auditor Actually Looks For<br><a href="cards/audit/reference/audit-01-what-an-auditor-actually-looks-for.md">Reference</a></td>
+      <td width="16%"><strong>Audit-01</strong><br>What an Auditor Actually Looks For<br><a href="cards/audit/reference/audit-01-what-an-auditor-actually-looks-for.md">Reference ↗</a></td>
       <td width="42%"><img src="cards/audit/professional/audit-01-what-an-auditor-actually-looks-for.png" alt="ISO/IEC 42001 professional audit card about what an auditor actually looks for" width="100%"></td>
       <td width="42%"><img src="cards/audit/funny/audit-01-what-an-auditor-actually-looks-for.png" alt="ISO/IEC 42001 funny audit card about what an auditor actually looks for" width="100%"></td>
     </tr>
