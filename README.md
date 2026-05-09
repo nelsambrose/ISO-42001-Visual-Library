@@ -9,7 +9,7 @@ A collection of professional and humorous infographic cards to help you understa
 > [!NOTE]
 > ### 🔓 Project Access & Status
 > **Free to use, share, or remix these cards in presentations, training, and awareness sessions.**
-> No gatekeeping—attribution is appreciated but not required.
+> No gatekeeping - attribution is appreciated but not required.
 
 > *Status: Work in progress. Current coverage includes Clauses 4–10, Annex A domain and control cards, and the Audit Readiness mini-deck.*
 
