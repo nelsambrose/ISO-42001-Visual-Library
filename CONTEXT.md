@@ -156,6 +156,14 @@ Key accuracy principles:
 
 ---
 
+## Image source files
+
+Image source files are not provided by design. This is a finished
+visual asset library for direct use in learning, presentations, and
+sharing.
+
+---
+
 ## Current status
 
 The library is private while being built out. 
