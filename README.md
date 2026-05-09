@@ -80,6 +80,8 @@ Audit Readiness coverage currently includes all five cards with reference files,
 
 ## How to use it
 
+These assets are free to use under CC BY 4.0 for personal learning, training, and sharing online. Not intended as a collaborative project.
+
 Start with the reference card when you want the factual explanation of a topic. Use the professional infographic when you need a clean visual for colleagues, leadership or audit preparation. Use the funny infographic when you want the concept to be memorable.
 
 The assets are deliberately short and visual. They are learning aids, not a replacement for the ISO/IEC 42001:2023 standard itself.
