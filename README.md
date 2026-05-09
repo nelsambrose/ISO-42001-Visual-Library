@@ -176,9 +176,11 @@ Clauses 4–10 are the mandatory requirements of ISO 42001 — the core of the s
   </tbody>
 </table>
 
+Annex A is the operational core of ISO 42001. It contains controls across nine areas (A.2–A.10) that define what responsible AI management looks like in practice.
+
 ### Annex A domain cards
 
-Annex A is the operational core of ISO 42001. It contains 38 controls across nine areas (A.2–A.10) that define what responsible AI management looks like in practice. These controls are grouped into four domains:
+These controls are grouped into four domains:
 
 - **Governance** — Establishing AI policies, leadership accountability, and the overall direction for responsible AI within the organisation.
 - **Organisation** — Defining internal roles and responsibilities, ensuring the right people, skills, and resources are in place to manage AI effectively.
@@ -235,8 +237,6 @@ The overview images show how Annex A is grouped. The table below compares the pr
 </table>
 
 ### Annex A Control Cards
-
-Annex A is the operational core of ISO 42001. It contains 38 controls across nine areas (A.2–A.10) that define what responsible AI management looks like in practice.
 
 These cards provide individual control-level learning summaries for Annex A. Each control is available in a professional version and a funny version.
 
