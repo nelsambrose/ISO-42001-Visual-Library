@@ -80,9 +80,8 @@ ISO-42001-Visual-Library/
 ├── funny/
 │   ├── *.png (main infographic cards)
 │   ├── simple/ (clause-04-....png etc.)
-│   ├── expanded/
-│   └── archive/
-└── archive/ (top-level)
+│   └── expanded/
+└── archive/
 
 ---
 
