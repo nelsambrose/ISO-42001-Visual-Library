@@ -97,14 +97,6 @@ The simple memory cards are designed for quick recall. Each card reduces one cla
 
 These cards are intentionally simple. The goal is not to explain every sub-clause, but to make the main association easy to remember.
 
-- Clause 4 = Context
-- Clause 5 = Leadership
-- Clause 6 = Planning
-- Clause 7 = Support
-- Clause 8 = Operation
-- Clause 9 = Performance Evaluation
-- Clause 10 = Improvement
-
 #### Professional simple memory cards
 
 | Clause 4 | Clause 5 | Clause 6 |
