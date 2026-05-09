@@ -44,15 +44,14 @@ the matching reference topic. They should be memorable and
 engaging without distorting the facts.
 
 **Professional infographic cards:** Polished, business-ready
-visual versions based on the matching reference topic. They
-should be suitable for briefings, audit preparation and
+visual versions based on the matching reference topic.
+They should be suitable for briefings, audit preparation and
 professional sharing.
 
-**Funny simple memory cards:** Minimal cards that use one strong
-visual hook to help people remember the clause number and core
-keyword. They are intentionally simpler than the full infographics
-and are not intended to explain every sub-clause. Stored in
-`cards/funny/simple/`.
+**Simple memory cards (Professional + Funny):** Minimal cards 
+that use one strong visual hook to help people remember the 
+clause number and core keyword. Stored in `cards/professional/simple/` 
+and `cards/funny/simple/`.
 
 The multi-layer approach is deliberate. How you learn something,
 how you recall it quickly, and how you look it up later are
@@ -61,64 +60,41 @@ different problems that need different solutions.
 ---
 
 ## Folder structure
-
-```
 ISO-42001-Visual-Library/
 │
-├── README.md          (public-facing introduction)
-├── CHANGELOG.md       (history of all additions)
-├── CONTEXT.md         (this file)
+├── README.md
+├── CHANGELOG.md
+├── CONTEXT.md
 │
 └── cards/
-    ├── annex-a/       (Annex A overview and domain image sets)
-    │   ├── overview/  (Annex A overview images)
-    │   └── domain/
-    │       ├── funny/         (funny Annex A domain cards)
-    │       └── professional/  (professional Annex A domain cards)
-    ├── audit/         (Audit Readiness mini-deck)
-    │   ├── reference/    (reference content for audit cards audit-01 to audit-05)
-    │   ├── funny/        (funny audit cards)
-    │   └── professional/ (professional audit cards)
-    ├── about/         (author overview and personal context cards)
-    ├── reference/     (neutral source facts and base material)
-    ├── funny/         (funny infographic versions)
-    │   ├── simple/    (simple memory cards: clause number and keyword recall)
-    │   └── expanded/  (retained optional variants, not on primary learning path)
-    ├── professional/  (professional infographic versions)
-    │   └── simple/    (simple professional memory-card variants)
-    └── archive/       (additional variants and superseded assets kept outside the main path)
-```
+├── annex-a/
+│   ├── overview/
+│   ├── domain/ (professional/ + funny/)
+│   └── control/ (professional/ + funny/)
+├── audit/ (reference/ + professional/ + funny/)
+├── about/
+├── reference/
+├── professional/
+│   ├── *.png (main infographic cards)
+│   └── simple/ (clause-04-....png etc.)
+├── funny/
+│   ├── *.png (main infographic cards)
+│   ├── simple/ (clause-04-....png etc.)
+│   ├── expanded/
+│   └── archive/
+└── archive/ (top-level)
 
 ---
 
 ## File naming conventions
 
-Use topic slugs as filenames. Slugs must be lowercase kebab-case,
-with no spaces, and should be descriptive enough to stand alone.
-
-Use the same basename for the same topic across folders where
-applicable:
-
-```text
-cards/reference/ai-risk.md
-cards/funny/ai-risk.png
-cards/professional/ai-risk.png
-```
-
-For clause-based topics, use two-digit clause numbers:
+Use lowercase kebab-case slugs. Use the same basename across layers:
 
 ```text
 cards/reference/clause-04-context-of-the-organisation.md
-cards/funny/clause-04-context-of-the-organisation.png
 cards/professional/clause-04-context-of-the-organisation.png
-```
-
-For Annex A domain cards, use the same basename across the
-professional and funny folders:
-
-```text
-cards/annex-a/domain/professional/governance.png
-cards/annex-a/domain/funny/governance.png
+cards/professional/simple/clause-04-context-of-the-organisation.png
+cards/funny/clause-04-context-of-the-organisation.png
 ```
 
 ---
