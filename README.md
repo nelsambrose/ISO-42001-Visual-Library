@@ -261,7 +261,7 @@ These cards provide individual control-level learning summaries for Annex A. Eac
       <td width="42%"><img src="cards/annex-a/control/funny/a-03-internal-organisation.png" alt="ISO/IEC 42001 Annex A funny control card about internal organisation" width="100%"></td>
     </tr>
     <tr>
-      <td width="16%">A.4 Resources for AI Systems</td>
+      <td width="16%">A.4 Resources for AI Systems<br><a href="cards/annex-a/reference/control/a-04-resources-for-ai-systems.md">Reference ↗</a></td>
       <td width="42%"><img src="cards/annex-a/control/professional/a-04-resources-for-ai-systems.png" alt="ISO/IEC 42001 Annex A professional control card about resources for AI systems" width="100%"></td>
       <td width="42%"><img src="cards/annex-a/control/funny/a-04-resources-for-ai-systems.png" alt="ISO/IEC 42001 Annex A funny control card about resources for AI systems" width="100%"></td>
     </tr>
