@@ -355,7 +355,7 @@ The Audit Readiness Cards help translate ISO/IEC 42001 governance into audit-rea
       <td width="42%"><img src="cards/audit/funny/audit-01-what-an-auditor-actually-looks-for.png" alt="ISO/IEC 42001 funny audit card about what an auditor actually looks for" width="100%"></td>
     </tr>
     <tr>
-      <td width="16%"><strong>Audit-02</strong><br><a href="cards/audit/reference/audit-02-evidence-vs-good-intentions.md">Evidence vs Good Intentions</a></td>
+      <td width="16%"><strong>Audit-02</strong><br>Evidence vs Good Intentions<br><a href="cards/audit/reference/audit-02-evidence-vs-good-intentions.md">Reference</a></td>
       <td width="42%"><img src="cards/audit/professional/audit-02-evidence-vs-good-intentions.png" alt="ISO/IEC 42001 professional audit card about evidence versus good intentions" width="100%"></td>
       <td width="42%"><img src="cards/audit/funny/audit-02-evidence-vs-good-intentions.png" alt="ISO/IEC 42001 funny audit card about evidence versus good intentions" width="100%"></td>
     </tr>
