@@ -415,38 +415,6 @@ This repository is an independent learning resource. It is not affiliated with, 
 
 The materials are intended as learning aids and should not be treated as a replacement for the official ISO/IEC 42001:2023 standard, legal advice, audit advice, or certification guidance.
 
-## Folder convention
-
-```text
-cards/
-  annex-a/
-    overview/
-    domain/
-      professional/
-      funny/
-    control/
-      professional/
-      funny/
-  audit/
-    reference/
-    professional/
-    funny/
-  about/
-  reference/
-  funny/
-    simple/
-    expanded/
-  professional/
-    simple/
-  archive/
-```
-
-Use the same topic filename across folders where applicable. For example, an `ai-risk` topic should use `cards/reference/ai-risk.md`, `cards/funny/ai-risk.png`, and `cards/professional/ai-risk.png`.
-
-For Annex A domain cards, use the same basename across `cards/annex-a/domain/professional/` and `cards/annex-a/domain/funny/`. For example, `governance.png` should exist in both folders.
-
-For Annex A control cards, use the same basename across `cards/annex-a/control/professional/` and `cards/annex-a/control/funny/`. For example, `a-02-policies-related-to-ai.png` should exist in both folders.
-
 ## About the Author
 
 A personal visual overview of the author's AI governance focus and role in building the library.
