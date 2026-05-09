@@ -10,6 +10,16 @@ A collection of professional and humorous infographic cards to help you understa
 
 > Status: Work in progress. Current coverage includes Clauses 4–10, Annex A domain and control cards, and the Audit Readiness mini-deck.
 
+<details>
+  <summary><b>Click to expand Table of Contents</b></summary>
+  <br>
+
+  - [Clause Memory Cards](#clause-memory-cards)
+  - [Annex A Domains](#annex-a-domains)
+  - [Annex A Controls](#annex-a-controls)
+  - [Audit Readiness](#audit-readiness)
+</details>
+
 ## What this repository is
 
 This repository is a practical visual library for learning and explaining ISO/IEC 42001:2023, the international standard for AI Management Systems (AIMS).
