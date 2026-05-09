@@ -6,7 +6,8 @@
 
 A collection of professional and humorous infographic cards to help you understand, remember, and explain ISO/IEC 42001.
 
-🔓 Open Access: Feel free to use, share, or remix these cards in presentations, training, and awareness sessions. No gatekeeping, you may credit the repo.
+> [!NOTE]
+> 🔓 Open Access: Feel free to use, share, or remix these cards in presentations, training, and awareness sessions. No gatekeeping, you may credit the repo.
 
 > Status: Work in progress. Current coverage includes Clauses 4–10, Annex A domain and control cards, and the Audit Readiness mini-deck.
 
