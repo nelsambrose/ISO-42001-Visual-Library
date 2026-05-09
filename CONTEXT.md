@@ -65,28 +65,27 @@ different problems that need different solutions.
 ```
 ISO-42001-Visual-Library/
 │
-├── README.md          (public-facing introduction)
-├── CHANGELOG.md       (history of all additions)
-├── CONTEXT.md         (this file)
+├── README.md
+├── CHANGELOG.md
+├── CONTEXT.md
 │
 └── cards/
-    ├── annex-a/       (Annex A overview and domain image sets)
-    │   ├── overview/  (Annex A overview images)
-    │   └── domain/
-    │       ├── funny/         (funny Annex A domain cards)
-    │       └── professional/  (professional Annex A domain cards)
-    ├── audit/         (Audit Readiness mini-deck)
-    │   ├── reference/    (reference content for audit cards audit-01 to audit-05)
-    │   ├── funny/        (funny audit cards)
-    │   └── professional/ (professional audit cards)
-    ├── about/         (author overview and personal context cards)
-    ├── reference/     (neutral source facts and base material)
-    ├── funny/         (funny infographic versions)
-    │   ├── simple/    (simple memory cards: clause number and keyword recall)
-    │   └── expanded/  (retained optional variants, not on primary learning path)
-    ├── professional/  (professional infographic versions)
-    │   └── simple/    (simple professional memory-card variants)
-    └── archive/       (additional variants and superseded assets kept outside the main path)
+├── annex-a/
+│   ├── overview/
+│   ├── domain/ (professional/ + funny/)
+│   └── control/ (professional/ + funny/)
+├── audit/ (reference/ + professional/ + funny/)
+├── about/
+├── reference/
+├── professional/
+│   ├── *.png (main infographic cards)
+│   └── simple/ (clause-04-....png etc.)
+├── funny/
+│   ├── *.png (main infographic cards)
+│   ├── simple/ (clause-04-....png etc.)
+│   ├── expanded/
+│   └── archive/
+└── archive/ (top-level)
 ```
 
 ---
