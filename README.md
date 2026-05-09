@@ -246,7 +246,7 @@ The overview images show how Annex A is grouped. The table below compares the pr
     <tr>
       <th width="16%">Domain</th>
       <th width="42%">Professional</th>
-      <th width="42%">Funny memory card</th>
+      <th width="42%">Funny</th>
     </tr>
   </thead>
   <tbody>
