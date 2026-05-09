@@ -214,23 +214,23 @@ The overview images show how Annex A is grouped. The table below compares the pr
   <tbody>
     <tr>
       <td width="16%">Governance<br><a href="cards/annex-a/reference/domain/governance.md">Reference ↗</a></td>
-      <td width="42%"><img src="cards/annex-a/domain/professional/governance.png" alt="ISO 42001 Annex A Policies and Internal Organisation - AI Governance Infographic" width="100%"></td>
-      <td width="42%"><img src="cards/annex-a/domain/funny/governance.png" alt="ISO 42001 Annex A Policies and Internal Organisation - AI Governance Infographic" width="100%"></td>
+      <td width="42%"><img src="cards/annex-a/domain/professional/iso-42001-governance.png" alt="ISO 42001 Annex A Policies and Internal Organisation - AI Governance Infographic" width="100%"></td>
+      <td width="42%"><img src="cards/annex-a/domain/funny/iso-42001-governance.png" alt="ISO 42001 Annex A Policies and Internal Organisation - AI Governance Infographic" width="100%"></td>
     </tr>
     <tr>
       <td width="16%">Organisation<br><a href="cards/annex-a/reference/domain/organisation.md">Reference ↗</a></td>
-      <td width="42%"><img src="cards/annex-a/domain/professional/organisation.png" alt="ISO 42001 Annex A Resources for AI Systems - Resource Management Infographic" width="100%"></td>
-      <td width="42%"><img src="cards/annex-a/domain/funny/organisation.png" alt="ISO 42001 Annex A Resources for AI Systems - Resource Management Infographic" width="100%"></td>
+      <td width="42%"><img src="cards/annex-a/domain/professional/iso-42001-organisation.png" alt="ISO 42001 Annex A Resources for AI Systems - Resource Management Infographic" width="100%"></td>
+      <td width="42%"><img src="cards/annex-a/domain/funny/iso-42001-organisation.png" alt="ISO 42001 Annex A Resources for AI Systems - Resource Management Infographic" width="100%"></td>
     </tr>
     <tr>
       <td width="16%">Operation<br><a href="cards/annex-a/reference/domain/operation.md">Reference ↗</a></td>
-      <td width="42%"><img src="cards/annex-a/domain/professional/operation.png" alt="ISO 42001 Annex A Assessing Impacts of AI Systems - Impact Assessment Infographic" width="100%"></td>
-      <td width="42%"><img src="cards/annex-a/domain/funny/operation.png" alt="ISO 42001 Annex A Assessing Impacts of AI Systems - Impact Assessment Infographic" width="100%"></td>
+      <td width="42%"><img src="cards/annex-a/domain/professional/iso-42001-operation.png" alt="ISO 42001 Annex A Assessing Impacts of AI Systems - Impact Assessment Infographic" width="100%"></td>
+      <td width="42%"><img src="cards/annex-a/domain/funny/iso-42001-operation.png" alt="ISO 42001 Annex A Assessing Impacts of AI Systems - Impact Assessment Infographic" width="100%"></td>
     </tr>
     <tr>
       <td width="16%">Relationships<br><a href="cards/annex-a/reference/domain/relationships.md">Reference ↗</a></td>
-      <td width="42%"><img src="cards/annex-a/domain/professional/relationships.png" alt="ISO 42001 Annex A AI System Life Cycle - Operational Control Infographic" width="100%"></td>
-      <td width="42%"><img src="cards/annex-a/domain/funny/relationships.png" alt="ISO 42001 Annex A AI System Life Cycle - Operational Control Infographic" width="100%"></td>
+      <td width="42%"><img src="cards/annex-a/domain/professional/iso-42001-relationships.png" alt="ISO 42001 Annex A AI System Life Cycle - Operational Control Infographic" width="100%"></td>
+      <td width="42%"><img src="cards/annex-a/domain/funny/iso-42001-relationships.png" alt="ISO 42001 Annex A AI System Life Cycle - Operational Control Infographic" width="100%"></td>
     </tr>
   </tbody>
 </table>
