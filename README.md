@@ -4,7 +4,7 @@
 ![Status](https://img.shields.io/badge/status-work%20in%20progress-orange)
 ![Last commit](https://img.shields.io/github/last-commit/nelsambrose/ISO-42001-Visual-Library)
 
-A visual learning library for ISO/IEC 42001:2023 - the international standard for AI Management Systems.
+A collection of professional and humorous infographic cards to help you understand, remember, and explain ISO/IEC 42001.
 
 > Status: Work in progress. Current coverage includes the ISO 42001 overview, Annex A overview, domain cards, control cards, Clauses 4 to 10, and the Audit Readiness mini-deck.
 
