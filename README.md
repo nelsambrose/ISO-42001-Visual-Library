@@ -6,8 +6,6 @@
 
 A collection of professional and humorous infographic cards to help you understand, remember, and explain ISO/IEC 42001.
 
-A collection of professional and humorous infographic cards to help you understand, remember, and explain ISO/IEC 42001.
-
 > [!NOTE]
 > ### 🔓 Project Access & Status
 > **Free to use, share, or remix these cards in presentations, training, and awareness sessions.**
