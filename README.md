@@ -14,7 +14,7 @@ A collection of professional and humorous infographic cards to help you understa
 
 This repository is a practical visual library for learning and explaining ISO/IEC 42001:2023, the international standard for AI Management Systems (AIMS).
 
-It is designed to make ISO 42001 easier to understand, remember and communicate. The library combines neutral reference material with professional and humorous infographic cards so the same topic can be used for study, briefing, audit preparation and memory reinforcement.
+It is designed to make ISO 42001 easier to understand, remember, and explain through visual learning. The library combines professional and humorous infographic cards to support study, awareness, training, presentations, and audit preparation.
 
 ## Why this exists
 
