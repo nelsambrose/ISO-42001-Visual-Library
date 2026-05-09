@@ -53,16 +53,6 @@ The simple memory cards are deliberately minimal. They are designed to help peop
 
 The reference card is the canonical content source. The professional and funny infographics are two different treatments of the same topic: one for clear explanation and sharing, the other for memory and engagement. The funny cards use a different style, but they should not introduce different requirements or change the meaning of the standard.
 
-## Planned additions
-
-- Expanded Annex A guidance and supporting visuals
-- AI principles
-- Certification preparation
-- People impact and human oversight
-- ISO 42001 and ISO 27001 comparison
-- EU AI Act alignment
-- AI policy templates
-
 ## Current coverage
 
 The library currently covers the ISO 42001 overview, Annex A overview, domain cards, control cards, Clauses 4 to 10, and the Audit Readiness mini-deck.
