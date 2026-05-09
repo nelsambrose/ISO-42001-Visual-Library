@@ -64,15 +64,11 @@ For Audit Readiness reference material, see the [Audit Readiness reference index
 - EU AI Act alignment
 - AI policy templates
 
-## How to use it
+## How to Use This Library
 
-These assets are free to use under CC BY 4.0 for personal learning, training, and sharing online. Not intended as a collaborative project.
+These assets are learning aids designed for quick recall, communication, and awareness; they are not a replacement for the full ISO/IEC 42001:2023 standard.
 
-Start with the reference card when you want the factual explanation of a topic. Use the professional infographic when you need a clean visual for colleagues, leadership or audit preparation. Use the funny infographic when you want the concept to be memorable.
-
-The assets are deliberately short and visual. They are learning aids, not a replacement for the ISO/IEC 42001:2023 standard itself.
-
-Project structure, content rules, and file naming are documented in [CONTEXT.md](CONTEXT.md).
+Project structure and naming conventions are documented in [CONTEXT.md](CONTEXT.md).
 
 ## Card gallery
 
