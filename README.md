@@ -200,7 +200,7 @@ Clauses 4–10 are the mandatory requirements of ISO 42001 — the core of the s
       <td width="42%"><img src="cards/funny/clause-08-operation.png" alt="ISO/IEC 42001 funny card about operation" width="340"></td>
     </tr>
     <tr>
-      <td width="16%"><strong>Clause 9</strong><br>Performance Evaluation</td>
+      <td width="16%"><strong>Clause 9</strong><br>Performance Evaluation<br><a href="cards/reference/clause-09-performance-evaluation.md">Reference</a></td>
       <td width="42%"><img src="cards/professional/clause-09-performance-evaluation.png" alt="ISO/IEC 42001 professional card about performance evaluation" width="340"></td>
       <td width="42%"><img src="cards/funny/clause-09-performance-evaluation.png" alt="ISO/IEC 42001 funny card about performance evaluation" width="340"></td>
     </tr>
