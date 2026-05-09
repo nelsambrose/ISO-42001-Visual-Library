@@ -56,10 +56,10 @@ For Audit Readiness reference material, see the [Audit Readiness reference index
 
 ## Planned additions
 
-- Additional Annex A supporting visuals and implementation guidance
+- Expanded Annex A guidance and supporting visuals
 - AI principles
 - Certification preparation
-- People impact
+- People impact and human oversight
 - ISO 42001 and ISO 27001 comparison
 - EU AI Act alignment
 - AI policy templates
