@@ -175,7 +175,7 @@ Clauses 4–10 are the mandatory requirements of ISO 42001 — the core of the s
   </thead>
   <tbody>
     <tr>
-      <td width="16%"><strong>Clause 4</strong><br>Context of the Organisation<br><a href="cards/reference/clause-04-context-of-the-organisation.md">Reference</a></td>
+      <td width="16%"><strong>Clause 4</strong><br>Context of the Organisation<br><a href="cards/reference/clause-04-context-of-the-organisation.md">Reference ↗</a></td>
       <td width="42%"><img src="cards/professional/clause-04-context-of-the-organisation.png" alt="ISO/IEC 42001 professional card about context of the organisation" width="340"></td>
       <td width="42%"><img src="cards/funny/clause-04-context-of-the-organisation.png" alt="ISO/IEC 42001 funny card about context of the organisation" width="340"></td>
     </tr>
