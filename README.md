@@ -50,45 +50,9 @@ This library is useful for:
 
 The library currently covers the ISO 42001 overview, Annex A overview, domain cards, control cards, and Clauses 4 to 10.
 
-| Topic | Reference | Professional infographic | Funny infographic |
-|---|---|---|---|
-| Overview | [View reference](cards/reference/overview.md) | [View image](cards/professional/overview.png) | [View image](cards/funny/overview.png) |
-| Clause 4: Context of the Organisation | [View reference](cards/reference/clause-04-context-of-the-organisation.md) | [View image](cards/professional/clause-04-context-of-the-organisation.png) | [View image](cards/funny/clause-04-context-of-the-organisation.png) |
-| Clause 5: Leadership | [View reference](cards/reference/clause-05-leadership.md) | [View image](cards/professional/clause-05-leadership.png) | [View image](cards/funny/clause-05-leadership.png) |
-| Clause 6: Planning | [View reference](cards/reference/clause-06-planning.md) | [View image](cards/professional/clause-06-planning.png) | [View image](cards/funny/clause-06-planning.png) |
-| Clause 7: Support | [View reference](cards/reference/clause-07-support.md) | [View image](cards/professional/clause-07-support.png) | [View image](cards/funny/clause-07-support.png) |
-| Clause 8: Operation | [View reference](cards/reference/clause-08-operation.md) | [View image](cards/professional/clause-08-operation.png) | [View image](cards/funny/clause-08-operation.png) |
-| Clause 9: Performance Evaluation | [View reference](cards/reference/clause-09-performance-evaluation.md) | [View image](cards/professional/clause-09-performance-evaluation.png) | [View image](cards/funny/clause-09-performance-evaluation.png) |
-| Clause 10: Improvement | [View reference](cards/reference/clause-10-improvement.md) | [View image](cards/professional/clause-10-improvement.png) | [View image](cards/funny/clause-10-improvement.png) |
-
 Annex A coverage currently includes:
 
-| Topic | Professional | Funny |
-|---|---|---|
-| Annex A overview | [View image](cards/annex-a/overview/annex-a-overview-professional.png) | [View image](cards/annex-a/overview/annex-a-overview-funny.png) |
-| Domain: Governance | [View image](cards/annex-a/domain/professional/governance.png) | [View image](cards/annex-a/domain/funny/governance.png) |
-| Domain: Organisation | [View image](cards/annex-a/domain/professional/organisation.png) | [View image](cards/annex-a/domain/funny/organisation.png) |
-| Domain: Operation | [View image](cards/annex-a/domain/professional/operation.png) | [View image](cards/annex-a/domain/funny/operation.png) |
-| Domain: Relationships | [View image](cards/annex-a/domain/professional/relationships.png) | [View image](cards/annex-a/domain/funny/relationships.png) |
-| A.2 Policies Related to AI | [View image](cards/annex-a/control/professional/a-02-policies-related-to-ai.png) | [View image](cards/annex-a/control/funny/a-02-policies-related-to-ai.png) |
-| A.3 Internal Organisation | [View image](cards/annex-a/control/professional/a-03-internal-organisation.png) | [View image](cards/annex-a/control/funny/a-03-internal-organisation.png) |
-| A.4 Resources for AI Systems | [View image](cards/annex-a/control/professional/a-04-resources-for-ai-systems.png) | [View image](cards/annex-a/control/funny/a-04-resources-for-ai-systems.png) |
-| A.5 Assessing Impacts of AI Systems | [View image](cards/annex-a/control/professional/a-05-assessing-impacts-of-ai-systems.png) | [View image](cards/annex-a/control/funny/a-05-assessing-impacts-of-ai-systems.png) |
-| A.6 AI System Life Cycle | [View image](cards/annex-a/control/professional/a-06-ai-system-life-cycle.png) | [View image](cards/annex-a/control/funny/a-06-ai-system-life-cycle.png) |
-| A.7 Data for AI Systems | [View image](cards/annex-a/control/professional/a-07-data-for-ai-systems.png) | [View image](cards/annex-a/control/funny/a-07-data-for-ai-systems.png) |
-| A.8 Information for Interested Parties | [View image](cards/annex-a/control/professional/a-08-information-for-interested-parties.png) | [View image](cards/annex-a/control/funny/a-08-information-for-interested-parties.png) |
-| A.9 Use of AI Systems | [View image](cards/annex-a/control/professional/a-09-use-of-ai-systems.png) | [View image](cards/annex-a/control/funny/a-09-use-of-ai-systems.png) |
-| A.10 Third-party and Customer Relationships | [View image](cards/annex-a/control/professional/a-10-third-party-and-customer-relationships.png) | [View image](cards/annex-a/control/funny/a-10-third-party-and-customer-relationships.png) |
-
 Audit Readiness coverage currently includes all five cards with reference files, professional images, and funny images. See the [Audit Readiness reference index](cards/audit/reference/README.md) for an overview of the deck.
-
-| Card | Reference | Professional | Funny |
-|---|---|---|---|
-| Audit-01 What an Auditor Actually Looks For | [View Reference](cards/audit/reference/audit-01-what-an-auditor-actually-looks-for.md) | [Professional](cards/audit/professional/audit-01-what-an-auditor-actually-looks-for.png) | [Funny](cards/audit/funny/audit-01-what-an-auditor-actually-looks-for.png) |
-| Audit-02 Evidence vs Good Intentions | [View Reference](cards/audit/reference/audit-02-evidence-vs-good-intentions.md) | [Professional](cards/audit/professional/audit-02-evidence-vs-good-intentions.png) | [Funny](cards/audit/funny/audit-02-evidence-vs-good-intentions.png) |
-| Audit-03 Strong Versus Weak Evidence Examples | [View Reference](cards/audit/reference/audit-03-strong-versus-weak-evidence-examples.md) | [Professional](cards/audit/professional/audit-03-strong-versus-weak-evidence-examples.png) | [Funny](cards/audit/funny/audit-03-strong-versus-weak-evidence-examples.png) |
-| Audit-04 Common Audit Failure Modes Across Annex A | [View Reference](cards/audit/reference/audit-04-common-audit-failure-modes-across-annex-a.md) | [Professional](cards/audit/professional/audit-04-common-audit-failure-modes-across-annex-a.png) | [Funny](cards/audit/funny/audit-04-common-audit-failure-modes-across-annex-a.png) |
-| Audit-05 How to Talk About Controls Confidently | [View Reference](cards/audit/reference/audit-05-how-to-talk-about-controls-confidently.md) | [Professional](cards/audit/professional/audit-05-how-to-talk-about-controls-confidently.png) | [Funny](cards/audit/funny/audit-05-how-to-talk-about-controls-confidently.png) |
 
 ## Planned additions
 
