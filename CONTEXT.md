@@ -141,9 +141,9 @@ sharing.
 
 ## Current status
 
-The library is private while being built out. 
-It will be made public once ISO 42001 coverage is 
-considered substantially complete.
+The library is public and actively maintained. Assets are
+free to use under CC BY 4.0 for personal learning, training,
+and sharing online.
 
 The repo currently contains project documentation, reference catalogue
 entries, funny and professional infographic cards for the overview and
