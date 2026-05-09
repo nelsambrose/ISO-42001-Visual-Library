@@ -78,6 +78,16 @@ Audit Readiness coverage currently includes all five cards with reference files,
 | Audit-04 Common Audit Failure Modes Across Annex A | [View Reference](cards/audit/reference/audit-04-common-audit-failure-modes-across-annex-a.md) | [Professional](cards/audit/professional/audit-04-common-audit-failure-modes-across-annex-a.png) | [Funny](cards/audit/funny/audit-04-common-audit-failure-modes-across-annex-a.png) |
 | Audit-05 How to Talk About Controls Confidently | [View Reference](cards/audit/reference/audit-05-how-to-talk-about-controls-confidently.md) | [Professional](cards/audit/professional/audit-05-how-to-talk-about-controls-confidently.png) | [Funny](cards/audit/funny/audit-05-how-to-talk-about-controls-confidently.png) |
 
+## Planned additions
+
+- Additional Annex A supporting visuals and implementation guidance
+- AI principles
+- Certification preparation
+- People impact
+- ISO 42001 and ISO 27001 comparison
+- EU AI Act alignment
+- AI policy templates
+
 ## How to use it
 
 These assets are free to use under CC BY 4.0 for personal learning, training, and sharing online. Not intended as a collaborative project.
@@ -386,18 +396,6 @@ Earlier visual styles explored during the development of this library. They have
     </tr>
   </tbody>
 </table>
-
-## Roadmap
-
-Planned additions:
-
-- Additional Annex A supporting material
-- AI principles
-- Certification preparation
-- People impact
-- ISO 42001 and ISO 27001 comparison
-- EU AI Act alignment
-- AI policy templates
 
 ## Licence
 
