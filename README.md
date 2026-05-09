@@ -190,7 +190,7 @@ Clauses 4–10 are the mandatory requirements of ISO 42001 — the core of the s
       <td width="42%"><img src="cards/funny/clause-06-planning.png" alt="ISO/IEC 42001 funny card about planning" width="340"></td>
     </tr>
     <tr>
-      <td width="16%"><strong>Clause 7</strong><br>Support<br><a href="cards/reference/clause-07-support.md">Reference</a></td>
+      <td width="16%"><strong>Clause 7</strong><br>Support<br><a href="cards/reference/clause-07-support.md">Reference ↗</a></td>
       <td width="42%"><img src="cards/professional/clause-07-support.png" alt="ISO/IEC 42001 professional card about support" width="340"></td>
       <td width="42%"><img src="cards/funny/clause-07-support.png" alt="ISO/IEC 42001 funny card about support" width="340"></td>
     </tr>
