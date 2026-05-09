@@ -89,13 +89,13 @@ Project structure and naming conventions are documented in [CONTEXT.md](CONTEXT.
 ### Overview
 
 <p>
-  <img src="cards/professional/overview.png" alt="ISO/IEC 42001 professional overview infographic" width="760">
+  <img src="cards/professional/iso-42001-overview.png" alt="ISO/IEC 42001 professional overview infographic" width="760">
 </p>
 
 ---
 
 <p>
-  <img src="cards/funny/overview.png" alt="ISO/IEC 42001 funny overview infographic" width="760">
+  <img src="cards/funny/iso-42001-overview.png" alt="ISO/IEC 42001 funny overview infographic" width="760">
 </p>
 
 ### Clause memory cards
