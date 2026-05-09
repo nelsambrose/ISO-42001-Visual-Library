@@ -76,6 +76,9 @@ Project structure, content rules, and file naming are documented in [CONTEXT.md]
 
 ## Card gallery
 
+> [!TIP]
+> Click any card to open a full-size view. This is the easiest way to read the detail.
+
 ### Overview
 
 <p>
@@ -101,9 +104,6 @@ These cards are intentionally simple. The goal is not to explain every sub-claus
 - Clause 8 = Operation
 - Clause 9 = Performance Evaluation
 - Clause 10 = Improvement
-
-> [!TIP]
-> Click any card to open a full-size view. This is the easiest way to read the detail.
 
 #### Professional simple memory cards
 
@@ -201,9 +201,6 @@ Annex A is the operational core of ISO 42001. It contains 38 controls across nin
 </table>
 
 The overview images show how Annex A is grouped. The table below compares the professional and funny versions of each Annex A domain card.
-
-> [!TIP]
-> Click any card to open a full-size view. This is the easiest way to read the detail.
 
 <table>
   <thead>
@@ -346,9 +343,6 @@ The Audit Readiness Cards help translate ISO/IEC 42001 governance into audit-rea
 Earlier visual styles explored during the development of this library. They have since been superseded by the current card designs, but the content remains accurate. Feel free to use any of these if you prefer the format.
 
 <img src="cards/archive/iso-42001-manage-ai-like-a-boss.png" alt="ISO/IEC 42001 funny archive card about managing AI like a boss" width="100%">
-
-> [!TIP]
-> Click any card to open a full-size view. This is the easiest way to read the detail.
 
 <table>
   <tbody>
