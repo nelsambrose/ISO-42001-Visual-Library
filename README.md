@@ -195,8 +195,8 @@ These controls are grouped into four domains:
   </thead>
   <tbody>
     <tr>
-      <td width="50%"><img src="cards/annex-a/overview/annex-a-overview-professional.png" alt="ISO/IEC 42001 Annex A professional overview infographic" width="100%"></td>
-      <td width="50%"><img src="cards/annex-a/overview/annex-a-overview-funny.png" alt="ISO/IEC 42001 Annex A funny overview infographic" width="100%"></td>
+      <td width="50%"><img src="cards/annex-a/overview/iso-42001-annex-a-overview-professional.png" alt="ISO/IEC 42001 Annex A professional overview infographic" width="100%"></td>
+      <td width="50%"><img src="cards/annex-a/overview/iso-42001-annex-a-overview-funny.png" alt="ISO/IEC 42001 Annex A funny overview infographic" width="100%"></td>
     </tr>
   </tbody>
 </table>
