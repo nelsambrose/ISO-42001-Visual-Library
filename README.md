@@ -185,7 +185,7 @@ Clauses 4–10 are the mandatory requirements of ISO 42001 — the core of the s
       <td width="42%"><img src="cards/funny/clause-05-leadership.png" alt="ISO/IEC 42001 funny card about leadership" width="340"></td>
     </tr>
     <tr>
-      <td width="16%"><strong>Clause 6</strong><br>Planning</td>
+      <td width="16%"><strong>Clause 6</strong><br>Planning<br><a href="cards/reference/clause-06-planning.md">Reference</a></td>
       <td width="42%"><img src="cards/professional/clause-06-planning.png" alt="ISO/IEC 42001 professional card about planning" width="340"></td>
       <td width="42%"><img src="cards/funny/clause-06-planning.png" alt="ISO/IEC 42001 funny card about planning" width="340"></td>
     </tr>
