@@ -67,7 +67,7 @@ For Audit Readiness reference material, see the [Audit Readiness reference index
 ### Overview
 
 <p align="center">
-  <img src="cards/professional/iso-42001-overview.png" alt="ISO 42001 Overview - Professional Infographic" width="760">
+  <img src="cards/professional/iso-42001-overview.png" alt="ISO 42001 Overview - Professional Infographic" width="100%">
 </p>
 
 ---
