@@ -12,7 +12,7 @@ A collection of professional and humorous infographic cards to help you understa
 > No gatekeeping - attribution is appreciated but not required.
 
 > Status: Work in progress. Current coverage includes Clauses 4–10, Annex A domain and control cards, and the Audit Readiness mini-deck.*
-
+</br>
 <details>
   <summary>Click to expand Table of Contents</summary>
   <br>
