@@ -14,7 +14,7 @@ A collection of professional and humorous infographic cards to help you understa
 > Status: Work in progress. Current coverage includes Clauses 4–10, Annex A domain and control cards, and the Audit Readiness mini-deck.*
 
 <details>
-  <summary><b>Click to expand Table of Contents</b></summary>
+  <summary>Click to expand Table of Contents</summary>
   <br>
 
   - [What this repository is](#what-this-repository-is)
