@@ -33,15 +33,11 @@ It is designed to make ISO 42001 easier to understand, remember, and explain thr
 
 ## Why this exists
 
-ISO 42001 is important, but most available material is either very dense, overly generic, or aimed at people who already understand management system standards.
-
-This project fills that gap by turning the standard into clear, reusable learning assets. The goal is to help people build confidence with AI governance concepts without losing accuracy or inventing requirements.
+Most ISO 42001 material is dense or assumes prior knowledge. This library turns the standard into short visual cards designed for learning, communication, and memory.
 
 ## How the library works
 
-The simple memory cards are deliberately minimal. They are designed to help people remember the clause number and core keyword quickly.
-
-The reference card is the canonical content source. The professional and funny infographics are two different treatments of the same topic: one for clear explanation and sharing, the other for memory and engagement. The funny cards use a different style, but they should not introduce different requirements or change the meaning of the standard.
+Each topic includes a professional card for clear explanation and sharing, and a funny card for memory and engagement. Some topics also include minimal memory cards focused on clause number and keyword recall.
 
 ## Current coverage
 
