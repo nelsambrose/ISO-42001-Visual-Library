@@ -83,13 +83,13 @@ Project structure and naming conventions are documented in [CONTEXT.md](CONTEXT.
 ### Overview
 
 <p>
-  <img src="cards/professional/iso-42001-overview.png" alt="ISO/IEC 42001 professional overview infographic" width="760">
+  <img src="cards/professional/iso-42001-overview.png" alt="ISO 42001 Overview - Professional Infographic" width="760">
 </p>
 
 ---
 
 <p>
-  <img src="cards/funny/iso-42001-overview.png" alt="ISO/IEC 42001 funny overview infographic" width="760">
+  <img src="cards/funny/iso-42001-overview.png" alt="ISO 42001 Overview - Humorous Infographic" width="760">
 </p>
 
 ### Clause memory cards
@@ -102,21 +102,21 @@ These cards are intentionally simple. The goal is not to explain every sub-claus
 
 | Clause 4 | Clause 5 | Clause 6 |
 |:---:|:---:|:---:|
-| <img src="cards/professional/simple/iso-42001-clause-04-context-of-the-organisation.png" alt="ISO/IEC 42001 simple professional card about context of the organisation" width="260"> | <img src="cards/professional/simple/iso-42001-clause-05-leadership.png" alt="ISO/IEC 42001 simple professional card about leadership" width="260"> | <img src="cards/professional/simple/iso-42001-clause-06-planning.png" alt="ISO/IEC 42001 simple professional card about planning" width="260"> |
+| <img src="cards/professional/simple/iso-42001-clause-04-context-of-the-organisation.png" alt="ISO 42001 Clause 4 Context of the Organisation - Professional Simple Memory Card" width="260"> | <img src="cards/professional/simple/iso-42001-clause-05-leadership.png" alt="ISO 42001 Clause 5 Leadership - Professional Simple Memory Card" width="260"> | <img src="cards/professional/simple/iso-42001-clause-06-planning.png" alt="ISO 42001 Clause 6 Planning - Professional Simple Memory Card" width="260"> |
 | **Clause 7** | **Clause 8** | **Clause 9** |
-| <img src="cards/professional/simple/iso-42001-clause-07-support.png" alt="ISO/IEC 42001 simple professional card about support" width="260"> | <img src="cards/professional/simple/iso-42001-clause-08-operation.png" alt="ISO/IEC 42001 simple professional card about operation" width="260"> | <img src="cards/professional/simple/iso-42001-clause-09-performance-evaluation.png" alt="ISO/IEC 42001 simple professional card about performance evaluation" width="260"> |
+| <img src="cards/professional/simple/iso-42001-clause-07-support.png" alt="ISO 42001 Clause 7 Support - Professional Simple Memory Card" width="260"> | <img src="cards/professional/simple/iso-42001-clause-08-operation.png" alt="ISO 42001 Clause 8 Operation - Professional Simple Memory Card" width="260"> | <img src="cards/professional/simple/iso-42001-clause-09-performance-evaluation.png" alt="ISO 42001 Clause 9 Performance Evaluation - Professional Simple Memory Card" width="260"> |
 |  | **Clause 10** |  |
-|  | <img src="cards/professional/simple/iso-42001-clause-10-improvement.png" alt="ISO/IEC 42001 simple professional card about improvement" width="260"> |  |
+|  | <img src="cards/professional/simple/iso-42001-clause-10-improvement.png" alt="ISO 42001 Clause 10 Improvement - Professional Simple Memory Card" width="260"> |  |
 
 #### Funny simple memory cards
 
 | Clause 4 | Clause 5 | Clause 6 |
 |:---:|:---:|:---:|
-| <img src="cards/funny/simple/iso-42001-clause-04-context-of-the-organisation.png" alt="ISO/IEC 42001 simple funny card about context of the organisation" width="260"> | <img src="cards/funny/simple/iso-42001-clause-05-leadership.png" alt="ISO/IEC 42001 simple funny card about leadership" width="260"> | <img src="cards/funny/simple/iso-42001-clause-06-planning.png" alt="ISO/IEC 42001 simple funny card about planning" width="260"> |
+| <img src="cards/funny/simple/iso-42001-clause-04-context-of-the-organisation.png" alt="ISO 42001 Clause 4 Context of the Organisation - Humorous Simple Memory Card" width="260"> | <img src="cards/funny/simple/iso-42001-clause-05-leadership.png" alt="ISO 42001 Clause 5 Leadership - Humorous Simple Memory Card" width="260"> | <img src="cards/funny/simple/iso-42001-clause-06-planning.png" alt="ISO 42001 Clause 6 Planning - Humorous Simple Memory Card" width="260"> |
 | **Clause 7** | **Clause 8** | **Clause 9** |
-| <img src="cards/funny/simple/iso-42001-clause-07-support.png" alt="ISO/IEC 42001 simple funny card about support" width="260"> | <img src="cards/funny/simple/iso-42001-clause-08-operation.png" alt="ISO/IEC 42001 simple funny card about operation" width="260"> | <img src="cards/funny/simple/iso-42001-clause-09-performance-evaluation.png" alt="ISO/IEC 42001 simple funny card about performance evaluation" width="260"> |
+| <img src="cards/funny/simple/iso-42001-clause-07-support.png" alt="ISO 42001 Clause 7 Support - Humorous Simple Memory Card" width="260"> | <img src="cards/funny/simple/iso-42001-clause-08-operation.png" alt="ISO 42001 Clause 8 Operation - Humorous Simple Memory Card" width="260"> | <img src="cards/funny/simple/iso-42001-clause-09-performance-evaluation.png" alt="ISO 42001 Clause 9 Performance Evaluation - Humorous Simple Memory Card" width="260"> |
 |  | **Clause 10** |  |
-|  | <img src="cards/funny/simple/iso-42001-clause-10-improvement.png" alt="ISO/IEC 42001 simple funny card about improvement" width="260"> |  |
+|  | <img src="cards/funny/simple/iso-42001-clause-10-improvement.png" alt="ISO 42001 Clause 10 Improvement - Humorous Simple Memory Card" width="260"> |  |
 
 ### Clause cards
 
@@ -189,8 +189,8 @@ These controls are grouped into four domains:
   </thead>
   <tbody>
     <tr>
-      <td width="50%"><img src="cards/annex-a/overview/iso-42001-annex-a-overview-professional.png" alt="ISO/IEC 42001 Annex A professional overview infographic" width="100%"></td>
-      <td width="50%"><img src="cards/annex-a/overview/iso-42001-annex-a-overview-funny.png" alt="ISO/IEC 42001 Annex A funny overview infographic" width="100%"></td>
+      <td width="50%"><img src="cards/annex-a/overview/iso-42001-annex-a-overview-professional.png" alt="ISO 42001 Annex A Overview - Professional Domain Infographic" width="100%"></td>
+      <td width="50%"><img src="cards/annex-a/overview/iso-42001-annex-a-overview-funny.png" alt="ISO 42001 Annex A Overview - Humorous Domain Infographic" width="100%"></td>
     </tr>
   </tbody>
 </table>
@@ -208,23 +208,23 @@ The overview images show how Annex A is grouped. The table below compares the pr
   <tbody>
     <tr>
       <td width="16%">Governance<br><a href="cards/annex-a/reference/domain/governance.md">Reference ↗</a></td>
-      <td width="42%"><img src="cards/annex-a/domain/professional/iso-42001-governance.png" alt="ISO 42001 Annex A Policies and Internal Organisation - AI Governance Infographic" width="100%"></td>
-      <td width="42%"><img src="cards/annex-a/domain/funny/iso-42001-governance.png" alt="ISO 42001 Annex A Policies and Internal Organisation - AI Governance Infographic" width="100%"></td>
+      <td width="42%"><img src="cards/annex-a/domain/professional/iso-42001-governance.png" alt="ISO 42001 Annex A Governance - Professional Domain Infographic" width="100%"></td>
+      <td width="42%"><img src="cards/annex-a/domain/funny/iso-42001-governance.png" alt="ISO 42001 Annex A Governance - Humorous Domain Infographic" width="100%"></td>
     </tr>
     <tr>
       <td width="16%">Organisation<br><a href="cards/annex-a/reference/domain/organisation.md">Reference ↗</a></td>
-      <td width="42%"><img src="cards/annex-a/domain/professional/iso-42001-organisation.png" alt="ISO 42001 Annex A Resources for AI Systems - Resource Management Infographic" width="100%"></td>
-      <td width="42%"><img src="cards/annex-a/domain/funny/iso-42001-organisation.png" alt="ISO 42001 Annex A Resources for AI Systems - Resource Management Infographic" width="100%"></td>
+      <td width="42%"><img src="cards/annex-a/domain/professional/iso-42001-organisation.png" alt="ISO 42001 Annex A Organisation - Professional Domain Infographic" width="100%"></td>
+      <td width="42%"><img src="cards/annex-a/domain/funny/iso-42001-organisation.png" alt="ISO 42001 Annex A Organisation - Humorous Domain Infographic" width="100%"></td>
     </tr>
     <tr>
       <td width="16%">Operation<br><a href="cards/annex-a/reference/domain/operation.md">Reference ↗</a></td>
-      <td width="42%"><img src="cards/annex-a/domain/professional/iso-42001-operation.png" alt="ISO 42001 Annex A Assessing Impacts of AI Systems - Impact Assessment Infographic" width="100%"></td>
-      <td width="42%"><img src="cards/annex-a/domain/funny/iso-42001-operation.png" alt="ISO 42001 Annex A Assessing Impacts of AI Systems - Impact Assessment Infographic" width="100%"></td>
+      <td width="42%"><img src="cards/annex-a/domain/professional/iso-42001-operation.png" alt="ISO 42001 Annex A Operation - Professional Domain Infographic" width="100%"></td>
+      <td width="42%"><img src="cards/annex-a/domain/funny/iso-42001-operation.png" alt="ISO 42001 Annex A Operation - Humorous Domain Infographic" width="100%"></td>
     </tr>
     <tr>
       <td width="16%">Relationships<br><a href="cards/annex-a/reference/domain/relationships.md">Reference ↗</a></td>
-      <td width="42%"><img src="cards/annex-a/domain/professional/iso-42001-relationships.png" alt="ISO 42001 Annex A AI System Life Cycle - Operational Control Infographic" width="100%"></td>
-      <td width="42%"><img src="cards/annex-a/domain/funny/iso-42001-relationships.png" alt="ISO 42001 Annex A AI System Life Cycle - Operational Control Infographic" width="100%"></td>
+      <td width="42%"><img src="cards/annex-a/domain/professional/iso-42001-relationships.png" alt="ISO 42001 Annex A Relationships - Professional Domain Infographic" width="100%"></td>
+      <td width="42%"><img src="cards/annex-a/domain/funny/iso-42001-relationships.png" alt="ISO 42001 Annex A Relationships - Humorous Domain Infographic" width="100%"></td>
     </tr>
   </tbody>
 </table>
@@ -244,48 +244,48 @@ These cards provide individual control-level learning summaries for Annex A. Eac
   <tbody>
     <tr>
       <td width="16%"><strong>A.2</strong> Policies Related to AI<br><a href="cards/annex-a/reference/control/a-02-policies-related-to-ai.md">Reference ↗</a></td>
-      <td width="42%"><img src="cards/annex-a/control/professional/iso-42001-a-02-policies-related-to-ai.png" alt="ISO/IEC 42001 Annex A professional control card about policies related to AI" width="100%"></td>
-      <td width="42%"><img src="cards/annex-a/control/funny/iso-42001-a-02-policies-related-to-ai.png" alt="ISO/IEC 42001 Annex A funny control card about policies related to AI" width="100%"></td>
+      <td width="42%"><img src="cards/annex-a/control/professional/iso-42001-a-02-policies-related-to-ai.png" alt="ISO 42001 Annex A.2 Policies Related to AI - Professional Control Card" width="100%"></td>
+      <td width="42%"><img src="cards/annex-a/control/funny/iso-42001-a-02-policies-related-to-ai.png" alt="ISO 42001 Annex A.2 Policies Related to AI - Humorous Control Card" width="100%"></td>
     </tr>
     <tr>
       <td width="16%"><strong>A.3</strong> Internal Organisation<br><a href="cards/annex-a/reference/control/a-03-internal-organisation.md">Reference ↗</a></td>
-      <td width="42%"><img src="cards/annex-a/control/professional/iso-42001-a-03-internal-organisation.png" alt="ISO/IEC 42001 Annex A professional control card about internal organisation" width="100%"></td>
-      <td width="42%"><img src="cards/annex-a/control/funny/iso-42001-a-03-internal-organisation.png" alt="ISO/IEC 42001 Annex A funny control card about internal organisation" width="100%"></td>
+      <td width="42%"><img src="cards/annex-a/control/professional/iso-42001-a-03-internal-organisation.png" alt="ISO 42001 Annex A.3 Internal Organisation - Professional Control Card" width="100%"></td>
+      <td width="42%"><img src="cards/annex-a/control/funny/iso-42001-a-03-internal-organisation.png" alt="ISO 42001 Annex A.3 Internal Organisation - Humorous Control Card" width="100%"></td>
     </tr>
     <tr>
       <td width="16%"><strong>A.4</strong> Resources for AI Systems<br><a href="cards/annex-a/reference/control/a-04-resources-for-ai-systems.md">Reference ↗</a></td>
-      <td width="42%"><img src="cards/annex-a/control/professional/iso-42001-a-04-resources-for-ai-systems.png" alt="ISO/IEC 42001 Annex A professional control card about resources for AI systems" width="100%"></td>
-      <td width="42%"><img src="cards/annex-a/control/funny/iso-42001-a-04-resources-for-ai-systems.png" alt="ISO/IEC 42001 Annex A funny control card about resources for AI systems" width="100%"></td>
+      <td width="42%"><img src="cards/annex-a/control/professional/iso-42001-a-04-resources-for-ai-systems.png" alt="ISO 42001 Annex A.4 Resources for AI Systems - Professional Control Card" width="100%"></td>
+      <td width="42%"><img src="cards/annex-a/control/funny/iso-42001-a-04-resources-for-ai-systems.png" alt="ISO 42001 Annex A.4 Resources for AI Systems - Humorous Control Card" width="100%"></td>
     </tr>
     <tr>
       <td width="16%"><strong>A.5</strong> Assessing Impacts of AI Systems<br><a href="cards/annex-a/reference/control/a-05-assessing-impacts-of-ai-systems.md">Reference ↗</a></td>
-      <td width="42%"><img src="cards/annex-a/control/professional/iso-42001-a-05-assessing-impacts-of-ai-systems.png" alt="ISO/IEC 42001 Annex A professional control card about assessing impacts of AI systems" width="100%"></td>
-      <td width="42%"><img src="cards/annex-a/control/funny/iso-42001-a-05-assessing-impacts-of-ai-systems.png" alt="ISO/IEC 42001 Annex A funny control card about assessing impacts of AI systems" width="100%"></td>
+      <td width="42%"><img src="cards/annex-a/control/professional/iso-42001-a-05-assessing-impacts-of-ai-systems.png" alt="ISO 42001 Annex A.5 Assessing Impacts of AI Systems - Professional Control Card" width="100%"></td>
+      <td width="42%"><img src="cards/annex-a/control/funny/iso-42001-a-05-assessing-impacts-of-ai-systems.png" alt="ISO 42001 Annex A.5 Assessing Impacts of AI Systems - Humorous Control Card" width="100%"></td>
     </tr>
     <tr>
       <td width="16%"><strong>A.6</strong> AI System Life Cycle<br><a href="cards/annex-a/reference/control/a-06-ai-system-life-cycle.md">Reference ↗</a></td>
-      <td width="42%"><img src="cards/annex-a/control/professional/iso-42001-a-06-ai-system-life-cycle.png" alt="ISO/IEC 42001 Annex A professional control card about AI system life cycle" width="100%"></td>
-      <td width="42%"><img src="cards/annex-a/control/funny/iso-42001-a-06-ai-system-life-cycle.png" alt="ISO/IEC 42001 Annex A funny control card about AI system life cycle" width="100%"></td>
+      <td width="42%"><img src="cards/annex-a/control/professional/iso-42001-a-06-ai-system-life-cycle.png" alt="ISO 42001 Annex A.6 AI System Life Cycle - Professional Control Card" width="100%"></td>
+      <td width="42%"><img src="cards/annex-a/control/funny/iso-42001-a-06-ai-system-life-cycle.png" alt="ISO 42001 Annex A.6 AI System Life Cycle - Humorous Control Card" width="100%"></td>
     </tr>
     <tr>
       <td width="16%"><strong>A.7</strong> Data for AI Systems<br><a href="cards/annex-a/reference/control/a-07-data-for-ai-systems.md">Reference ↗</a></td>
-      <td width="42%"><img src="cards/annex-a/control/professional/iso-42001-a-07-data-for-ai-systems.png" alt="ISO/IEC 42001 Annex A professional control card about data for AI systems" width="100%"></td>
-      <td width="42%"><img src="cards/annex-a/control/funny/iso-42001-a-07-data-for-ai-systems.png" alt="ISO/IEC 42001 Annex A funny control card about data for AI systems" width="100%"></td>
+      <td width="42%"><img src="cards/annex-a/control/professional/iso-42001-a-07-data-for-ai-systems.png" alt="ISO 42001 Annex A.7 Data for AI Systems - Professional Control Card" width="100%"></td>
+      <td width="42%"><img src="cards/annex-a/control/funny/iso-42001-a-07-data-for-ai-systems.png" alt="ISO 42001 Annex A.7 Data for AI Systems - Humorous Control Card" width="100%"></td>
     </tr>
     <tr>
       <td width="16%"><strong>A.8</strong> Information for Interested Parties<br><a href="cards/annex-a/reference/control/a-08-information-for-interested-parties.md">Reference ↗</a></td>
-      <td width="42%"><img src="cards/annex-a/control/professional/iso-42001-a-08-information-for-interested-parties.png" alt="ISO/IEC 42001 Annex A professional control card about information for interested parties" width="100%"></td>
-      <td width="42%"><img src="cards/annex-a/control/funny/iso-42001-a-08-information-for-interested-parties.png" alt="ISO/IEC 42001 Annex A funny control card about information for interested parties" width="100%"></td>
+      <td width="42%"><img src="cards/annex-a/control/professional/iso-42001-a-08-information-for-interested-parties.png" alt="ISO 42001 Annex A.8 Information for Interested Parties - Professional Control Card" width="100%"></td>
+      <td width="42%"><img src="cards/annex-a/control/funny/iso-42001-a-08-information-for-interested-parties.png" alt="ISO 42001 Annex A.8 Information for Interested Parties - Humorous Control Card" width="100%"></td>
     </tr>
     <tr>
       <td width="16%"><strong>A.9</strong> Use of AI Systems<br><a href="cards/annex-a/reference/control/a-09-use-of-ai-systems.md">Reference ↗</a></td>
-      <td width="42%"><img src="cards/annex-a/control/professional/iso-42001-a-09-use-of-ai-systems.png" alt="ISO/IEC 42001 Annex A professional control card about use of AI systems" width="100%"></td>
-      <td width="42%"><img src="cards/annex-a/control/funny/iso-42001-a-09-use-of-ai-systems.png" alt="ISO/IEC 42001 Annex A funny control card about use of AI systems" width="100%"></td>
+      <td width="42%"><img src="cards/annex-a/control/professional/iso-42001-a-09-use-of-ai-systems.png" alt="ISO 42001 Annex A.9 Use of AI Systems - Professional Control Card" width="100%"></td>
+      <td width="42%"><img src="cards/annex-a/control/funny/iso-42001-a-09-use-of-ai-systems.png" alt="ISO 42001 Annex A.9 Use of AI Systems - Humorous Control Card" width="100%"></td>
     </tr>
     <tr>
       <td width="16%"><strong>A.10</strong> Third-party and Customer Relationships<br><a href="cards/annex-a/reference/control/a-10-third-party-and-customer-relationships.md">Reference ↗</a></td>
-      <td width="42%"><img src="cards/annex-a/control/professional/iso-42001-a-10-third-party-and-customer-relationships.png" alt="ISO/IEC 42001 Annex A professional control card about third-party and customer relationships" width="100%"></td>
-      <td width="42%"><img src="cards/annex-a/control/funny/iso-42001-a-10-third-party-and-customer-relationships.png" alt="ISO/IEC 42001 Annex A funny control card about third-party and customer relationships" width="100%"></td>
+      <td width="42%"><img src="cards/annex-a/control/professional/iso-42001-a-10-third-party-and-customer-relationships.png" alt="ISO 42001 Annex A.10 Third-Party and Customer Relationships - Professional Control Card" width="100%"></td>
+      <td width="42%"><img src="cards/annex-a/control/funny/iso-42001-a-10-third-party-and-customer-relationships.png" alt="ISO 42001 Annex A.10 Third-Party and Customer Relationships - Humorous Control Card" width="100%"></td>
     </tr>
   </tbody>
 </table>
@@ -307,28 +307,28 @@ Reference files and both professional and funny visual versions are available fo
   <tbody>
     <tr>
       <td width="16%"><strong>Audit-01</strong><br>What an Auditor Actually Looks For<br><a href="cards/audit/reference/audit-01-what-an-auditor-actually-looks-for.md">Reference ↗</a></td>
-      <td width="42%"><img src="cards/audit/professional/iso-42001-audit-01-what-an-auditor-actually-looks-for.png" alt="ISO 42001 Audit Readiness - What an Auditor Actually Looks For Infographic" width="100%"></td>
-      <td width="42%"><img src="cards/audit/funny/iso-42001-audit-01-what-an-auditor-actually-looks-for.png" alt="ISO 42001 Audit Readiness - What an Auditor Actually Looks For Infographic" width="100%"></td>
+      <td width="42%"><img src="cards/audit/professional/iso-42001-audit-01-what-an-auditor-actually-looks-for.png" alt="ISO 42001 Audit Readiness - What an Auditor Actually Looks For Professional Infographic" width="100%"></td>
+      <td width="42%"><img src="cards/audit/funny/iso-42001-audit-01-what-an-auditor-actually-looks-for.png" alt="ISO 42001 Audit Readiness - What an Auditor Actually Looks For Humorous Infographic" width="100%"></td>
     </tr>
     <tr>
       <td width="16%"><strong>Audit-02</strong><br>Evidence vs Good Intentions<br><a href="cards/audit/reference/audit-02-evidence-vs-good-intentions.md">Reference ↗</a></td>
-      <td width="42%"><img src="cards/audit/professional/iso-42001-audit-02-evidence-vs-good-intentions.png" alt="ISO 42001 Audit Readiness - Evidence vs Good Intentions Infographic" width="100%"></td>
-      <td width="42%"><img src="cards/audit/funny/iso-42001-audit-02-evidence-vs-good-intentions.png" alt="ISO 42001 Audit Readiness - Evidence vs Good Intentions Infographic" width="100%"></td>
+      <td width="42%"><img src="cards/audit/professional/iso-42001-audit-02-evidence-vs-good-intentions.png" alt="ISO 42001 Audit Readiness - Evidence vs Good Intentions Professional Infographic" width="100%"></td>
+      <td width="42%"><img src="cards/audit/funny/iso-42001-audit-02-evidence-vs-good-intentions.png" alt="ISO 42001 Audit Readiness - Evidence vs Good Intentions Humorous Infographic" width="100%"></td>
     </tr>
     <tr>
       <td width="16%"><strong>Audit-03</strong><br>Strong Versus Weak Evidence Examples<br><a href="cards/audit/reference/audit-03-strong-versus-weak-evidence-examples.md">Reference ↗</a></td>
-      <td width="42%"><img src="cards/audit/professional/iso-42001-audit-03-strong-versus-weak-evidence-examples.png" alt="ISO 42001 Audit Readiness - Strong vs Weak Evidence Examples Infographic" width="100%"></td>
-      <td width="42%"><img src="cards/audit/funny/iso-42001-audit-03-strong-versus-weak-evidence-examples.png" alt="ISO 42001 Audit Readiness - Strong vs Weak Evidence Examples Infographic" width="100%"></td>
+      <td width="42%"><img src="cards/audit/professional/iso-42001-audit-03-strong-versus-weak-evidence-examples.png" alt="ISO 42001 Audit Readiness - Strong vs Weak Evidence Examples Professional Infographic" width="100%"></td>
+      <td width="42%"><img src="cards/audit/funny/iso-42001-audit-03-strong-versus-weak-evidence-examples.png" alt="ISO 42001 Audit Readiness - Strong vs Weak Evidence Examples Humorous Infographic" width="100%"></td>
     </tr>
     <tr>
       <td width="16%"><strong>Audit-04</strong><br>Common Audit Failure Modes Across Annex A<br><a href="cards/audit/reference/audit-04-common-audit-failure-modes-across-annex-a.md">Reference ↗</a></td>
-      <td width="42%"><img src="cards/audit/professional/iso-42001-audit-04-common-audit-failure-modes-across-annex-a.png" alt="ISO 42001 Audit Readiness - Common Audit Failure Modes Infographic" width="100%"></td>
-      <td width="42%"><img src="cards/audit/funny/iso-42001-audit-04-common-audit-failure-modes-across-annex-a.png" alt="ISO 42001 Audit Readiness - Common Audit Failure Modes Infographic" width="100%"></td>
+      <td width="42%"><img src="cards/audit/professional/iso-42001-audit-04-common-audit-failure-modes-across-annex-a.png" alt="ISO 42001 Audit Readiness - Common Audit Failure Modes Professional Infographic" width="100%"></td>
+      <td width="42%"><img src="cards/audit/funny/iso-42001-audit-04-common-audit-failure-modes-across-annex-a.png" alt="ISO 42001 Audit Readiness - Common Audit Failure Modes Humorous Infographic" width="100%"></td>
     </tr>
     <tr>
       <td width="16%"><strong>Audit-05</strong><br>How to Talk About Controls Confidently<br><a href="cards/audit/reference/audit-05-how-to-talk-about-controls-confidently.md">Reference ↗</a></td>
-      <td width="42%"><img src="cards/audit/professional/iso-42001-audit-05-how-to-talk-about-controls-confidently.png" alt="ISO 42001 Audit Readiness - How to Talk About Controls Confidently Infographic" width="100%"></td>
-      <td width="42%"><img src="cards/audit/funny/iso-42001-audit-05-how-to-talk-about-controls-confidently.png" alt="ISO 42001 Audit Readiness - How to Talk About Controls Confidently Infographic" width="100%"></td>
+      <td width="42%"><img src="cards/audit/professional/iso-42001-audit-05-how-to-talk-about-controls-confidently.png" alt="ISO 42001 Audit Readiness - How to Talk About Controls Confidently Professional Infographic" width="100%"></td>
+      <td width="42%"><img src="cards/audit/funny/iso-42001-audit-05-how-to-talk-about-controls-confidently.png" alt="ISO 42001 Audit Readiness - How to Talk About Controls Confidently Humorous Infographic" width="100%"></td>
     </tr>
   </tbody>
 </table>
@@ -337,27 +337,27 @@ Reference files and both professional and funny visual versions are available fo
 
 Earlier visual styles explored during the development of this library. They have since been superseded by the current card designs, but the content remains accurate. Feel free to use any of these if you prefer the format.
 
-<img src="cards/archive/iso-42001-manage-ai-like-a-boss.png" alt="ISO/IEC 42001 funny archive card about managing AI like a boss" width="100%">
+<img src="cards/archive/iso-42001-manage-ai-like-a-boss.png" alt="ISO 42001 Archive - Manage AI Like a Boss Variant Card" width="100%">
 
 <table>
   <tbody>
     <tr>
-      <td width="25%"><img src="cards/archive/iso-42001-clause-08-operation.png" alt="ISO/IEC 42001 funny archive card about operation" width="100%"></td>
-      <td width="25%"><img src="cards/archive/iso-42001-clause-10-improvement.png" alt="ISO/IEC 42001 funny archive card about improvement" width="100%"></td>
-      <td width="25%"><img src="cards/archive/iso-42001-clause-08-operation-mission-control.png" alt="ISO/IEC 42001 funny archive card about operation mission control variant" width="100%"></td>
-      <td width="25%"><img src="cards/archive/iso-42001-a5-assessing-impact-of-ai-systems.png" alt="ISO/IEC 42001 funny archive card about assessing impact of AI systems" width="100%"></td>
+      <td width="25%"><img src="cards/archive/iso-42001-clause-08-operation.png" alt="ISO 42001 Archive - Clause 8 Operation Variant Card" width="100%"></td>
+      <td width="25%"><img src="cards/archive/iso-42001-clause-10-improvement.png" alt="ISO 42001 Archive - Clause 10 Improvement Variant Card" width="100%"></td>
+      <td width="25%"><img src="cards/archive/iso-42001-clause-08-operation-mission-control.png" alt="ISO 42001 Archive - Clause 8 Operation Mission Control Variant Card" width="100%"></td>
+      <td width="25%"><img src="cards/archive/iso-42001-a5-assessing-impact-of-ai-systems.png" alt="ISO 42001 Archive - A.5 Assessing Impact of AI Systems Variant Card" width="100%"></td>
     </tr>
     <tr>
-      <td width="25%"><img src="cards/archive/iso-42001-annex-a-domain-operation.png" alt="ISO/IEC 42001 funny archive card about Annex A domain operation" width="100%"></td>
-      <td width="25%"><img src="cards/archive/iso-42001-clause-09-performance-evaluation-2.png" alt="ISO/IEC 42001 funny archive card about performance evaluation variant 2" width="100%"></td>
-      <td width="25%"><img src="cards/archive/iso-42001-clause-09-performance-evaluation-3.png" alt="ISO/IEC 42001 funny archive card about performance evaluation variant 3" width="100%"></td>
-      <td width="25%"><img src="cards/archive/iso-42001-clause-07-support.png" alt="ISO/IEC 42001 funny archive card about support" width="100%"></td>
+      <td width="25%"><img src="cards/archive/iso-42001-annex-a-domain-operation.png" alt="ISO 42001 Archive - Annex A Domain Operation Variant Card" width="100%"></td>
+      <td width="25%"><img src="cards/archive/iso-42001-clause-09-performance-evaluation-2.png" alt="ISO 42001 Archive - Clause 9 Performance Evaluation Variant 2 Card" width="100%"></td>
+      <td width="25%"><img src="cards/archive/iso-42001-clause-09-performance-evaluation-3.png" alt="ISO 42001 Archive - Clause 9 Performance Evaluation Variant 3 Card" width="100%"></td>
+      <td width="25%"><img src="cards/archive/iso-42001-clause-07-support.png" alt="ISO 42001 Archive - Clause 7 Support Variant Card" width="100%"></td>
     </tr>
     <tr>
-      <td width="25%"><img src="cards/archive/iso-42001-clause-09-performance-evaluation-1.png" alt="ISO/IEC 42001 funny archive card about performance evaluation variant 1" width="100%"></td>
-      <td width="25%"><img src="cards/archive/iso-42001-clause-05-leadership.png" alt="ISO/IEC 42001 funny archive card about leadership" width="100%"></td>
-      <td width="25%"><img src="cards/archive/iso-42001-a-10-third-party-and-customer-relationships.png" alt="ISO/IEC 42001 professional archive card about third-party and customer relationships" width="100%"></td>
-      <td width="25%"><img src="cards/archive/iso-42001-clause-09-performance-evaluation.png" alt="ISO/IEC 42001 professional archive card about performance evaluation" width="100%"></td>
+      <td width="25%"><img src="cards/archive/iso-42001-clause-09-performance-evaluation-1.png" alt="ISO 42001 Archive - Clause 9 Performance Evaluation Variant 1 Card" width="100%"></td>
+      <td width="25%"><img src="cards/archive/iso-42001-clause-05-leadership.png" alt="ISO 42001 Archive - Clause 5 Leadership Variant Card" width="100%"></td>
+      <td width="25%"><img src="cards/archive/iso-42001-a-10-third-party-and-customer-relationships.png" alt="ISO 42001 Archive - A.10 Third-Party and Customer Relationships Variant Card" width="100%"></td>
+      <td width="25%"><img src="cards/archive/iso-42001-clause-09-performance-evaluation.png" alt="ISO 42001 Archive - Clause 9 Performance Evaluation Variant Card" width="100%"></td>
     </tr>
   </tbody>
 </table>
