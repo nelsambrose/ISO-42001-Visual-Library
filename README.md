@@ -82,13 +82,13 @@ Project structure and naming conventions are documented in [CONTEXT.md](CONTEXT.
 
 ### Overview
 
-<p>
+<p align="center">
   <img src="cards/professional/iso-42001-overview.png" alt="ISO 42001 Overview - Professional Infographic" width="760">
 </p>
 
 ---
 
-<p>
+<p align="center">
   <img src="cards/funny/iso-42001-overview.png" alt="ISO 42001 Overview - Humorous Infographic" width="760">
 </p>
 
