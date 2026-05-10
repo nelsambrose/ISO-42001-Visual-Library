@@ -45,7 +45,7 @@ Project structure and naming conventions are documented in [CONTEXT.md](CONTEXT.
 
 ## Current coverage
 
-The library currently covers the ISO 42001 overview, Annex A overview, domain cards, control cards, Clauses 4 to 10, and the Audit Readiness mini-deck.
+The library currently covers the ISO 42001 overview, Domain cards, Control cards, Clauses 4 to 10, Annex A, and the Audit Readiness.
 
 For Audit Readiness reference material, see the [Audit Readiness reference index](cards/audit/reference/README.md).
 
@@ -104,7 +104,7 @@ These cards are intentionally simple. The goal is not to explain every sub-claus
 
 ### Clause cards
 
-Clauses 4–10 are the mandatory requirements of ISO 42001 - the core of the standard that every organisation must implement. Unlike Annex A (which provides controls to select from), these clauses are non-negotiable. Each clause builds on the previous one, forming a management system cycle.
+Clauses 4–10 are the mandatory requirements of ISO 42001 - the standards that every organisation must implement. Unlike Annex A (which provides controls to select from), these clauses are non-negotiable. Each clause builds on the previous one, forming a management system cycle.
 
 <table>
   <thead>
@@ -157,7 +157,7 @@ Annex A is the operational core of ISO 42001. It contains controls across nine a
 
 ### Annex A domain cards
 
-These controls are grouped into four domains:
+These controls are grouped into four non-compulsory domains, and can be selected based on the organisation’s AI risks, context, and objectives:
 
 - **Governance** - Establishing AI policies, leadership accountability, and the overall direction for responsible AI within the organisation.
 - **Organisation** - Defining internal roles and responsibilities, ensuring the right people, skills, and resources are in place to manage AI effectively.
@@ -179,7 +179,7 @@ These controls are grouped into four domains:
   </tbody>
 </table>
 
-The overview images show how Annex A is grouped. The table below compares the professional and funny versions of each Annex A domain card.
+The overview images show how Annex A is grouped.
 
 <table>
   <thead>
@@ -215,7 +215,7 @@ The overview images show how Annex A is grouped. The table below compares the pr
 
 ### Annex A Control Cards
 
-Annex A controls are recommended governance measures that help organisations manage AI systems responsibly across the areas mentioned below. Each control is available in a professional version and a funny version.
+Annex A controls are recommended governance measures that help organisations manage AI systems responsibly across the areas mentioned below.
 
 <table>
   <thead>
@@ -278,7 +278,7 @@ Annex A controls are recommended governance measures that help organisations man
 
 These five cards help you prepare for ISO 42001 audits. They cover what auditors actually look for, the difference between strong and weak evidence, common failure patterns across Annex A, and how to talk about controls confidently.
 
-Reference files and both professional and funny visual versions are available for all five cards. See the [Audit Readiness reference index](cards/audit/reference/README.md) for an overview.
+Reference files available for all five cards. See the [Audit Readiness reference index](cards/audit/reference/README.md) for an overview.
 
 <table>
   <thead>
@@ -319,7 +319,7 @@ Reference files and both professional and funny visual versions are available fo
 
 ### Additional variants
 
-Earlier visual styles explored during the development of this library. They have since been superseded by the current card designs, but the content remains accurate. Feel free to use any of these if you prefer the format.
+These are earlier infographic cards that have since been superseded by the current card designs, but the content remains accurate. Feel free to use any of these if you prefer the format.
 
 <img src="cards/archive/iso-42001-manage-ai-like-a-boss.png" alt="ISO 42001 Archive - Manage AI Like a Boss Variant Card" width="100%">
 
