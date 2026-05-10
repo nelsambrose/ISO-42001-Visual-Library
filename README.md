@@ -215,7 +215,7 @@ The overview images show how Annex A is grouped. The table below compares the pr
 
 ### Annex A Control Cards
 
-These cards provide individual control-level learning summaries for Annex A. Each control is available in a professional version and a funny version.
+Annex A controls are recommended governance measures that help organisations manage AI systems responsibly across the areas mentioned below. Each control is available in a professional version and a funny version.
 
 <table>
   <thead>
