@@ -104,7 +104,7 @@ These cards are intentionally simple. The goal is not to explain every sub-claus
 
 ### Clause cards
 
-Clauses 4–10 are the mandatory requirements of ISO 42001 — the core of the standard that every organisation must implement. Unlike Annex A (which provides controls to select from), these clauses are non-negotiable. Each clause builds on the previous one, forming a management system cycle.
+Clauses 4–10 are the mandatory requirements of ISO 42001 - the core of the standard that every organisation must implement. Unlike Annex A (which provides controls to select from), these clauses are non-negotiable. Each clause builds on the previous one, forming a management system cycle.
 
 <table>
   <thead>
@@ -159,10 +159,10 @@ Annex A is the operational core of ISO 42001. It contains controls across nine a
 
 These controls are grouped into four domains:
 
-- **Governance** — Establishing AI policies, leadership accountability, and the overall direction for responsible AI within the organisation.
-- **Organisation** — Defining internal roles and responsibilities, ensuring the right people, skills, and resources are in place to manage AI effectively.
-- **Operation** — Managing the full AI system lifecycle: from design and data management through deployment, monitoring, and decommissioning.
-- **Relationships** — Governing how the organisation works with third parties, customers, and other stakeholders who develop, supply, or are affected by AI systems.
+- **Governance** - Establishing AI policies, leadership accountability, and the overall direction for responsible AI within the organisation.
+- **Organisation** - Defining internal roles and responsibilities, ensuring the right people, skills, and resources are in place to manage AI effectively.
+- **Operation** - Managing the full AI system lifecycle: from design and data management through deployment, monitoring, and decommissioning.
+- **Relationships** - Governing how the organisation works with third parties, customers, and other stakeholders who develop, supply, or are affected by AI systems.
 
 <table>
   <thead>
