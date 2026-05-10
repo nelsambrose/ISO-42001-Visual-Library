@@ -39,16 +39,6 @@ This project fills that gap by turning the standard into clear, reusable learnin
 
 ## How the library works
 
-Each topic can have up to four matching assets:
-
-| Layer | Purpose | Best used for |
-|---|---|---|
-| Reference card | Neutral source facts and reusable explanations | Learning, checking details, creating new cards |
-| Professional infographic | Polished business-ready visual summary | Briefings, audit preparation, stakeholder sharing |
-| Funny infographic | Humorous visual memory aid | Learning reinforcement and making the topic stick |
-| Professional simple memory card | Clean minimal visual summary for clause recall | Quick reference and professional sharing |
-| Funny simple memory card | One strong visual hook for clause recall | Remembering clause number and keyword |
-
 The simple memory cards are deliberately minimal. They are designed to help people remember the clause number and core keyword quickly.
 
 The reference card is the canonical content source. The professional and funny infographics are two different treatments of the same topic: one for clear explanation and sharing, the other for memory and engagement. The funny cards use a different style, but they should not introduce different requirements or change the meaning of the standard.
