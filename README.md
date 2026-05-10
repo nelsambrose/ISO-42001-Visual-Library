@@ -39,6 +39,10 @@ Most ISO 42001 material is dense or assumes prior knowledge. This library turns 
 
 Each topic includes a professional card for clear explanation and sharing, and a funny card for memory and engagement. Some topics also include minimal memory cards focused on clause number and keyword recall.
 
+These assets are learning aids and are not a replacement for the full ISO/IEC 42001:2023 standard.
+
+Project structure and naming conventions are documented in [CONTEXT.md](CONTEXT.md).
+
 ## Current coverage
 
 The library currently covers the ISO 42001 overview, Annex A overview, domain cards, control cards, Clauses 4 to 10, and the Audit Readiness mini-deck.
@@ -54,12 +58,6 @@ For Audit Readiness reference material, see the [Audit Readiness reference index
 - ISO 42001 and ISO 27001 comparison
 - EU AI Act alignment
 - AI policy templates
-
-## How to Use This Library
-
-These assets are learning aids designed for quick recall, communication, and awareness; they are not a replacement for the full ISO/IEC 42001:2023 standard.
-
-Project structure and naming conventions are documented in [CONTEXT.md](CONTEXT.md).
 
 ## Card gallery
 
