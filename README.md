@@ -7,11 +7,11 @@
 A collection of professional and humorous infographic cards to help you understand, remember, and explain ISO/IEC 42001.
 
 > [!NOTE]
-> #### 🔓 Project Access & Status
+> #### 🔓 Project Access
 > Free to use, share, or remix these cards in presentations, training, and awareness sessions.
 > No gatekeeping - attribution is appreciated but not required.
 
-> *Status: Work in progress. Current coverage includes Clauses 4–10, Annex A domain and control cards, and the Audit Readiness mini-deck.*
+> ## Status: Work in progress. Current coverage includes Clauses 4–10, Annex A domain and control cards, and the Audit Readiness mini-deck.*
 
 <details>
   <summary><b>Click to expand Table of Contents</b></summary>
