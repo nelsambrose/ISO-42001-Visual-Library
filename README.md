@@ -321,7 +321,7 @@ Reference files available for all five cards. See the [Audit Readiness reference
 
 ### AI Principles Cards
 
-The AI Principles Cards explain core responsible AI concepts that support practical AI governance and AI Management System thinking. They cover fairness, transparency, accountability, human oversight, privacy, and safety and reliability. Each principle is shown as a professional card for clear explanation. Funny cards will be added as memory and engagement aids once the remaining images are ready.
+The AI Principles Cards explain core responsible AI concepts that support practical AI governance and AI Management System thinking. They cover fairness, transparency, accountability, human oversight, privacy, and safety and reliability. Each principle is shown as a professional card for clear explanation and a funny card for memory and engagement.
 
 > These cards are learning aids. They do not add new ISO/IEC 42001 requirements and should not be treated as a replacement for the official standard.
 
@@ -337,32 +337,32 @@ The AI Principles Cards explain core responsible AI concepts that support practi
     <tr>
       <td width="16%"><strong>Principle-01</strong><br>Fairness<br><a href="cards/ai-principles/reference/iso-42001-ai-principles-principle-01-fairness.md">Reference ↗</a></td>
       <td width="42%"><img src="cards/ai-principles/professional/iso-42001-ai-principles-principle-01-fairness.png" alt="ISO/IEC 42001 AI Principles professional card about fairness" width="100%"></td>
-      <td width="42%">Pending</td>
+      <td width="42%"><img src="cards/ai-principles/funny/iso-42001-ai-principles-principle-01-fairness.png" alt="ISO/IEC 42001 AI Principles funny card about fairness" width="100%"></td>
     </tr>
     <tr>
       <td width="16%"><strong>Principle-02</strong><br>Transparency<br><a href="cards/ai-principles/reference/iso-42001-ai-principles-principle-02-transparency.md">Reference ↗</a></td>
       <td width="42%"><img src="cards/ai-principles/professional/iso-42001-ai-principles-principle-02-transparency.png" alt="ISO/IEC 42001 AI Principles professional card about transparency" width="100%"></td>
-      <td width="42%">Pending</td>
+      <td width="42%"><img src="cards/ai-principles/funny/iso-42001-ai-principles-principle-02-transparency.png" alt="ISO/IEC 42001 AI Principles funny card about transparency" width="100%"></td>
     </tr>
     <tr>
       <td width="16%"><strong>Principle-03</strong><br>Accountability<br><a href="cards/ai-principles/reference/iso-42001-ai-principles-principle-03-accountability.md">Reference ↗</a></td>
       <td width="42%"><img src="cards/ai-principles/professional/iso-42001-ai-principles-principle-03-accountability.png" alt="ISO/IEC 42001 AI Principles professional card about accountability" width="100%"></td>
-      <td width="42%">Pending</td>
+      <td width="42%"><img src="cards/ai-principles/funny/iso-42001-ai-principles-principle-03-accountability.png" alt="ISO/IEC 42001 AI Principles funny card about accountability" width="100%"></td>
     </tr>
     <tr>
       <td width="16%"><strong>Principle-04</strong><br>Human Oversight<br><a href="cards/ai-principles/reference/iso-42001-ai-principles-principle-04-human-oversight.md">Reference ↗</a></td>
       <td width="42%"><img src="cards/ai-principles/professional/iso-42001-ai-principles-principle-04-human-oversight.png" alt="ISO/IEC 42001 AI Principles professional card about human oversight" width="100%"></td>
-      <td width="42%">Pending</td>
+      <td width="42%"><img src="cards/ai-principles/funny/iso-42001-ai-principles-principle-04-human-oversight.png" alt="ISO/IEC 42001 AI Principles funny card about human oversight" width="100%"></td>
     </tr>
     <tr>
       <td width="16%"><strong>Principle-05</strong><br>Privacy<br><a href="cards/ai-principles/reference/iso-42001-ai-principles-principle-05-privacy.md">Reference ↗</a></td>
       <td width="42%"><img src="cards/ai-principles/professional/iso-42001-ai-principles-principle-05-privacy.png" alt="ISO/IEC 42001 AI Principles professional card about privacy" width="100%"></td>
-      <td width="42%">Pending</td>
+      <td width="42%"><img src="cards/ai-principles/funny/iso-42001-ai-principles-principle-05-privacy.png" alt="ISO/IEC 42001 AI Principles funny card about privacy" width="100%"></td>
     </tr>
     <tr>
       <td width="16%"><strong>Principle-06</strong><br>Safety and Reliability<br><a href="cards/ai-principles/reference/iso-42001-ai-principles-principle-06-safety-and-reliability.md">Reference ↗</a></td>
       <td width="42%"><img src="cards/ai-principles/professional/iso-42001-ai-principles-principle-06-safety-and-reliability.png" alt="ISO/IEC 42001 AI Principles professional card about safety and reliability" width="100%"></td>
-      <td width="42%">Pending</td>
+      <td width="42%"><img src="cards/ai-principles/funny/iso-42001-ai-principles-principle-06-safety-and-reliability.png" alt="ISO/IEC 42001 AI Principles funny card about safety and reliability" width="100%"></td>
     </tr>
   </tbody>
 </table>
