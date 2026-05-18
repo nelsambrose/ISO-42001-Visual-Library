@@ -13,7 +13,7 @@ A collection of professional and humorous infographic cards to help you understa
 > <b>Free to use, share, or remix these cards in presentations, training, and awareness sessions.</b>
 > No gatekeeping - attribution is appreciated but not required.
 
-> Status: Work in progress. Current coverage includes Clauses 4–10, Annex A domain and control cards, and the Audit Readiness mini-deck.*
+> Status: Work in progress. Current coverage includes Clauses 4–10, Annex A domain and control cards, the Audit Readiness mini-deck, and AI Principles cards.*
 
 <details>
   <summary>Click to expand Table of Contents</summary>
@@ -24,6 +24,7 @@ A collection of professional and humorous infographic cards to help you understa
   - [Annex A Domain Cards](#annex-a-domain-cards)
   - [Annex A Control Cards](#annex-a-control-cards)
   - [Audit Readiness Cards](#audit-readiness-cards)
+  - [AI Principles Cards](#ai-principles-cards)
   - [How to use it](#how-to-use-it)
 </details>
 
@@ -47,14 +48,13 @@ Project structure and naming conventions are documented in [CONTEXT.md](CONTEXT.
 
 ## Current coverage
 
-The library currently covers the ISO 42001 overview, Domain cards, Control cards, Clauses 4 to 10, Annex A, and the Audit Readiness.
+The library currently covers the ISO 42001 overview, Domain cards, Control cards, Clauses 4 to 10, Annex A, the Audit Readiness, and AI Principles.
 
 For Audit Readiness reference material, see the [Audit Readiness reference index](cards/audit/reference/README.md).
 
 ## Planned additions
 
 - Expanded Annex A guidance and supporting visuals
-- AI principles
 - Certification preparation
 - People impact and human oversight
 - ISO 42001 and ISO 27001 comparison
@@ -318,6 +318,56 @@ Reference files available for all five cards. See the [Audit Readiness reference
     </tr>
   </tbody>
 </table>
+
+### AI Principles Cards
+
+The AI Principles Cards explain core responsible AI concepts that support practical AI governance and AI Management System thinking. They cover fairness, transparency, accountability, human oversight, privacy, and safety and reliability. Each principle is shown as a professional card for clear explanation. Funny cards will be added as memory and engagement aids once the remaining images are ready.
+
+> These cards are learning aids. They do not add new ISO/IEC 42001 requirements and should not be treated as a replacement for the official standard.
+
+<table>
+  <thead>
+    <tr>
+      <th width="16%">Principle</th>
+      <th width="42%">Professional</th>
+      <th width="42%">Funny</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="16%"><strong>Principle-01</strong><br>Fairness<br><a href="cards/ai-principles/reference/iso-42001-ai-principles-principle-01-fairness.md">Reference ↗</a></td>
+      <td width="42%"><img src="cards/ai-principles/professional/iso-42001-ai-principles-principle-01-fairness.png" alt="ISO/IEC 42001 AI Principles professional card about fairness" width="100%"></td>
+      <td width="42%">Pending</td>
+    </tr>
+    <tr>
+      <td width="16%"><strong>Principle-02</strong><br>Transparency<br><a href="cards/ai-principles/reference/iso-42001-ai-principles-principle-02-transparency.md">Reference ↗</a></td>
+      <td width="42%"><img src="cards/ai-principles/professional/iso-42001-ai-principles-principle-02-transparency.png" alt="ISO/IEC 42001 AI Principles professional card about transparency" width="100%"></td>
+      <td width="42%">Pending</td>
+    </tr>
+    <tr>
+      <td width="16%"><strong>Principle-03</strong><br>Accountability<br><a href="cards/ai-principles/reference/iso-42001-ai-principles-principle-03-accountability.md">Reference ↗</a></td>
+      <td width="42%"><img src="cards/ai-principles/professional/iso-42001-ai-principles-principle-03-accountability.png" alt="ISO/IEC 42001 AI Principles professional card about accountability" width="100%"></td>
+      <td width="42%">Pending</td>
+    </tr>
+    <tr>
+      <td width="16%"><strong>Principle-04</strong><br>Human Oversight<br><a href="cards/ai-principles/reference/iso-42001-ai-principles-principle-04-human-oversight.md">Reference ↗</a></td>
+      <td width="42%"><img src="cards/ai-principles/professional/iso-42001-ai-principles-principle-04-human-oversight.png" alt="ISO/IEC 42001 AI Principles professional card about human oversight" width="100%"></td>
+      <td width="42%">Pending</td>
+    </tr>
+    <tr>
+      <td width="16%"><strong>Principle-05</strong><br>Privacy<br><a href="cards/ai-principles/reference/iso-42001-ai-principles-principle-05-privacy.md">Reference ↗</a></td>
+      <td width="42%"><img src="cards/ai-principles/professional/iso-42001-ai-principles-principle-05-privacy.png" alt="ISO/IEC 42001 AI Principles professional card about privacy" width="100%"></td>
+      <td width="42%">Pending</td>
+    </tr>
+    <tr>
+      <td width="16%"><strong>Principle-06</strong><br>Safety and Reliability<br><a href="cards/ai-principles/reference/iso-42001-ai-principles-principle-06-safety-and-reliability.md">Reference ↗</a></td>
+      <td width="42%"><img src="cards/ai-principles/professional/iso-42001-ai-principles-principle-06-safety-and-reliability.png" alt="ISO/IEC 42001 AI Principles professional card about safety and reliability" width="100%"></td>
+      <td width="42%">Pending</td>
+    </tr>
+  </tbody>
+</table>
+
+---
 
 ### Additional variants
 

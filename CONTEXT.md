@@ -72,6 +72,7 @@ ISO-42001-Visual-Library/
 │   ├── domain/ (professional/ + funny/)
 │   └── control/ (professional/ + funny/)
 ├── audit/ (reference/ + professional/ + funny/)
+├── ai-principles/ (reference/ + professional/ + funny/)
 ├── about/
 ├── reference/
 ├── professional/
@@ -166,8 +167,8 @@ If you are an AI assistant helping with this project:
   existing format exactly
 - When updating README.md card tables, keep the formatting
   consistent and embed image cards directly when available
-- Keep the documented `cards/annex-a/`, `cards/audit/`, `cards/about/`,
-  `cards/archive/`, `cards/reference/`, `cards/funny/`, and
+- Keep the documented `cards/annex-a/`, `cards/audit/`, `cards/ai-principles/`,
+  `cards/about/`, `cards/archive/`, `cards/reference/`, `cards/funny/`, and
   `cards/professional/` structure unless instructed otherwise
 - The content is ISO 42001 specific: do not introduce 
   content from other frameworks without instruction
