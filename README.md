@@ -4,7 +4,7 @@
 ![Status](https://img.shields.io/badge/status-work%20in%20progress-orange)
 ![Last commit](https://img.shields.io/github/last-commit/nelsambrose/ISO-42001-Visual-Library)
 
-![ISO 42001 Visual Librar Banner](https://github.com/nelsambrose/ISO-42001-Visual-Library/blob/main/cards/banner.jpg)
+![ISO 42001 Visual Librar Banner](https://github.com/nelsambrose/ISO-42001-Visual-Library/blob/main/cards/banner/banner.jpg)
 
 A collection of professional and humorous infographic cards to help you understand, remember, and explain **ISO/IEC 42001.**
 
