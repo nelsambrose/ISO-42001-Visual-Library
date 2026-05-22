@@ -90,7 +90,7 @@ These cards are intentionally simple. The goal is not to explain every sub-claus
 
 | Clause 4 | Clause 5 | Clause 6 |
 |:---:|:---:|:---:|
-| <img src="cards/professional/simple/iso-42001-clause-04-context-of-the-organisation.png" alt="ISO 42001 Clause 4 Context of the Organisation - Professional Simple Memory Card" width="260"> | <img src="cards/professional/simple/iso-42001-clause-05-leadership.png" alt="ISO 42001 Clause 5 Leadership - Professional Simple Memory Card" width="260"> | <img src="cards/professional/simple/iso-42001-clause-06-planning.png" alt="ISO 42001 Clause 6 Planning - Professional Simple Memory Card" width="260"> |
+| <img src="cards/professional/simple/iso-42001-clause-04-context-of-the-organisation-professional-simple-memory-card.png" alt="ISO 42001 Clause 4 Context of the Organisation - Professional Simple Memory Card" width="260"> | <img src="cards/professional/simple/iso-42001-clause-05-leadership-professional-simple-memory-card.png" alt="ISO 42001 Clause 5 Leadership - Professional Simple Memory Card" width="260"> | <img src="cards/professional/simple/iso-42001-clause-06-planning-professional-simple-memory-card.png" alt="ISO 42001 Clause 6 Planning - Professional Simple Memory Card" width="260"> |
 | **Clause 7** | **Clause 8** | **Clause 9** |
 | <img src="cards/professional/simple/iso-42001-clause-07-support.png" alt="ISO 42001 Clause 7 Support - Professional Simple Memory Card" width="260"> | <img src="cards/professional/simple/iso-42001-clause-08-operation.png" alt="ISO 42001 Clause 8 Operation - Professional Simple Memory Card" width="260"> | <img src="cards/professional/simple/iso-42001-clause-09-performance-evaluation.png" alt="ISO 42001 Clause 9 Performance Evaluation - Professional Simple Memory Card" width="260"> |
 |  | **Clause 10** |  |
@@ -149,12 +149,12 @@ Clauses 4–10 are the mandatory requirements of ISO 42001 - the standards that 
     <tr>
       <td width="16%"><strong>Clause 9</strong><br>Performance Evaluation<br><a href="cards/reference/clause-09-performance-evaluation.md">Reference ↗</a></td>
       <td width="42%"><img src="cards/professional/iso-42001-clause-09-performance-evaluation-professional-infographic.png" alt="ISO 42001 Clause 9 Performance Evaluation - Professional Infographic" width="340"></td>
-      <td width="42%"><img src="cards/funny/iso-42001-clause-09-performance-evaluation.png" alt="ISO 42001 Clause 9 Performance Evaluation - Humorous Memory Card" width="340"></td>
+      <td width="42%"><img src="cards/funny/iso-42001-clause-09-performance-evaluation-humorous-infographic.png" alt="ISO 42001 Clause 9 Performance Evaluation - Humorous Memory Card" width="340"></td>
     </tr>
     <tr>
       <td width="16%"><strong>Clause 10</strong><br>Improvement<br><a href="cards/reference/clause-10-improvement.md">Reference ↗</a></td>
       <td width="42%"><img src="cards/professional/iso-42001-clause-10-improvement-professional-infographic.png" alt="ISO 42001 Clause 10 Improvement - Professional Infographic" width="340"></td>
-      <td width="42%"><img src="cards/funny/iso-42001-clause-10-improvement.png" alt="ISO 42001 Clause 10 Improvement - Humorous Memory Card" width="340"></td>
+      <td width="42%"><img src="cards/funny/iso-42001-clause-10-improvement-humorous-infographic.png" alt="ISO 42001 Clause 10 Improvement - Humorous Memory Card" width="340"></td>
     </tr>
   </tbody>
 </table>
