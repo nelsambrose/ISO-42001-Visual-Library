@@ -100,9 +100,9 @@ These cards are intentionally simple. The goal is not to explain every sub-claus
 
 | Clause 4 | Clause 5 | Clause 6 |
 |:---:|:---:|:---:|
-| <img src="cards/funny/simple/iso-42001-clause-04-context-of-the-organisation.png" alt="ISO 42001 Clause 4 Context of the Organisation - Humorous Simple Memory Card" width="260"> | <img src="cards/funny/simple/iso-42001-clause-05-leadership.png" alt="ISO 42001 Clause 5 Leadership - Humorous Simple Memory Card" width="260"> | <img src="cards/funny/simple/iso-42001-clause-06-planning.png" alt="ISO 42001 Clause 6 Planning - Humorous Simple Memory Card" width="260"> |
+| <img src="cards/funny/simple/iso-42001-clause-04-context-of-the-organisation-humorous-simple-memory-card.png" alt="ISO 42001 Clause 4 Context of the Organisation - Humorous Simple Memory Card" width="260"> | <img src="cards/funny/simple/iso-42001-clause-05-leadership-humorous-simple-memory-card.png" alt="ISO 42001 Clause 5 Leadership - Humorous Simple Memory Card" width="260"> | <img src="cards/funny/simple/iso-42001-clause-06-planning-humorous-simple-memory-card.png" alt="ISO 42001 Clause 6 Planning - Humorous Simple Memory Card" width="260"> |
 | **Clause 7** | **Clause 8** | **Clause 9** |
-| <img src="cards/funny/simple/iso-42001-clause-07-support.png" alt="ISO 42001 Clause 7 Support - Humorous Simple Memory Card" width="260"> | <img src="cards/funny/simple/iso-42001-clause-08-operation.png" alt="ISO 42001 Clause 8 Operation - Humorous Simple Memory Card" width="260"> | <img src="cards/funny/simple/iso-42001-clause-09-performance-evaluation.png" alt="ISO 42001 Clause 9 Performance Evaluation - Humorous Simple Memory Card" width="260"> |
+| <img src="cards/funny/simple/iso-42001-clause-07-support-humorous-simple-memory-card.png" alt="ISO 42001 Clause 7 Support - Humorous Simple Memory Card" width="260"> | <img src="cards/funny/simple/iso-42001-clause-08-operation-humorous-simple-memory-card.png" alt="ISO 42001 Clause 8 Operation - Humorous Simple Memory Card" width="260"> | <img src="cards/funny/simple/iso-42001-clause-09-performance-evaluation.png" alt="ISO 42001 Clause 9 Performance Evaluation - Humorous Simple Memory Card" width="260"> |
 |  | **Clause 10** |  |
 |  | <img src="cards/funny/simple/iso-42001-clause-10-improvement.png" alt="ISO 42001 Clause 10 Improvement - Humorous Simple Memory Card" width="260"> |  |
 
