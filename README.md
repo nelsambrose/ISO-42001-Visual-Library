@@ -304,26 +304,26 @@ Reference files available for all five cards. See the [Audit Readiness reference
     <tr>
       <td width="16%"><strong>Audit-01</strong><br>What an Auditor Actually Looks For<br><a href="cards/audit/reference/audit-01-what-an-auditor-actually-looks-for.md">Reference ↗</a></td>
       <td width="42%"><img src="cards/audit/professional/iso-42001-audit-01-what-an-auditor-actually-looks-for-professional-infographic.png" alt="ISO 42001 Audit Readiness - What an Auditor Actually Looks For Professional Infographic" width="100%"></td>
-      <td width="42%"><img src="cards/audit/funny/iso-42001-audit-01-what-an-auditor-actually-looks-for.png" alt="ISO 42001 Audit Readiness - What an Auditor Actually Looks For Humorous Infographic" width="100%"></td>
+      <td width="42%"><img src="cards/audit/funny/iso-42001-audit-01-what-an-auditor-actually-looks-for-humorous-infographic.png" alt="ISO 42001 Audit Readiness - What an Auditor Actually Looks For Humorous Infographic" width="100%"></td>
     </tr>
     <tr>
       <td width="16%"><strong>Audit-02</strong><br>Evidence vs Good Intentions<br><a href="cards/audit/reference/audit-02-evidence-vs-good-intentions.md">Reference ↗</a></td>
       <td width="42%"><img src="cards/audit/professional/iso-42001-audit-02-evidence-vs-good-intentions-professional-infographic.png" alt="ISO 42001 Audit Readiness - Evidence vs Good Intentions Professional Infographic" width="100%"></td>
-      <td width="42%"><img src="cards/audit/funny/iso-42001-audit-02-evidence-vs-good-intentions.png" alt="ISO 42001 Audit Readiness - Evidence vs Good Intentions Humorous Infographic" width="100%"></td>
+      <td width="42%"><img src="cards/audit/funny/iso-42001-audit-02-evidence-vs-good-intentions-humorous-infographic.png" alt="ISO 42001 Audit Readiness - Evidence vs Good Intentions Humorous Infographic" width="100%"></td>
     </tr>
     <tr>
       <td width="16%"><strong>Audit-03</strong><br>Strong Versus Weak Evidence Examples<br><a href="cards/audit/reference/audit-03-strong-versus-weak-evidence-examples.md">Reference ↗</a></td>
       <td width="42%"><img src="cards/audit/professional/iso-42001-audit-03-strong-versus-weak-evidence-examples-professional-infographic.png" alt="ISO 42001 Audit Readiness - Strong vs Weak Evidence Examples Professional Infographic" width="100%"></td>
-      <td width="42%"><img src="cards/audit/funny/iso-42001-audit-03-strong-versus-weak-evidence-examples.png" alt="ISO 42001 Audit Readiness - Strong vs Weak Evidence Examples Humorous Infographic" width="100%"></td>
+      <td width="42%"><img src="cards/audit/funny/iso-42001-audit-03-strong-versus-weak-evidence-examples-humorous-infographic.png" alt="ISO 42001 Audit Readiness - Strong vs Weak Evidence Examples Humorous Infographic" width="100%"></td>
     </tr>
     <tr>
       <td width="16%"><strong>Audit-04</strong><br>Common Audit Failure Modes Across Annex A<br><a href="cards/audit/reference/audit-04-common-audit-failure-modes-across-annex-a.md">Reference ↗</a></td>
-      <td width="42%"><img src="cards/audit/professional/iso-42001-audit-04-common-audit-failure-modes-across-annex-a.png" alt="ISO 42001 Audit Readiness - Common Audit Failure Modes Professional Infographic" width="100%"></td>
+      <td width="42%"><img src="cards/audit/professional/iso-42001-audit-04-common-audit-failure-modes-across-annex-a-professional-infographic.png" alt="ISO 42001 Audit Readiness - Common Audit Failure Modes Professional Infographic" width="100%"></td>
       <td width="42%"><img src="cards/audit/funny/iso-42001-audit-04-common-audit-failure-modes-across-annex-a.png" alt="ISO 42001 Audit Readiness - Common Audit Failure Modes Humorous Infographic" width="100%"></td>
     </tr>
     <tr>
       <td width="16%"><strong>Audit-05</strong><br>How to Talk About Controls Confidently<br><a href="cards/audit/reference/audit-05-how-to-talk-about-controls-confidently.md">Reference ↗</a></td>
-      <td width="42%"><img src="cards/audit/professional/iso-42001-audit-05-how-to-talk-about-controls-confidently.png" alt="ISO 42001 Audit Readiness - How to Talk About Controls Confidently Professional Infographic" width="100%"></td>
+      <td width="42%"><img src="cards/audit/professional/iso-42001-audit-05-how-to-talk-about-controls-confidently-professional-infographic.png" alt="ISO 42001 Audit Readiness - How to Talk About Controls Confidently Professional Infographic" width="100%"></td>
       <td width="42%"><img src="cards/audit/funny/iso-42001-audit-05-how-to-talk-about-controls-confidently.png" alt="ISO 42001 Audit Readiness - How to Talk About Controls Confidently Humorous Infographic" width="100%"></td>
     </tr>
   </tbody>
