@@ -92,9 +92,9 @@ These cards are intentionally simple. The goal is not to explain every sub-claus
 |:---:|:---:|:---:|
 | <img src="cards/professional/simple/iso-42001-clause-04-context-of-the-organisation-professional-simple-memory-card.png" alt="ISO 42001 Clause 4 Context of the Organisation - Professional Simple Memory Card" width="260"> | <img src="cards/professional/simple/iso-42001-clause-05-leadership-professional-simple-memory-card.png" alt="ISO 42001 Clause 5 Leadership - Professional Simple Memory Card" width="260"> | <img src="cards/professional/simple/iso-42001-clause-06-planning-professional-simple-memory-card.png" alt="ISO 42001 Clause 6 Planning - Professional Simple Memory Card" width="260"> |
 | **Clause 7** | **Clause 8** | **Clause 9** |
-| <img src="cards/professional/simple/iso-42001-clause-07-support.png" alt="ISO 42001 Clause 7 Support - Professional Simple Memory Card" width="260"> | <img src="cards/professional/simple/iso-42001-clause-08-operation.png" alt="ISO 42001 Clause 8 Operation - Professional Simple Memory Card" width="260"> | <img src="cards/professional/simple/iso-42001-clause-09-performance-evaluation.png" alt="ISO 42001 Clause 9 Performance Evaluation - Professional Simple Memory Card" width="260"> |
+| <img src="cards/professional/simple/iso-42001-clause-07-support-professional-simple-memory-card.png" alt="ISO 42001 Clause 7 Support - Professional Simple Memory Card" width="260"> | <img src="cards/professional/simple/iso-42001-clause-08-operation-professional-simple-memory-card.png" alt="ISO 42001 Clause 8 Operation - Professional Simple Memory Card" width="260"> | <img src="cards/professional/simple/iso-42001-clause-09-performance-evaluation-professional-simple-memory-card.png" alt="ISO 42001 Clause 9 Performance Evaluation - Professional Simple Memory Card" width="260"> |
 |  | **Clause 10** |  |
-|  | <img src="cards/professional/simple/iso-42001-clause-10-improvement.png" alt="ISO 42001 Clause 10 Improvement - Professional Simple Memory Card" width="260"> |  |
+|  | <img src="cards/professional/simple/iso-42001-clause-10-improvement-professional-simple-memory-card.png" alt="ISO 42001 Clause 10 Improvement - Professional Simple Memory Card" width="260"> |  |
 
 #### ISO 42001 Funny Simple Memory Cards
 
