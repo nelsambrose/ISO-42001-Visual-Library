@@ -75,7 +75,7 @@ For Audit Readiness reference material, see the [Audit Readiness reference index
 ---
 
 <p align="center">
-  <img src="cards/funny/iso-42001-overview.png" alt="ISO 42001 Overview - Humorous Infographic" width="760">
+  <img src="cards/funny/iso-42001-ai-management-system-overview-humorous-infographic.png" alt="ISO 42001 Overview - Humorous Infographic" width="760">
 </p>
 
 These overview cards show the complete ISO/IEC 42001:2023 AI Management System structure, covering mandatory clauses 4 to 10 and the optional Annex A controls.
@@ -201,22 +201,22 @@ ISO 42001 Annex A groups controls across four domains: Governance, Organisation,
     <tr>
       <td width="16%">Governance<br><a href="cards/annex-a/reference/domain/governance.md">Reference ↗</a></td>
       <td width="42%"><img src="cards/annex-a/domain/professional/iso-42001-annex-a-governance-domain-professional-infographic.png" alt="ISO 42001 Annex A Governance - Professional Domain Infographic" width="100%"></td>
-      <td width="42%"><img src="cards/annex-a/domain/funny/iso-42001-governance.png" alt="ISO 42001 Annex A Governance - Humorous Domain Infographic" width="100%"></td>
+      <td width="42%"><img src="cards/annex-a/domain/funny/iso-42001-annex-a-governance-domain-humorous-infographic.png" alt="ISO 42001 Annex A Governance - Humorous Domain Infographic" width="100%"></td>
     </tr>
     <tr>
       <td width="16%">Organisation<br><a href="cards/annex-a/reference/domain/organisation.md">Reference ↗</a></td>
       <td width="42%"><img src="cards/annex-a/domain/professional/iso-42001-annex-a-organisation-domain-professional-infographic.png" alt="ISO 42001 Annex A Organisation - Professional Domain Infographic" width="100%"></td>
-      <td width="42%"><img src="cards/annex-a/domain/funny/iso-42001-organisation.png" alt="ISO 42001 Annex A Organisation - Humorous Domain Infographic" width="100%"></td>
+      <td width="42%"><img src="cards/annex-a/domain/funny/iso-42001-annex-a-organisation-domain-humorous-infographic.png" alt="ISO 42001 Annex A Organisation - Humorous Domain Infographic" width="100%"></td>
     </tr>
     <tr>
       <td width="16%">Operation<br><a href="cards/annex-a/reference/domain/operation.md">Reference ↗</a></td>
       <td width="42%"><img src="cards/annex-a/domain/professional/iso-42001-annex-a-operation-domain-professional-infographic.png" alt="ISO 42001 Annex A Operation - Professional Domain Infographic" width="100%"></td>
-      <td width="42%"><img src="cards/annex-a/domain/funny/iso-42001-operation.png" alt="ISO 42001 Annex A Operation - Humorous Domain Infographic" width="100%"></td>
+      <td width="42%"><img src="cards/annex-a/domain/funny/iso-42001-annex-a-operation-domain-humorous-infographic.png" alt="ISO 42001 Annex A Operation - Humorous Domain Infographic" width="100%"></td>
     </tr>
     <tr>
       <td width="16%">Relationships<br><a href="cards/annex-a/reference/domain/relationships.md">Reference ↗</a></td>
       <td width="42%"><img src="cards/annex-a/domain/professional/iso-42001-annex-a-relationships-domain-professional-infographic.png" alt="ISO 42001 Annex A Relationships - Professional Domain Infographic" width="100%"></td>
-      <td width="42%"><img src="cards/annex-a/domain/funny/iso-42001-relationships.png" alt="ISO 42001 Annex A Relationships - Humorous Domain Infographic" width="100%"></td>
+      <td width="42%"><img src="cards/annex-a/domain/funny/iso-42001-annex-a-relationships-domain-humorous-infographic.png" alt="ISO 42001 Annex A Relationships - Humorous Domain Infographic" width="100%"></td>
     </tr>
   </tbody>
 </table>
