@@ -405,9 +405,9 @@ These are earlier infographic cards that have since been superseded by the curre
     </tr>
     <tr>
       <td width="25%"><img src="cards/archive/iso-42001-clause-09-performance-evaluation-archive-variant-1.png" alt="ISO 42001 Archive - Clause 9 Performance Evaluation Variant 1 Card" width="100%"></td>
-      <td width="25%"><img src="cards/archive/iso-42001-clause-05-leadership.png" alt="ISO 42001 Archive - Clause 5 Leadership Variant Card" width="100%"></td>
-      <td width="25%"><img src="cards/archive/iso-42001-a-10-third-party-and-customer-relationships.png" alt="ISO 42001 Archive - A.10 Third-Party and Customer Relationships Variant Card" width="100%"></td>
-      <td width="25%"><img src="cards/archive/iso-42001-clause-09-performance-evaluation.png" alt="ISO 42001 Archive - Clause 9 Performance Evaluation Variant Card" width="100%"></td>
+      <td width="25%"><img src="cards/archive/iso-42001-clause-05-leadership-archive-variant.png" alt="ISO 42001 Archive - Clause 5 Leadership Variant Card" width="100%"></td>
+      <td width="25%"><img src="cards/archive/iso-42001-annex-a-10-third-party-and-customer-relationships-archive-variant.png" alt="ISO 42001 Archive - A.10 Third-Party and Customer Relationships Variant Card" width="100%"></td>
+      <td width="25%"><img src="cards/archive/iso-42001-clause-09-performance-evaluation-archive-variant.png" alt="ISO 42001 Archive - Clause 9 Performance Evaluation Variant Card" width="100%"></td>
     </tr>
   </tbody>
 </table>
