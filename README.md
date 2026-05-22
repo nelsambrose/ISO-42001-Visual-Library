@@ -8,6 +8,10 @@
 
 A collection of professional and humorous infographic cards to help you understand, remember, and explain **ISO/IEC 42001.**
 
+> [!TIP]
+> ### View the full gallery
+> **[nelsambrose.github.io/ISO-42001-Visual-Library](https://nelsambrose.github.io/ISO-42001-Visual-Library/)** — browse all cards in a clean, searchable page optimised for sharing.
+
 > [!NOTE]
 > #### 🔓 Project Access
 > <b>Free to use, share, or remix these cards in presentations, training, and awareness sessions.</b>

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nelsambrose.github.io/ISO-42001-Visual-Library/sitemap.xml
