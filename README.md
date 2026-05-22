@@ -123,12 +123,12 @@ Clauses 4–10 are the mandatory requirements of ISO 42001 - the standards that 
   <tbody>
     <tr>
       <td width="16%"><strong>Clause 4</strong><br>Context of the Organisation<br><a href="cards/reference/clause-04-context-of-the-organisation.md">Reference ↗</a></td>
-      <td width="42%"><img src="cards/professional/iso-42001-clause-04-context-of-the-organisation.png" alt="ISO 42001 Clause 4 Context of the Organisation - Professional Infographic" width="340"></td>
+      <td width="42%"><img src="cards/professional/iso-42001-clause-04-context-of-the-organisation-professional-infographic.png" alt="ISO 42001 Clause 4 Context of the Organisation - Professional Infographic" width="340"></td>
       <td width="42%"><img src="cards/funny/iso-42001-clause-04-context-of-the-organisation.png" alt="ISO 42001 Clause 4 Context of the Organisation - Humorous Memory Card" width="340"></td>
     </tr>
     <tr>
       <td width="16%"><strong>Clause 5</strong><br>Leadership<br><a href="cards/reference/clause-05-leadership.md">Reference ↗</a></td>
-      <td width="42%"><img src="cards/professional/iso-42001-clause-05-leadership.png" alt="ISO 42001 Clause 5 Leadership - Professional Infographic" width="340"></td>
+      <td width="42%"><img src="cards/professional/iso-42001-clause-05-leadership-professional-infographic.png" alt="ISO 42001 Clause 5 Leadership - Professional Infographic" width="340"></td>
       <td width="42%"><img src="cards/funny/iso-42001-clause-05-leadership.png" alt="ISO 42001 Clause 5 Leadership - Humorous Memory Card" width="340"></td>
     </tr>
     <tr>
@@ -269,17 +269,17 @@ Annex A controls are recommended governance measures that help organisations man
     <tr>
       <td width="16%"><strong>A.8</strong> Information for Interested Parties<br><a href="cards/annex-a/reference/control/a-08-information-for-interested-parties.md">Reference ↗</a></td>
       <td width="42%"><img src="cards/annex-a/control/professional/iso-42001-annex-a-08-information-for-interested-parties-professional-infographic.png" alt="ISO 42001 Annex A.8 Information for Interested Parties - Professional Control Card" width="100%"></td>
-      <td width="42%"><img src="cards/annex-a/control/funny/iso-42001-a-08-information-for-interested-parties.png" alt="ISO 42001 Annex A.8 Information for Interested Parties - Humorous Control Card" width="100%"></td>
+      <td width="42%"><img src="cards/annex-a/control/funny/iso-42001-annex-a-08-information-for-interested-parties-humorous-infographic.png" alt="ISO 42001 Annex A.8 Information for Interested Parties - Humorous Control Card" width="100%"></td>
     </tr>
     <tr>
       <td width="16%"><strong>A.9</strong> Use of AI Systems<br><a href="cards/annex-a/reference/control/a-09-use-of-ai-systems.md">Reference ↗</a></td>
       <td width="42%"><img src="cards/annex-a/control/professional/iso-42001-annex-a-09-use-of-ai-systems-professional-infographic.png" alt="ISO 42001 Annex A.9 Use of AI Systems - Professional Control Card" width="100%"></td>
-      <td width="42%"><img src="cards/annex-a/control/funny/iso-42001-a-09-use-of-ai-systems.png" alt="ISO 42001 Annex A.9 Use of AI Systems - Humorous Control Card" width="100%"></td>
+      <td width="42%"><img src="cards/annex-a/control/funny/iso-42001-annex-a-09-use-of-ai-systems-humorous-infographic.png" alt="ISO 42001 Annex A.9 Use of AI Systems - Humorous Control Card" width="100%"></td>
     </tr>
     <tr>
       <td width="16%"><strong>A.10</strong> Third-party and Customer Relationships<br><a href="cards/annex-a/reference/control/a-10-third-party-and-customer-relationships.md">Reference ↗</a></td>
       <td width="42%"><img src="cards/annex-a/control/professional/iso-42001-annex-a-10-third-party-and-customer-relationships-professional-infographic.png" alt="ISO 42001 Annex A.10 Third-Party and Customer Relationships - Professional Control Card" width="100%"></td>
-      <td width="42%"><img src="cards/annex-a/control/funny/iso-42001-a-10-third-party-and-customer-relationships.png" alt="ISO 42001 Annex A.10 Third-Party and Customer Relationships - Humorous Control Card" width="100%"></td>
+      <td width="42%"><img src="cards/annex-a/control/funny/iso-42001-annex-a-10-third-party-and-customer-relationships-humorous-infographic.png" alt="ISO 42001 Annex A.10 Third-Party and Customer Relationships - Humorous Control Card" width="100%"></td>
     </tr>
   </tbody>
 </table>
