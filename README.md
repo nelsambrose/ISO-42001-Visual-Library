@@ -387,15 +387,15 @@ AI principles cards covering the core responsible AI concepts that underpin ISO/
 
 These are earlier infographic cards that have since been superseded by the current card designs, but the content remains accurate. Feel free to use any of these if you prefer the format.
 
-<img src="cards/archive/iso-42001-manage-ai-like-a-boss.png" alt="ISO 42001 Archive - Manage AI Like a Boss Variant Card" width="100%">
+<img src="cards/archive/iso-42001-manage-ai-like-a-boss-archive-variant.png" alt="ISO 42001 Archive - Manage AI Like a Boss Variant Card" width="100%">
 
 <table>
   <tbody>
     <tr>
-      <td width="25%"><img src="cards/archive/iso-42001-clause-08-operation.png" alt="ISO 42001 Archive - Clause 8 Operation Variant Card" width="100%"></td>
-      <td width="25%"><img src="cards/archive/iso-42001-clause-10-improvement.png" alt="ISO 42001 Archive - Clause 10 Improvement Variant Card" width="100%"></td>
-      <td width="25%"><img src="cards/archive/iso-42001-clause-08-operation-mission-control.png" alt="ISO 42001 Archive - Clause 8 Operation Mission Control Variant Card" width="100%"></td>
-      <td width="25%"><img src="cards/archive/iso-42001-a5-assessing-impact-of-ai-systems.png" alt="ISO 42001 Archive - A.5 Assessing Impact of AI Systems Variant Card" width="100%"></td>
+      <td width="25%"><img src="cards/archive/iso-42001-clause-08-operation-archive-variant.png" alt="ISO 42001 Archive - Clause 8 Operation Variant Card" width="100%"></td>
+      <td width="25%"><img src="cards/archive/iso-42001-clause-10-improvement-archive-variant.png" alt="ISO 42001 Archive - Clause 10 Improvement Variant Card" width="100%"></td>
+      <td width="25%"><img src="cards/archive/iso-42001-clause-08-operation-mission-control-archive-variant.png" alt="ISO 42001 Archive - Clause 8 Operation Mission Control Variant Card" width="100%"></td>
+      <td width="25%"><img src="cards/archive/iso-42001-annex-a-05-assessing-impact-of-ai-systems-archive-variant.png" alt="ISO 42001 Archive - A.5 Assessing Impact of AI Systems Variant Card" width="100%"></td>
     </tr>
     <tr>
       <td width="25%"><img src="cards/archive/iso-42001-annex-a-domain-operation.png" alt="ISO 42001 Archive - Annex A Domain Operation Variant Card" width="100%"></td>
