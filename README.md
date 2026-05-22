@@ -102,9 +102,9 @@ These cards are intentionally simple. The goal is not to explain every sub-claus
 |:---:|:---:|:---:|
 | <img src="cards/funny/simple/iso-42001-clause-04-context-of-the-organisation-humorous-simple-memory-card.png" alt="ISO 42001 Clause 4 Context of the Organisation - Humorous Simple Memory Card" width="260"> | <img src="cards/funny/simple/iso-42001-clause-05-leadership-humorous-simple-memory-card.png" alt="ISO 42001 Clause 5 Leadership - Humorous Simple Memory Card" width="260"> | <img src="cards/funny/simple/iso-42001-clause-06-planning-humorous-simple-memory-card.png" alt="ISO 42001 Clause 6 Planning - Humorous Simple Memory Card" width="260"> |
 | **Clause 7** | **Clause 8** | **Clause 9** |
-| <img src="cards/funny/simple/iso-42001-clause-07-support-humorous-simple-memory-card.png" alt="ISO 42001 Clause 7 Support - Humorous Simple Memory Card" width="260"> | <img src="cards/funny/simple/iso-42001-clause-08-operation-humorous-simple-memory-card.png" alt="ISO 42001 Clause 8 Operation - Humorous Simple Memory Card" width="260"> | <img src="cards/funny/simple/iso-42001-clause-09-performance-evaluation.png" alt="ISO 42001 Clause 9 Performance Evaluation - Humorous Simple Memory Card" width="260"> |
+| <img src="cards/funny/simple/iso-42001-clause-07-support-humorous-simple-memory-card.png" alt="ISO 42001 Clause 7 Support - Humorous Simple Memory Card" width="260"> | <img src="cards/funny/simple/iso-42001-clause-08-operation-humorous-simple-memory-card.png" alt="ISO 42001 Clause 8 Operation - Humorous Simple Memory Card" width="260"> | <img src="cards/funny/simple/iso-42001-clause-09-performance-evaluation-humorous-simple-memory-card.png" alt="ISO 42001 Clause 9 Performance Evaluation - Humorous Simple Memory Card" width="260"> |
 |  | **Clause 10** |  |
-|  | <img src="cards/funny/simple/iso-42001-clause-10-improvement.png" alt="ISO 42001 Clause 10 Improvement - Humorous Simple Memory Card" width="260"> |  |
+|  | <img src="cards/funny/simple/iso-42001-clause-10-improvement-humorous-simple-memory-card.png" alt="ISO 42001 Clause 10 Improvement - Humorous Simple Memory Card" width="260"> |  |
 
 Simple memory cards for ISO 42001 Clauses 4 to 10, designed for quick keyword recall in study, training, and awareness sessions.
 
@@ -303,17 +303,17 @@ Reference files available for all five cards. See the [Audit Readiness reference
   <tbody>
     <tr>
       <td width="16%"><strong>Audit-01</strong><br>What an Auditor Actually Looks For<br><a href="cards/audit/reference/audit-01-what-an-auditor-actually-looks-for.md">Reference ↗</a></td>
-      <td width="42%"><img src="cards/audit/professional/iso-42001-audit-01-what-an-auditor-actually-looks-for.png" alt="ISO 42001 Audit Readiness - What an Auditor Actually Looks For Professional Infographic" width="100%"></td>
+      <td width="42%"><img src="cards/audit/professional/iso-42001-audit-01-what-an-auditor-actually-looks-for-professional-infographic.png" alt="ISO 42001 Audit Readiness - What an Auditor Actually Looks For Professional Infographic" width="100%"></td>
       <td width="42%"><img src="cards/audit/funny/iso-42001-audit-01-what-an-auditor-actually-looks-for.png" alt="ISO 42001 Audit Readiness - What an Auditor Actually Looks For Humorous Infographic" width="100%"></td>
     </tr>
     <tr>
       <td width="16%"><strong>Audit-02</strong><br>Evidence vs Good Intentions<br><a href="cards/audit/reference/audit-02-evidence-vs-good-intentions.md">Reference ↗</a></td>
-      <td width="42%"><img src="cards/audit/professional/iso-42001-audit-02-evidence-vs-good-intentions.png" alt="ISO 42001 Audit Readiness - Evidence vs Good Intentions Professional Infographic" width="100%"></td>
+      <td width="42%"><img src="cards/audit/professional/iso-42001-audit-02-evidence-vs-good-intentions-professional-infographic.png" alt="ISO 42001 Audit Readiness - Evidence vs Good Intentions Professional Infographic" width="100%"></td>
       <td width="42%"><img src="cards/audit/funny/iso-42001-audit-02-evidence-vs-good-intentions.png" alt="ISO 42001 Audit Readiness - Evidence vs Good Intentions Humorous Infographic" width="100%"></td>
     </tr>
     <tr>
       <td width="16%"><strong>Audit-03</strong><br>Strong Versus Weak Evidence Examples<br><a href="cards/audit/reference/audit-03-strong-versus-weak-evidence-examples.md">Reference ↗</a></td>
-      <td width="42%"><img src="cards/audit/professional/iso-42001-audit-03-strong-versus-weak-evidence-examples.png" alt="ISO 42001 Audit Readiness - Strong vs Weak Evidence Examples Professional Infographic" width="100%"></td>
+      <td width="42%"><img src="cards/audit/professional/iso-42001-audit-03-strong-versus-weak-evidence-examples-professional-infographic.png" alt="ISO 42001 Audit Readiness - Strong vs Weak Evidence Examples Professional Infographic" width="100%"></td>
       <td width="42%"><img src="cards/audit/funny/iso-42001-audit-03-strong-versus-weak-evidence-examples.png" alt="ISO 42001 Audit Readiness - Strong vs Weak Evidence Examples Humorous Infographic" width="100%"></td>
     </tr>
     <tr>
