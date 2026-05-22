@@ -238,27 +238,27 @@ Annex A controls are recommended governance measures that help organisations man
   <tbody>
     <tr>
       <td width="16%"><strong>A.2</strong> Policies Related to AI<br><a href="cards/annex-a/reference/control/a-02-policies-related-to-ai.md">Reference ↗</a></td>
-      <td width="42%"><img src="cards/annex-a/control/professional/iso-42001-a-02-policies-related-to-ai.png" alt="ISO 42001 Annex A.2 Policies Related to AI - Professional Control Card" width="100%"></td>
+      <td width="42%"><img src="cards/annex-a/control/professional/iso-42001-annex-a-02-policies-related-to-ai-professional-infographic.png" alt="ISO 42001 Annex A.2 Policies Related to AI - Professional Control Card" width="100%"></td>
       <td width="42%"><img src="cards/annex-a/control/funny/iso-42001-a-02-policies-related-to-ai.png" alt="ISO 42001 Annex A.2 Policies Related to AI - Humorous Control Card" width="100%"></td>
     </tr>
     <tr>
       <td width="16%"><strong>A.3</strong> Internal Organisation<br><a href="cards/annex-a/reference/control/a-03-internal-organisation.md">Reference ↗</a></td>
-      <td width="42%"><img src="cards/annex-a/control/professional/iso-42001-a-03-internal-organisation.png" alt="ISO 42001 Annex A.3 Internal Organisation - Professional Control Card" width="100%"></td>
+      <td width="42%"><img src="cards/annex-a/control/professional/iso-42001-annex-a-03-internal-organisation-professional-infographic.png" alt="ISO 42001 Annex A.3 Internal Organisation - Professional Control Card" width="100%"></td>
       <td width="42%"><img src="cards/annex-a/control/funny/iso-42001-a-03-internal-organisation.png" alt="ISO 42001 Annex A.3 Internal Organisation - Humorous Control Card" width="100%"></td>
     </tr>
     <tr>
       <td width="16%"><strong>A.4</strong> Resources for AI Systems<br><a href="cards/annex-a/reference/control/a-04-resources-for-ai-systems.md">Reference ↗</a></td>
-      <td width="42%"><img src="cards/annex-a/control/professional/iso-42001-a-04-resources-for-ai-systems.png" alt="ISO 42001 Annex A.4 Resources for AI Systems - Professional Control Card" width="100%"></td>
+      <td width="42%"><img src="cards/annex-a/control/professional/iso-42001-annex-a-04-resources-for-ai-systems-professional-infographic.png" alt="ISO 42001 Annex A.4 Resources for AI Systems - Professional Control Card" width="100%"></td>
       <td width="42%"><img src="cards/annex-a/control/funny/iso-42001-a-04-resources-for-ai-systems.png" alt="ISO 42001 Annex A.4 Resources for AI Systems - Humorous Control Card" width="100%"></td>
     </tr>
     <tr>
       <td width="16%"><strong>A.5</strong> Assessing Impacts of AI Systems<br><a href="cards/annex-a/reference/control/a-05-assessing-impacts-of-ai-systems.md">Reference ↗</a></td>
-      <td width="42%"><img src="cards/annex-a/control/professional/iso-42001-a-05-assessing-impacts-of-ai-systems.png" alt="ISO 42001 Annex A.5 Assessing Impacts of AI Systems - Professional Control Card" width="100%"></td>
+      <td width="42%"><img src="cards/annex-a/control/professional/iso-42001-annex-a-05-assessing-impacts-of-ai-systems-professional-infographic.png" alt="ISO 42001 Annex A.5 Assessing Impacts of AI Systems - Professional Control Card" width="100%"></td>
       <td width="42%"><img src="cards/annex-a/control/funny/iso-42001-a-05-assessing-impacts-of-ai-systems.png" alt="ISO 42001 Annex A.5 Assessing Impacts of AI Systems - Humorous Control Card" width="100%"></td>
     </tr>
     <tr>
       <td width="16%"><strong>A.6</strong> AI System Life Cycle<br><a href="cards/annex-a/reference/control/a-06-ai-system-life-cycle.md">Reference ↗</a></td>
-      <td width="42%"><img src="cards/annex-a/control/professional/iso-42001-a-06-ai-system-life-cycle.png" alt="ISO 42001 Annex A.6 AI System Life Cycle - Professional Control Card" width="100%"></td>
+      <td width="42%"><img src="cards/annex-a/control/professional/iso-42001-annex-a-06-ai-system-life-cycle-professional-infographic.png" alt="ISO 42001 Annex A.6 AI System Life Cycle - Professional Control Card" width="100%"></td>
       <td width="42%"><img src="cards/annex-a/control/funny/iso-42001-a-06-ai-system-life-cycle.png" alt="ISO 42001 Annex A.6 AI System Life Cycle - Humorous Control Card" width="100%"></td>
     </tr>
     <tr>
