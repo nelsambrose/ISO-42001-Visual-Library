@@ -319,12 +319,12 @@ Reference files available for all five cards. See the [Audit Readiness reference
     <tr>
       <td width="16%"><strong>Audit-04</strong><br>Common Audit Failure Modes Across Annex A<br><a href="cards/audit/reference/audit-04-common-audit-failure-modes-across-annex-a.md">Reference ↗</a></td>
       <td width="42%"><img src="cards/audit/professional/iso-42001-audit-04-common-audit-failure-modes-across-annex-a-professional-infographic.png" alt="ISO 42001 Audit Readiness - Common Audit Failure Modes Professional Infographic" width="100%"></td>
-      <td width="42%"><img src="cards/audit/funny/iso-42001-audit-04-common-audit-failure-modes-across-annex-a.png" alt="ISO 42001 Audit Readiness - Common Audit Failure Modes Humorous Infographic" width="100%"></td>
+      <td width="42%"><img src="cards/audit/funny/iso-42001-audit-04-common-audit-failure-modes-across-annex-a-humorous-infographic.png" alt="ISO 42001 Audit Readiness - Common Audit Failure Modes Humorous Infographic" width="100%"></td>
     </tr>
     <tr>
       <td width="16%"><strong>Audit-05</strong><br>How to Talk About Controls Confidently<br><a href="cards/audit/reference/audit-05-how-to-talk-about-controls-confidently.md">Reference ↗</a></td>
       <td width="42%"><img src="cards/audit/professional/iso-42001-audit-05-how-to-talk-about-controls-confidently-professional-infographic.png" alt="ISO 42001 Audit Readiness - How to Talk About Controls Confidently Professional Infographic" width="100%"></td>
-      <td width="42%"><img src="cards/audit/funny/iso-42001-audit-05-how-to-talk-about-controls-confidently.png" alt="ISO 42001 Audit Readiness - How to Talk About Controls Confidently Humorous Infographic" width="100%"></td>
+      <td width="42%"><img src="cards/audit/funny/iso-42001-audit-05-how-to-talk-about-controls-confidently-humorous-infographic.png" alt="ISO 42001 Audit Readiness - How to Talk About Controls Confidently Humorous Infographic" width="100%"></td>
     </tr>
   </tbody>
 </table>
@@ -348,17 +348,17 @@ The AI Principles Cards explain core responsible AI concepts that support practi
   <tbody>
     <tr>
       <td width="16%"><strong>Principle-01</strong><br>Fairness<br><a href="cards/ai-principles/reference/iso-42001-ai-principles-principle-01-fairness.md">Reference ↗</a></td>
-      <td width="42%"><img src="cards/ai-principles/professional/iso-42001-ai-principles-principle-01-fairness.png" alt="ISO 42001 AI Principles - Fairness - Professional Infographic" width="100%"></td>
+      <td width="42%"><img src="cards/ai-principles/professional/iso-42001-ai-principles-principle-01-fairness-professional-infographic.png" alt="ISO 42001 AI Principles - Fairness - Professional Infographic" width="100%"></td>
       <td width="42%"><img src="cards/ai-principles/funny/iso-42001-ai-principles-principle-01-fairness.png" alt="ISO 42001 AI Principles - Fairness - Humorous Infographic" width="100%"></td>
     </tr>
     <tr>
       <td width="16%"><strong>Principle-02</strong><br>Transparency<br><a href="cards/ai-principles/reference/iso-42001-ai-principles-principle-02-transparency.md">Reference ↗</a></td>
-      <td width="42%"><img src="cards/ai-principles/professional/iso-42001-ai-principles-principle-02-transparency.png" alt="ISO 42001 AI Principles - Transparency - Professional Infographic" width="100%"></td>
+      <td width="42%"><img src="cards/ai-principles/professional/iso-42001-ai-principles-principle-02-transparency-professional-infographic.png" alt="ISO 42001 AI Principles - Transparency - Professional Infographic" width="100%"></td>
       <td width="42%"><img src="cards/ai-principles/funny/iso-42001-ai-principles-principle-02-transparency.png" alt="ISO 42001 AI Principles - Transparency - Humorous Infographic" width="100%"></td>
     </tr>
     <tr>
       <td width="16%"><strong>Principle-03</strong><br>Accountability<br><a href="cards/ai-principles/reference/iso-42001-ai-principles-principle-03-accountability.md">Reference ↗</a></td>
-      <td width="42%"><img src="cards/ai-principles/professional/iso-42001-ai-principles-principle-03-accountability.png" alt="ISO 42001 AI Principles - Accountability - Professional Infographic" width="100%"></td>
+      <td width="42%"><img src="cards/ai-principles/professional/iso-42001-ai-principles-principle-03-accountability-professional-infographic.png" alt="ISO 42001 AI Principles - Accountability - Professional Infographic" width="100%"></td>
       <td width="42%"><img src="cards/ai-principles/funny/iso-42001-ai-principles-principle-03-accountability.png" alt="ISO 42001 AI Principles - Accountability - Humorous Infographic" width="100%"></td>
     </tr>
     <tr>
