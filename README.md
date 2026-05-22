@@ -4,7 +4,7 @@
 ![Status](https://img.shields.io/badge/status-work%20in%20progress-orange)
 ![Last commit](https://img.shields.io/github/last-commit/nelsambrose/ISO-42001-Visual-Library)
 
-![ISO 42001 Visual Library Banner](https://github.com/nelsambrose/ISO-42001-Visual-Library/blob/main/cards/banner/banner-2.jpg)
+![ISO 42001 Visual Library Banner](https://github.com/nelsambrose/ISO-42001-Visual-Library/blob/main/cards/banner/iso-42001-visual-library-banner.jpg)
 
 A collection of professional and humorous infographic cards to help you understand, remember, and explain **ISO/IEC 42001.**
 
@@ -181,8 +181,8 @@ These controls are grouped into four non-compulsory domains, and can be selected
   </thead>
   <tbody>
     <tr>
-      <td width="50%"><img src="cards/annex-a/overview/iso-42001-annex-a-overview-professional.png" alt="ISO 42001 Annex A Overview - Professional Domain Infographic" width="100%"></td>
-      <td width="50%"><img src="cards/annex-a/overview/iso-42001-annex-a-overview-funny.png" alt="ISO 42001 Annex A Overview - Humorous Domain Infographic" width="100%"></td>
+      <td width="50%"><img src="cards/annex-a/overview/iso-42001-annex-a-overview-professional-infographic.png" alt="ISO 42001 Annex A Overview - Professional Domain Infographic" width="100%"></td>
+      <td width="50%"><img src="cards/annex-a/overview/iso-42001-annex-a-overview-humorous-infographic.png" alt="ISO 42001 Annex A Overview - Humorous Domain Infographic" width="100%"></td>
     </tr>
   </tbody>
 </table>
@@ -438,4 +438,4 @@ The materials are intended as learning aids and should not be treated as a repla
 
 A personal visual overview of the author's AI governance focus and role in building the library.
 
-<img src="cards/about/iso-42001-author-overview.png" alt="ISO 42001 Visual Library - Author Overview - Nelson Ambrose AI Governance">
+<img src="cards/about/iso-42001-visual-library-author-overview.png" alt="ISO 42001 Visual Library - Author Overview - Nelson Ambrose AI Governance">
