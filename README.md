@@ -124,27 +124,27 @@ Clauses 4–10 are the mandatory requirements of ISO 42001 - the standards that 
     <tr>
       <td width="16%"><strong>Clause 4</strong><br>Context of the Organisation<br><a href="cards/reference/clause-04-context-of-the-organisation.md">Reference ↗</a></td>
       <td width="42%"><img src="cards/professional/iso-42001-clause-04-context-of-the-organisation-professional-infographic.png" alt="ISO 42001 Clause 4 Context of the Organisation - Professional Infographic" width="340"></td>
-      <td width="42%"><img src="cards/funny/iso-42001-clause-04-context-of-the-organisation.png" alt="ISO 42001 Clause 4 Context of the Organisation - Humorous Memory Card" width="340"></td>
+      <td width="42%"><img src="cards/funny/iso-42001-clause-04-context-of-the-organisation-humorous-infographic.png" alt="ISO 42001 Clause 4 Context of the Organisation - Humorous Memory Card" width="340"></td>
     </tr>
     <tr>
       <td width="16%"><strong>Clause 5</strong><br>Leadership<br><a href="cards/reference/clause-05-leadership.md">Reference ↗</a></td>
       <td width="42%"><img src="cards/professional/iso-42001-clause-05-leadership-professional-infographic.png" alt="ISO 42001 Clause 5 Leadership - Professional Infographic" width="340"></td>
-      <td width="42%"><img src="cards/funny/iso-42001-clause-05-leadership.png" alt="ISO 42001 Clause 5 Leadership - Humorous Memory Card" width="340"></td>
+      <td width="42%"><img src="cards/funny/iso-42001-clause-05-leadership-humorous-infographic.png" alt="ISO 42001 Clause 5 Leadership - Humorous Memory Card" width="340"></td>
     </tr>
     <tr>
       <td width="16%"><strong>Clause 6</strong><br>Planning<br><a href="cards/reference/clause-06-planning.md">Reference ↗</a></td>
       <td width="42%"><img src="cards/professional/iso-42001-clause-06-planning-professional-infographic.png" alt="ISO 42001 Clause 6 Planning - Professional Infographic" width="340"></td>
-      <td width="42%"><img src="cards/funny/iso-42001-clause-06-planning.png" alt="ISO 42001 Clause 6 Planning - Humorous Memory Card" width="340"></td>
+      <td width="42%"><img src="cards/funny/iso-42001-clause-06-planning-humorous-infographic.png" alt="ISO 42001 Clause 6 Planning - Humorous Memory Card" width="340"></td>
     </tr>
     <tr>
       <td width="16%"><strong>Clause 7</strong><br>Support<br><a href="cards/reference/clause-07-support.md">Reference ↗</a></td>
       <td width="42%"><img src="cards/professional/iso-42001-clause-07-support-professional-infographic.png" alt="ISO 42001 Clause 7 Support - Professional Infographic" width="340"></td>
-      <td width="42%"><img src="cards/funny/iso-42001-clause-07-support.png" alt="ISO 42001 Clause 7 Support - Humorous Memory Card" width="340"></td>
+      <td width="42%"><img src="cards/funny/iso-42001-clause-07-support-humorous-infographic.png" alt="ISO 42001 Clause 7 Support - Humorous Memory Card" width="340"></td>
     </tr>
     <tr>
       <td width="16%"><strong>Clause 8</strong><br>Operation<br><a href="cards/reference/clause-08-operation.md">Reference ↗</a></td>
       <td width="42%"><img src="cards/professional/iso-42001-clause-08-operation-professional-infographic.png" alt="ISO 42001 Clause 8 Operation - Professional Infographic" width="340"></td>
-      <td width="42%"><img src="cards/funny/iso-42001-clause-08-operation.png" alt="ISO 42001 Clause 8 Operation - Humorous Memory Card" width="340"></td>
+      <td width="42%"><img src="cards/funny/iso-42001-clause-08-operation-humorous-infographic.png" alt="ISO 42001 Clause 8 Operation - Humorous Memory Card" width="340"></td>
     </tr>
     <tr>
       <td width="16%"><strong>Clause 9</strong><br>Performance Evaluation<br><a href="cards/reference/clause-09-performance-evaluation.md">Reference ↗</a></td>
