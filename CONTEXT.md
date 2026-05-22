@@ -92,7 +92,7 @@ Use lowercase kebab-case slugs. Use the same basename across layers:
 
 ```text
 cards/reference/clause-04-context-of-the-organisation.md
-cards/professional/iso-42001-clause-04-context-of-the-organisation.png
+cards/professional/iso-42001-clause-04-context-of-the-organisation-professional-infographic.png
 cards/professional/simple/iso-42001-clause-04-context-of-the-organisation.png
 cards/funny/iso-42001-clause-04-context-of-the-organisation.png
 ```
