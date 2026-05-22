@@ -4,7 +4,7 @@
 ![Status](https://img.shields.io/badge/status-work%20in%20progress-orange)
 ![Last commit](https://img.shields.io/github/last-commit/nelsambrose/ISO-42001-Visual-Library)
 
-![ISO 42001 Visual Librar Banner](https://github.com/nelsambrose/ISO-42001-Visual-Library/blob/main/cards/banner/banner-2.jpg)
+![ISO 42001 Visual Library Banner](https://github.com/nelsambrose/ISO-42001-Visual-Library/blob/main/cards/banner/banner-2.jpg)
 
 A collection of professional and humorous infographic cards to help you understand, remember, and explain **ISO/IEC 42001.**
 
@@ -20,11 +20,11 @@ A collection of professional and humorous infographic cards to help you understa
   <br>
 
   - [What this repository is](#what-this-repository-is)
-  - [Clause Memory Cards](#clause-memory-cards)
-  - [Annex A Domain Cards](#annex-a-domain-cards)
-  - [Annex A Control Cards](#annex-a-control-cards)
-  - [Audit Readiness Cards](#audit-readiness-cards)
-  - [AI Principles Cards](#ai-principles-cards)
+  - [ISO 42001 Clause Memory Cards](#iso-42001-clause-memory-cards)
+  - [ISO 42001 Annex A Domain Cards](#iso-42001-annex-a-domain-cards)
+  - [ISO 42001 Annex A Control Cards](#iso-42001-annex-a-control-cards)
+  - [ISO 42001 Audit Readiness Cards](#iso-42001-audit-readiness-cards)
+  - [ISO 42001 AI Principles Cards](#iso-42001-ai-principles-cards)
   - [How to use it](#how-to-use-it)
 </details>
 
@@ -66,7 +66,7 @@ For Audit Readiness reference material, see the [Audit Readiness reference index
 > [!TIP]
 > Click any card to open a full-size view. This is the easiest way to read the detail.
 
-### Overview
+### ISO 42001 Overview
 
 <p align="center">
   <img src="cards/professional/iso-42001-overview.png" alt="ISO 42001 Overview - Professional Infographic" width="760">
@@ -78,13 +78,15 @@ For Audit Readiness reference material, see the [Audit Readiness reference index
   <img src="cards/funny/iso-42001-overview.png" alt="ISO 42001 Overview - Humorous Infographic" width="760">
 </p>
 
-### Clause memory cards
+These overview cards show the complete ISO/IEC 42001:2023 AI Management System structure, covering mandatory clauses 4 to 10 and the optional Annex A controls.
+
+### ISO 42001 Clause Memory Cards
 
 The simple memory cards are designed for quick recall. Each card reduces one clause to its core keyword. The professional simple cards use a clean minimal style. The funny simple cards use a strong visual hook.
 
 These cards are intentionally simple. The goal is not to explain every sub-clause, but to make the main association easy to remember.
 
-#### Professional simple memory cards
+#### ISO 42001 Professional Simple Memory Cards
 
 | Clause 4 | Clause 5 | Clause 6 |
 |:---:|:---:|:---:|
@@ -94,7 +96,7 @@ These cards are intentionally simple. The goal is not to explain every sub-claus
 |  | **Clause 10** |  |
 |  | <img src="cards/professional/simple/iso-42001-clause-10-improvement.png" alt="ISO 42001 Clause 10 Improvement - Professional Simple Memory Card" width="260"> |  |
 
-#### Funny simple memory cards
+#### ISO 42001 Funny Simple Memory Cards
 
 | Clause 4 | Clause 5 | Clause 6 |
 |:---:|:---:|:---:|
@@ -104,7 +106,9 @@ These cards are intentionally simple. The goal is not to explain every sub-claus
 |  | **Clause 10** |  |
 |  | <img src="cards/funny/simple/iso-42001-clause-10-improvement.png" alt="ISO 42001 Clause 10 Improvement - Humorous Simple Memory Card" width="260"> |  |
 
-### Clause cards
+Simple memory cards for ISO 42001 Clauses 4 to 10, designed for quick keyword recall in study, training, and awareness sessions.
+
+### ISO 42001 Clause Cards
 
 Clauses 4–10 are the mandatory requirements of ISO 42001 - the standards that every organisation must implement. Unlike Annex A (which provides controls to select from), these clauses are non-negotiable. Each clause builds on the previous one, forming a management system cycle.
 
@@ -155,11 +159,13 @@ Clauses 4–10 are the mandatory requirements of ISO 42001 - the standards that 
   </tbody>
 </table>
 
+Full infographic cards for ISO 42001 Clauses 4 to 10 — the mandatory requirements every organisation must implement to achieve ISO/IEC 42001:2023 certification.
+
 Annex A is the operational core of ISO 42001. It contains controls across nine areas (A.2–A.10) that define what responsible AI management looks like in practice.
 
-### Annex A domain cards
+### ISO 42001 Annex A Domain Cards
 
-These controls are grouped into four non-compulsory domains, and can be selected based on the organisation’s AI risks, context, and objectives:
+These controls are grouped into four non-compulsory domains, and can be selected based on the organisation's AI risks, context, and objectives:
 
 - **Governance** - Establishing AI policies, leadership accountability, and the overall direction for responsible AI within the organisation.
 - **Organisation** - Defining internal roles and responsibilities, ensuring the right people, skills, and resources are in place to manage AI effectively.
@@ -181,7 +187,7 @@ These controls are grouped into four non-compulsory domains, and can be selected
   </tbody>
 </table>
 
-The overview images show how Annex A is grouped.
+ISO 42001 Annex A groups controls across four domains: Governance, Organisation, Operation, and Relationships.
 
 <table>
   <thead>
@@ -215,7 +221,9 @@ The overview images show how Annex A is grouped.
   </tbody>
 </table>
 
-### Annex A Control Cards
+Domain-level cards for ISO 42001 Annex A, covering governance, organisation, operation, and relationship controls for responsible AI management.
+
+### ISO 42001 Annex A Control Cards
 
 Annex A controls are recommended governance measures that help organisations manage AI systems responsibly across the areas mentioned below.
 
@@ -276,7 +284,9 @@ Annex A controls are recommended governance measures that help organisations man
   </tbody>
 </table>
 
-## Audit Readiness Cards
+Control-level cards covering ISO 42001 Annex A controls A.2 through A.10, from AI policies and internal organisation to third-party and customer relationships.
+
+## ISO 42001 Audit Readiness Cards
 
 These five cards help you prepare for ISO 42001 audits. They cover what auditors actually look for, the difference between strong and weak evidence, common failure patterns across Annex A, and how to talk about controls confidently.
 
@@ -319,7 +329,9 @@ Reference files available for all five cards. See the [Audit Readiness reference
   </tbody>
 </table>
 
-### AI Principles Cards
+ISO 42001 audit readiness cards covering auditor expectations, evidence standards, common Annex A failure patterns, and how to communicate controls confidently.
+
+### ISO 42001 AI Principles Cards
 
 The AI Principles Cards explain core responsible AI concepts that support practical AI governance and AI Management System thinking. They cover fairness, transparency, accountability, human oversight, privacy, and safety and reliability. Each principle is shown as a professional card for clear explanation and a funny card for memory and engagement.
 
@@ -336,40 +348,42 @@ The AI Principles Cards explain core responsible AI concepts that support practi
   <tbody>
     <tr>
       <td width="16%"><strong>Principle-01</strong><br>Fairness<br><a href="cards/ai-principles/reference/iso-42001-ai-principles-principle-01-fairness.md">Reference ↗</a></td>
-      <td width="42%"><img src="cards/ai-principles/professional/iso-42001-ai-principles-principle-01-fairness.png" alt="ISO/IEC 42001 AI Principles professional card about fairness" width="100%"></td>
-      <td width="42%"><img src="cards/ai-principles/funny/iso-42001-ai-principles-principle-01-fairness.png" alt="ISO/IEC 42001 AI Principles funny card about fairness" width="100%"></td>
+      <td width="42%"><img src="cards/ai-principles/professional/iso-42001-ai-principles-principle-01-fairness.png" alt="ISO 42001 AI Principles - Fairness - Professional Infographic" width="100%"></td>
+      <td width="42%"><img src="cards/ai-principles/funny/iso-42001-ai-principles-principle-01-fairness.png" alt="ISO 42001 AI Principles - Fairness - Humorous Infographic" width="100%"></td>
     </tr>
     <tr>
       <td width="16%"><strong>Principle-02</strong><br>Transparency<br><a href="cards/ai-principles/reference/iso-42001-ai-principles-principle-02-transparency.md">Reference ↗</a></td>
-      <td width="42%"><img src="cards/ai-principles/professional/iso-42001-ai-principles-principle-02-transparency.png" alt="ISO/IEC 42001 AI Principles professional card about transparency" width="100%"></td>
-      <td width="42%"><img src="cards/ai-principles/funny/iso-42001-ai-principles-principle-02-transparency.png" alt="ISO/IEC 42001 AI Principles funny card about transparency" width="100%"></td>
+      <td width="42%"><img src="cards/ai-principles/professional/iso-42001-ai-principles-principle-02-transparency.png" alt="ISO 42001 AI Principles - Transparency - Professional Infographic" width="100%"></td>
+      <td width="42%"><img src="cards/ai-principles/funny/iso-42001-ai-principles-principle-02-transparency.png" alt="ISO 42001 AI Principles - Transparency - Humorous Infographic" width="100%"></td>
     </tr>
     <tr>
       <td width="16%"><strong>Principle-03</strong><br>Accountability<br><a href="cards/ai-principles/reference/iso-42001-ai-principles-principle-03-accountability.md">Reference ↗</a></td>
-      <td width="42%"><img src="cards/ai-principles/professional/iso-42001-ai-principles-principle-03-accountability.png" alt="ISO/IEC 42001 AI Principles professional card about accountability" width="100%"></td>
-      <td width="42%"><img src="cards/ai-principles/funny/iso-42001-ai-principles-principle-03-accountability.png" alt="ISO/IEC 42001 AI Principles funny card about accountability" width="100%"></td>
+      <td width="42%"><img src="cards/ai-principles/professional/iso-42001-ai-principles-principle-03-accountability.png" alt="ISO 42001 AI Principles - Accountability - Professional Infographic" width="100%"></td>
+      <td width="42%"><img src="cards/ai-principles/funny/iso-42001-ai-principles-principle-03-accountability.png" alt="ISO 42001 AI Principles - Accountability - Humorous Infographic" width="100%"></td>
     </tr>
     <tr>
       <td width="16%"><strong>Principle-04</strong><br>Human Oversight<br><a href="cards/ai-principles/reference/iso-42001-ai-principles-principle-04-human-oversight.md">Reference ↗</a></td>
-      <td width="42%"><img src="cards/ai-principles/professional/iso-42001-ai-principles-principle-04-human-oversight.png" alt="ISO/IEC 42001 AI Principles professional card about human oversight" width="100%"></td>
-      <td width="42%"><img src="cards/ai-principles/funny/iso-42001-ai-principles-principle-04-human-oversight.png" alt="ISO/IEC 42001 AI Principles funny card about human oversight" width="100%"></td>
+      <td width="42%"><img src="cards/ai-principles/professional/iso-42001-ai-principles-principle-04-human-oversight.png" alt="ISO 42001 AI Principles - Human Oversight - Professional Infographic" width="100%"></td>
+      <td width="42%"><img src="cards/ai-principles/funny/iso-42001-ai-principles-principle-04-human-oversight.png" alt="ISO 42001 AI Principles - Human Oversight - Humorous Infographic" width="100%"></td>
     </tr>
     <tr>
       <td width="16%"><strong>Principle-05</strong><br>Privacy<br><a href="cards/ai-principles/reference/iso-42001-ai-principles-principle-05-privacy.md">Reference ↗</a></td>
-      <td width="42%"><img src="cards/ai-principles/professional/iso-42001-ai-principles-principle-05-privacy.png" alt="ISO/IEC 42001 AI Principles professional card about privacy" width="100%"></td>
-      <td width="42%"><img src="cards/ai-principles/funny/iso-42001-ai-principles-principle-05-privacy.png" alt="ISO/IEC 42001 AI Principles funny card about privacy" width="100%"></td>
+      <td width="42%"><img src="cards/ai-principles/professional/iso-42001-ai-principles-principle-05-privacy.png" alt="ISO 42001 AI Principles - Privacy - Professional Infographic" width="100%"></td>
+      <td width="42%"><img src="cards/ai-principles/funny/iso-42001-ai-principles-principle-05-privacy.png" alt="ISO 42001 AI Principles - Privacy - Humorous Infographic" width="100%"></td>
     </tr>
     <tr>
       <td width="16%"><strong>Principle-06</strong><br>Safety and Reliability<br><a href="cards/ai-principles/reference/iso-42001-ai-principles-principle-06-safety-and-reliability.md">Reference ↗</a></td>
-      <td width="42%"><img src="cards/ai-principles/professional/iso-42001-ai-principles-principle-06-safety-and-reliability.png" alt="ISO/IEC 42001 AI Principles professional card about safety and reliability" width="100%"></td>
-      <td width="42%"><img src="cards/ai-principles/funny/iso-42001-ai-principles-principle-06-safety-and-reliability.png" alt="ISO/IEC 42001 AI Principles funny card about safety and reliability" width="100%"></td>
+      <td width="42%"><img src="cards/ai-principles/professional/iso-42001-ai-principles-principle-06-safety-and-reliability.png" alt="ISO 42001 AI Principles - Safety and Reliability - Professional Infographic" width="100%"></td>
+      <td width="42%"><img src="cards/ai-principles/funny/iso-42001-ai-principles-principle-06-safety-and-reliability.png" alt="ISO 42001 AI Principles - Safety and Reliability - Humorous Infographic" width="100%"></td>
     </tr>
   </tbody>
 </table>
 
+AI principles cards covering the core responsible AI concepts that underpin ISO/IEC 42001:2023 governance: fairness, transparency, accountability, human oversight, privacy, and safety and reliability.
+
 ---
 
-### Additional variants
+### ISO 42001 Additional Variants
 
 These are earlier infographic cards that have since been superseded by the current card designs, but the content remains accurate. Feel free to use any of these if you prefer the format.
 
@@ -398,6 +412,8 @@ These are earlier infographic cards that have since been superseded by the curre
   </tbody>
 </table>
 
+Earlier ISO 42001 infographic card variants covering Clause 8 Operation, Clause 9 Performance Evaluation, Clause 10 Improvement, Annex A.5, Annex A.10, and the Annex A domain overview.
+
 ## Licence
 
 This work is licensed under the Creative Commons Attribution 4.0 International License. See [LICENSE.md](LICENSE.md) for details.
@@ -422,5 +438,4 @@ The materials are intended as learning aids and should not be treated as a repla
 
 A personal visual overview of the author's AI governance focus and role in building the library.
 
-<img src="cards/about/iso-42001-author-overview.png" alt="Author overview showing Nelson Ambrose's AI governance focus and role in building the library">
-
+<img src="cards/about/iso-42001-author-overview.png" alt="ISO 42001 Visual Library - Author Overview - Nelson Ambrose AI Governance">
