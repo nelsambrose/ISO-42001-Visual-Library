@@ -239,7 +239,7 @@ Annex A controls are recommended governance measures that help organisations man
     <tr>
       <td width="16%"><strong>A.2</strong> Policies Related to AI<br><a href="cards/annex-a/reference/control/a-02-policies-related-to-ai.md">Reference ↗</a></td>
       <td width="42%"><img src="cards/annex-a/control/professional/iso-42001-annex-a-02-policies-related-to-ai-professional-infographic.png" alt="ISO 42001 Annex A.2 Policies Related to AI - Professional Control Card" width="100%"></td>
-      <td width="42%"><img src="cards/annex-a/control/funny/iso-42001-a-02-policies-related-to-ai.png" alt="ISO 42001 Annex A.2 Policies Related to AI - Humorous Control Card" width="100%"></td>
+      <td width="42%"><img src="cards/annex-a/control/funny/iso-42001-annex-a-02-policies-related-to-ai-humorous-infographic.png" alt="ISO 42001 Annex A.2 Policies Related to AI - Humorous Control Card" width="100%"></td>
     </tr>
     <tr>
       <td width="16%"><strong>A.3</strong> Internal Organisation<br><a href="cards/annex-a/reference/control/a-03-internal-organisation.md">Reference ↗</a></td>
@@ -263,22 +263,22 @@ Annex A controls are recommended governance measures that help organisations man
     </tr>
     <tr>
       <td width="16%"><strong>A.7</strong> Data for AI Systems<br><a href="cards/annex-a/reference/control/a-07-data-for-ai-systems.md">Reference ↗</a></td>
-      <td width="42%"><img src="cards/annex-a/control/professional/iso-42001-a-07-data-for-ai-systems.png" alt="ISO 42001 Annex A.7 Data for AI Systems - Professional Control Card" width="100%"></td>
+      <td width="42%"><img src="cards/annex-a/control/professional/iso-42001-annex-a-07-data-for-ai-systems-professional-infographic.png" alt="ISO 42001 Annex A.7 Data for AI Systems - Professional Control Card" width="100%"></td>
       <td width="42%"><img src="cards/annex-a/control/funny/iso-42001-a-07-data-for-ai-systems.png" alt="ISO 42001 Annex A.7 Data for AI Systems - Humorous Control Card" width="100%"></td>
     </tr>
     <tr>
       <td width="16%"><strong>A.8</strong> Information for Interested Parties<br><a href="cards/annex-a/reference/control/a-08-information-for-interested-parties.md">Reference ↗</a></td>
-      <td width="42%"><img src="cards/annex-a/control/professional/iso-42001-a-08-information-for-interested-parties.png" alt="ISO 42001 Annex A.8 Information for Interested Parties - Professional Control Card" width="100%"></td>
+      <td width="42%"><img src="cards/annex-a/control/professional/iso-42001-annex-a-08-information-for-interested-parties-professional-infographic.png" alt="ISO 42001 Annex A.8 Information for Interested Parties - Professional Control Card" width="100%"></td>
       <td width="42%"><img src="cards/annex-a/control/funny/iso-42001-a-08-information-for-interested-parties.png" alt="ISO 42001 Annex A.8 Information for Interested Parties - Humorous Control Card" width="100%"></td>
     </tr>
     <tr>
       <td width="16%"><strong>A.9</strong> Use of AI Systems<br><a href="cards/annex-a/reference/control/a-09-use-of-ai-systems.md">Reference ↗</a></td>
-      <td width="42%"><img src="cards/annex-a/control/professional/iso-42001-a-09-use-of-ai-systems.png" alt="ISO 42001 Annex A.9 Use of AI Systems - Professional Control Card" width="100%"></td>
+      <td width="42%"><img src="cards/annex-a/control/professional/iso-42001-annex-a-09-use-of-ai-systems-professional-infographic.png" alt="ISO 42001 Annex A.9 Use of AI Systems - Professional Control Card" width="100%"></td>
       <td width="42%"><img src="cards/annex-a/control/funny/iso-42001-a-09-use-of-ai-systems.png" alt="ISO 42001 Annex A.9 Use of AI Systems - Humorous Control Card" width="100%"></td>
     </tr>
     <tr>
       <td width="16%"><strong>A.10</strong> Third-party and Customer Relationships<br><a href="cards/annex-a/reference/control/a-10-third-party-and-customer-relationships.md">Reference ↗</a></td>
-      <td width="42%"><img src="cards/annex-a/control/professional/iso-42001-a-10-third-party-and-customer-relationships.png" alt="ISO 42001 Annex A.10 Third-Party and Customer Relationships - Professional Control Card" width="100%"></td>
+      <td width="42%"><img src="cards/annex-a/control/professional/iso-42001-annex-a-10-third-party-and-customer-relationships-professional-infographic.png" alt="ISO 42001 Annex A.10 Third-Party and Customer Relationships - Professional Control Card" width="100%"></td>
       <td width="42%"><img src="cards/annex-a/control/funny/iso-42001-a-10-third-party-and-customer-relationships.png" alt="ISO 42001 Annex A.10 Third-Party and Customer Relationships - Humorous Control Card" width="100%"></td>
     </tr>
   </tbody>
