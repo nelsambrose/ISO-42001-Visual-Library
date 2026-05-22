@@ -398,13 +398,13 @@ These are earlier infographic cards that have since been superseded by the curre
       <td width="25%"><img src="cards/archive/iso-42001-annex-a-05-assessing-impact-of-ai-systems-archive-variant.png" alt="ISO 42001 Archive - A.5 Assessing Impact of AI Systems Variant Card" width="100%"></td>
     </tr>
     <tr>
-      <td width="25%"><img src="cards/archive/iso-42001-annex-a-domain-operation.png" alt="ISO 42001 Archive - Annex A Domain Operation Variant Card" width="100%"></td>
-      <td width="25%"><img src="cards/archive/iso-42001-clause-09-performance-evaluation-2.png" alt="ISO 42001 Archive - Clause 9 Performance Evaluation Variant 2 Card" width="100%"></td>
-      <td width="25%"><img src="cards/archive/iso-42001-clause-09-performance-evaluation-3.png" alt="ISO 42001 Archive - Clause 9 Performance Evaluation Variant 3 Card" width="100%"></td>
-      <td width="25%"><img src="cards/archive/iso-42001-clause-07-support.png" alt="ISO 42001 Archive - Clause 7 Support Variant Card" width="100%"></td>
+      <td width="25%"><img src="cards/archive/iso-42001-annex-a-domain-operation-archive-variant.png" alt="ISO 42001 Archive - Annex A Domain Operation Variant Card" width="100%"></td>
+      <td width="25%"><img src="cards/archive/iso-42001-clause-09-performance-evaluation-archive-variant-2.png" alt="ISO 42001 Archive - Clause 9 Performance Evaluation Variant 2 Card" width="100%"></td>
+      <td width="25%"><img src="cards/archive/iso-42001-clause-09-performance-evaluation-archive-variant-3.png" alt="ISO 42001 Archive - Clause 9 Performance Evaluation Variant 3 Card" width="100%"></td>
+      <td width="25%"><img src="cards/archive/iso-42001-clause-07-support-archive-variant.png" alt="ISO 42001 Archive - Clause 7 Support Variant Card" width="100%"></td>
     </tr>
     <tr>
-      <td width="25%"><img src="cards/archive/iso-42001-clause-09-performance-evaluation-1.png" alt="ISO 42001 Archive - Clause 9 Performance Evaluation Variant 1 Card" width="100%"></td>
+      <td width="25%"><img src="cards/archive/iso-42001-clause-09-performance-evaluation-archive-variant-1.png" alt="ISO 42001 Archive - Clause 9 Performance Evaluation Variant 1 Card" width="100%"></td>
       <td width="25%"><img src="cards/archive/iso-42001-clause-05-leadership.png" alt="ISO 42001 Archive - Clause 5 Leadership Variant Card" width="100%"></td>
       <td width="25%"><img src="cards/archive/iso-42001-a-10-third-party-and-customer-relationships.png" alt="ISO 42001 Archive - A.10 Third-Party and Customer Relationships Variant Card" width="100%"></td>
       <td width="25%"><img src="cards/archive/iso-42001-clause-09-performance-evaluation.png" alt="ISO 42001 Archive - Clause 9 Performance Evaluation Variant Card" width="100%"></td>
