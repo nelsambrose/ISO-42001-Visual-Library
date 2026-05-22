@@ -359,22 +359,22 @@ The AI Principles Cards explain core responsible AI concepts that support practi
     <tr>
       <td width="16%"><strong>Principle-03</strong><br>Accountability<br><a href="cards/ai-principles/reference/iso-42001-ai-principles-principle-03-accountability.md">Reference ↗</a></td>
       <td width="42%"><img src="cards/ai-principles/professional/iso-42001-ai-principles-principle-03-accountability-professional-infographic.png" alt="ISO 42001 AI Principles - Accountability - Professional Infographic" width="100%"></td>
-      <td width="42%"><img src="cards/ai-principles/funny/iso-42001-ai-principles-principle-03-accountability.png" alt="ISO 42001 AI Principles - Accountability - Humorous Infographic" width="100%"></td>
+      <td width="42%"><img src="cards/ai-principles/funny/iso-42001-ai-principles-principle-03-accountability-humorous-infographic.png" alt="ISO 42001 AI Principles - Accountability - Humorous Infographic" width="100%"></td>
     </tr>
     <tr>
       <td width="16%"><strong>Principle-04</strong><br>Human Oversight<br><a href="cards/ai-principles/reference/iso-42001-ai-principles-principle-04-human-oversight.md">Reference ↗</a></td>
       <td width="42%"><img src="cards/ai-principles/professional/iso-42001-ai-principles-principle-04-human-oversight-professional-infographic.png" alt="ISO 42001 AI Principles - Human Oversight - Professional Infographic" width="100%"></td>
-      <td width="42%"><img src="cards/ai-principles/funny/iso-42001-ai-principles-principle-04-human-oversight.png" alt="ISO 42001 AI Principles - Human Oversight - Humorous Infographic" width="100%"></td>
+      <td width="42%"><img src="cards/ai-principles/funny/iso-42001-ai-principles-principle-04-human-oversight-humorous-infographic.png" alt="ISO 42001 AI Principles - Human Oversight - Humorous Infographic" width="100%"></td>
     </tr>
     <tr>
       <td width="16%"><strong>Principle-05</strong><br>Privacy<br><a href="cards/ai-principles/reference/iso-42001-ai-principles-principle-05-privacy.md">Reference ↗</a></td>
       <td width="42%"><img src="cards/ai-principles/professional/iso-42001-ai-principles-principle-05-privacy-professional-infographic.png" alt="ISO 42001 AI Principles - Privacy - Professional Infographic" width="100%"></td>
-      <td width="42%"><img src="cards/ai-principles/funny/iso-42001-ai-principles-principle-05-privacy.png" alt="ISO 42001 AI Principles - Privacy - Humorous Infographic" width="100%"></td>
+      <td width="42%"><img src="cards/ai-principles/funny/iso-42001-ai-principles-principle-05-privacy-humorous-infographic.png" alt="ISO 42001 AI Principles - Privacy - Humorous Infographic" width="100%"></td>
     </tr>
     <tr>
       <td width="16%"><strong>Principle-06</strong><br>Safety and Reliability<br><a href="cards/ai-principles/reference/iso-42001-ai-principles-principle-06-safety-and-reliability.md">Reference ↗</a></td>
       <td width="42%"><img src="cards/ai-principles/professional/iso-42001-ai-principles-principle-06-safety-and-reliability-professional-infographic.png" alt="ISO 42001 AI Principles - Safety and Reliability - Professional Infographic" width="100%"></td>
-      <td width="42%"><img src="cards/ai-principles/funny/iso-42001-ai-principles-principle-06-safety-and-reliability.png" alt="ISO 42001 AI Principles - Safety and Reliability - Humorous Infographic" width="100%"></td>
+      <td width="42%"><img src="cards/ai-principles/funny/iso-42001-ai-principles-principle-06-safety-and-reliability-humorous-infographic.png" alt="ISO 42001 AI Principles - Safety and Reliability - Humorous Infographic" width="100%"></td>
     </tr>
   </tbody>
 </table>
