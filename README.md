@@ -418,6 +418,16 @@ These are earlier infographic cards that have since been superseded by the curre
 
 Earlier ISO 42001 infographic card variants covering Clause 8 Operation, Clause 9 Performance Evaluation, Clause 10 Improvement, Annex A.5, Annex A.10, and the Annex A domain overview.
 
+## Community Recognition
+
+This repository has been included in the following curated AI governance and responsible AI resource lists:
+
+- [Awesome Artificial Intelligence Regulation](https://github.com/ethicalml/awesome-artificial-intelligence-regulation)
+  — Curated resources focused on AI governance, regulation, and responsible AI.
+
+- [Awesome Responsible AI](https://github.com/AthenaCore/AwesomeResponsibleAI)
+  — Curated responsible AI tools, frameworks, standards, and learning resources.
+
 ## Licence
 
 This work is licensed under the Creative Commons Attribution 4.0 International License. See [LICENSE.md](LICENSE.md) for details.
