@@ -10,7 +10,31 @@ The format follows [Keep a Changelog](https://keepachangelog.com).
 ## [Unreleased]
 
 Cards in development:
-- Additional reference topics: Annex A controls, AI principles, certification, people impact, ISO 42001 vs ISO 27001, EU AI Act alignment, common failure modes, and AI policy templates
+- Additional reference topics: certification, people impact, ISO 42001 vs ISO 27001, EU AI Act alignment, common failure modes, and AI policy templates
+
+---
+
+## [0.2.0] - 2026-05-25
+
+### Added
+
+- GitHub Pages site (`index.html` at repo root) — full card gallery with semantic `<figure>`/`<figcaption>` markup, sticky navigation, responsive layout, Open Graph tags, Twitter Card tags, and Schema.org `ImageGallery` structured data.
+- Image sitemap (`sitemap.xml`) listing all 80 current cards with titles, captions, and CC BY 4.0 licence URLs, served from the GitHub Pages domain for proper search engine attribution.
+- `robots.txt` — allows all crawlers and explicitly declares the sitemap URL.
+- SVG favicon (`favicon.svg`) — dark navy rounded square with white "ISO" text, consistent with the site colour scheme.
+- `.nojekyll` — disables Jekyll processing so the static HTML is served as-is.
+- AI Principles cards (professional and humorous) for Principle-01 through Principle-06: Fairness, Transparency, Accountability, Human Oversight, Privacy, and Safety and Reliability.
+- Reference entries for all six AI Principles cards.
+
+### Changed
+
+- All 80+ image filenames renamed following SEO best practices — keyword-rich, hyphenated, prefixed with `iso-42001-`, and suffixed with content type (e.g. `-professional-infographic.png`, `-humorous-simple-memory-card.png`, `-archive-variant.png`). Renamed across 21 batches covering professional, funny, simple, Annex A, audit, AI principles, and archive cards.
+- `README.md` alt tags standardised across all sections to descriptive `ISO 42001 [Topic] - [Style] [Type]` format.
+- `README.md` section headings prefixed with "ISO 42001" throughout.
+- `README.md` captions added below each image group for context and SEO signal.
+- `README.md` prominent gallery link added pointing to the GitHub Pages site.
+- GitHub Pages source migrated from `/docs` folder to repo root so `cards/` is served directly from the `nelsambrose.github.io` domain, enabling proper same-domain image sitemap attribution.
+- `CONTEXT.md` image path references updated to match renamed files.
 
 ---
 
