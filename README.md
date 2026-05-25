@@ -428,6 +428,8 @@ This repository has been included in the following curated AI governance and res
 - [Awesome Responsible AI](https://github.com/AthenaCore/AwesomeResponsibleAI)
   — Curated responsible AI tools, frameworks, standards, and learning resources.
 
+- [Awesome EU AI Act](https://github.com/GenAI-Gurus/awesome-eu-ai-act) — Curated resources focused on the EU AI Act, AI governance, compliance, and responsible AI.
+
 ## Licence
 
 This work is licensed under the Creative Commons Attribution 4.0 International License. See [LICENSE.md](LICENSE.md) for details.
