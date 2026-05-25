@@ -14,6 +14,16 @@ Cards in development:
 
 ---
 
+## [0.2.1] - 2026-05-25
+
+### Added
+
+- `404.html` — custom GitHub Pages error page matching site colour scheme, with a CTA back to the gallery and `noindex` tag to keep it out of search results.
+- `og:locale` meta tag (`en_GB`) added to `index.html` for explicit language/region signalling to social media scrapers.
+- `BreadcrumbList` Schema.org JSON-LD block added to `index.html` alongside the existing `ImageGallery` block, enabling breadcrumb display in Google search results.
+
+---
+
 ## [0.2.0] - 2026-05-25
 
 ### Added
