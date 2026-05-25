@@ -422,13 +422,11 @@ Earlier ISO 42001 infographic card variants covering Clause 8 Operation, Clause 
 
 This repository has been included in the following curated AI governance and responsible AI resource lists:
 
-- [Awesome Artificial Intelligence Regulation](https://github.com/ethicalml/awesome-artificial-intelligence-regulation)
-  — Curated resources focused on AI governance, regulation, and responsible AI.
+- [Awesome Artificial Intelligence Regulation](https://github.com/ethicalml/awesome-artificial-intelligence-regulation) - Curated resources focused on AI governance, regulation, and responsible AI.
 
-- [Awesome Responsible AI](https://github.com/AthenaCore/AwesomeResponsibleAI)
-  — Curated responsible AI tools, frameworks, standards, and learning resources.
+- [Awesome Responsible AI](https://github.com/AthenaCore/AwesomeResponsibleAI) - Curated responsible AI tools, frameworks, standards, and learning resources.
 
-- [Awesome EU AI Act](https://github.com/GenAI-Gurus/awesome-eu-ai-act) — Curated resources focused on the EU AI Act, AI governance, compliance, and responsible AI.
+- [Awesome EU AI Act](https://github.com/GenAI-Gurus/awesome-eu-ai-act) - Curated resources focused on the EU AI Act, AI governance, compliance, and responsible AI.
 
 ## Licence
 
