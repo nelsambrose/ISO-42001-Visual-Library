@@ -14,9 +14,8 @@ A collection of professional and humorous infographic cards to help you understa
 
 > [!NOTE]
 > #### 🔓 Project Access
-> <b>Free to use, share, or remix these cards in presentations, training, and awareness sessions.</b>
-> No gatekeeping - attribution is appreciated but not required.
-
+> <b>Free to use, share, or remix these cards in presentations, training, or anything else you wish to use them for.</b>
+> Attribution is appreciated but not required, but a star does help a lot continuing improvements on this library 😀   
 > Status: Work in progress. Current coverage includes Clauses 4–10, Annex A domain and control cards, the Audit Readiness mini-deck, and AI Principles cards.*
 
 <details>
