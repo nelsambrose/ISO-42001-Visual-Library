@@ -1,0 +1,35 @@
+# ISO 42001 Visual Library
+
+> Free infographic cards for learning and explaining ISO/IEC 42001:2023, the international standard for AI Management Systems (AIMS). Covers the mandatory Clauses 4–10, the Annex A controls, audit readiness, and core responsible AI principles. Every card is available in a professional and a humorous version, licensed CC BY 4.0 — free to use, share, or remix with attribution.
+
+Created and maintained by Nelson Ambrose. Independent learning resource — not affiliated with or endorsed by ISO, IEC, or any certification body.
+
+## Main content
+
+- [Card gallery](https://nelsambrose.github.io/ISO-42001-Visual-Library/): All 80+ infographic cards on one page — overview, clause cards, memory cards, Annex A domains and controls, audit readiness, and AI principles
+- [GitHub repository](https://github.com/nelsambrose/ISO-42001-Visual-Library): Source repository with all card images and written reference material
+
+## Reference material (written explanations)
+
+- [ISO 42001 overview](https://github.com/nelsambrose/ISO-42001-Visual-Library/blob/main/cards/reference/overview.md): What ISO/IEC 42001:2023 is, who it is for, its structure, the PDCA cycle, and the 38 Annex A controls
+- [Clause 4: Context of the Organisation](https://github.com/nelsambrose/ISO-42001-Visual-Library/blob/main/cards/reference/clause-04-context-of-the-organisation.md)
+- [Clause 5: Leadership](https://github.com/nelsambrose/ISO-42001-Visual-Library/blob/main/cards/reference/clause-05-leadership.md)
+- [Clause 6: Planning](https://github.com/nelsambrose/ISO-42001-Visual-Library/blob/main/cards/reference/clause-06-planning.md)
+- [Clause 7: Support](https://github.com/nelsambrose/ISO-42001-Visual-Library/blob/main/cards/reference/clause-07-support.md)
+- [Clause 8: Operation](https://github.com/nelsambrose/ISO-42001-Visual-Library/blob/main/cards/reference/clause-08-operation.md)
+- [Clause 9: Performance Evaluation](https://github.com/nelsambrose/ISO-42001-Visual-Library/blob/main/cards/reference/clause-09-performance-evaluation.md)
+- [Clause 10: Improvement](https://github.com/nelsambrose/ISO-42001-Visual-Library/blob/main/cards/reference/clause-10-improvement.md)
+
+## Card collections
+
+- [Clause cards](https://nelsambrose.github.io/ISO-42001-Visual-Library/#clause-cards): Full infographics for the mandatory Clauses 4–10
+- [Memory cards](https://nelsambrose.github.io/ISO-42001-Visual-Library/#memory-cards): Simple one-keyword recall cards for each clause
+- [Annex A domain cards](https://nelsambrose.github.io/ISO-42001-Visual-Library/#annex-a-domains): Governance, Organisation, Operation, and Relationships domains
+- [Annex A control cards](https://nelsambrose.github.io/ISO-42001-Visual-Library/#annex-a-controls): Controls A.2 through A.10
+- [Audit readiness cards](https://nelsambrose.github.io/ISO-42001-Visual-Library/#audit-readiness): What auditors look for, evidence standards, and common failure modes
+- [AI principles cards](https://nelsambrose.github.io/ISO-42001-Visual-Library/#ai-principles): Fairness, transparency, accountability, human oversight, privacy, and safety and reliability
+
+## Optional
+
+- [Changelog](https://github.com/nelsambrose/ISO-42001-Visual-Library/blob/main/CHANGELOG.md): Release history of cards and site improvements
+- [License](https://github.com/nelsambrose/ISO-42001-Visual-Library/blob/main/LICENSE.md): CC BY 4.0
