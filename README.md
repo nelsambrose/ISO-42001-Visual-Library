@@ -18,11 +18,12 @@ A collection of professional and humorous infographic cards to help you understa
 > Attribution is appreciated but not required, but a star does help a lot continuing improvements on this library 😀   
 > Status: Work in progress. Current coverage includes Clauses 4–10, Annex A domain and control cards, the Audit Readiness mini-deck, and AI Principles cards.*
 
-All diagrams in this repository were created by me and are free to use under the MIT License.
-
-They are free to use for any purpose, personal or commercial, with no attribution required, though it’s always appreciated .
-
-If you find them useful, consider leaving a ⭐ it helps others find the library too.
+> All diagrams in this repository were created by me and are free to use under the MIT License.
+> 
+> They are free to use for any purpose, personal or commercial, with no attribution required, though it’s always appreciated .
+> 
+> If you find them useful, consider leaving a ⭐ it helps others find the library too.
+<br>
 
 <details>
   <summary>Click to expand Table of Contents</summary>
