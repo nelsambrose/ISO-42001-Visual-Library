@@ -136,6 +136,29 @@
     header p { font-size: 1.1rem; color: #c9d1d9; max-width: 720px; margin: 0 auto 1.25rem; }
     .badges { display: inline-flex; gap: 0.5rem; flex-wrap: wrap; justify-content: center; }
 
+    .star-cta {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      margin-top: 1.5rem;
+      padding: 0.7rem 1.4rem;
+      background: #f9a825;
+      color: #0d1b2a;
+      font-size: 0.95rem;
+      font-weight: 700;
+      text-decoration: none;
+      border-radius: 6px;
+      transition: background 0.15s ease, transform 0.15s ease;
+    }
+    .star-cta:hover { background: #ffb300; transform: translateY(-1px); }
+    .star-note { font-size: 0.85rem; color: #8b9cb8; margin: 0.6rem 0 0; }
+
+    .nav-star {
+      color: #f9a825 !important;
+      font-weight: 600;
+    }
+    .nav-star:hover { color: #ffc107 !important; }
+
     nav {
       background: #16213e;
       padding: 0.75rem 1.5rem;
@@ -254,6 +277,14 @@
     <img src="https://img.shields.io/badge/status-work%20in%20progress-orange" alt="Work in progress">
     <img src="https://img.shields.io/github/last-commit/nelsambrose/ISO-42001-Visual-Library" alt="Last commit">
   </div>
+  <div>
+    <a class="star-cta"
+       href="https://github.com/nelsambrose/ISO-42001-Visual-Library"
+       target="_blank" rel="noopener noreferrer">
+      <span aria-hidden="true">⭐</span> Star this project on GitHub
+    </a>
+    <p class="star-note">Free and MIT licensed. A star helps others find the library.</p>
+  </div>
 </header>
 
 <nav aria-label="Page sections">
@@ -268,6 +299,8 @@
     <li><a href="#ai-principles">AI Principles</a></li>
     <li><a href="#archive">Archive</a></li>
     <li><a href="#faq">FAQ</a></li>
+    <li><a class="nav-star" href="https://github.com/nelsambrose/ISO-42001-Visual-Library"
+           target="_blank" rel="noopener noreferrer">⭐ Star on GitHub</a></li>
   </ul>
 </nav>
 
