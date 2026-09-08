@@ -30,12 +30,17 @@ A collection of professional and humorous infographic cards to help you understa
   <br>
 
   - [What this repository is](#what-this-repository-is)
+  - [How the library works](#how-the-library-works)
+  - [Recommended learning path](#recommended-learning-path)
+  - [Browse by category](#browse-by-category)
+  - [ISO 42001 Overview](#iso-42001-overview)
   - [ISO 42001 Clause Memory Cards](#iso-42001-clause-memory-cards)
+  - [ISO 42001 Clause Cards](#iso-42001-clause-cards)
   - [ISO 42001 Annex A Domain Cards](#iso-42001-annex-a-domain-cards)
   - [ISO 42001 Annex A Control Cards](#iso-42001-annex-a-control-cards)
   - [ISO 42001 Audit Readiness Cards](#iso-42001-audit-readiness-cards)
   - [ISO 42001 AI Principles Cards](#iso-42001-ai-principles-cards)
-  - [How to use it](#how-to-use-it)
+  - [Licence](#licence)
 </details>
 
 ## What this repository is
@@ -70,6 +75,67 @@ For Audit Readiness reference material, see the [Audit Readiness reference index
 - ISO 42001 and ISO 27001 comparison
 - EU AI Act alignment
 - AI policy templates
+
+## Recommended learning path
+
+New to ISO 42001? Work through the library in this order — each step assumes the one before it.
+
+<details>
+<summary>Click to expand</summary>
+
+### 🧭 Start here
+
+1. **[ISO 42001 Overview](#iso-42001-overview)** — the whole standard on one card: the Plan–Do–Check–Act structure, the clause map, and where Annex A fits.
+2. **[Clause memory cards](#iso-42001-clause-memory-cards)** — lock in the clause numbers and their keywords before going deeper. Five minutes here saves a lot of confusion later.
+
+### 📋 The mandatory clauses (4–10)
+
+3. [Clause 4 — Context of the Organisation](cards/reference/clause-04-context-of-the-organisation.md) — who is affected by your AI, what pressures shape it, and where the AIMS boundary sits.
+4. [Clause 5 — Leadership](cards/reference/clause-05-leadership.md) — the AI policy, assigned accountability, and top management commitment.
+5. [Clause 6 — Planning](cards/reference/clause-06-planning.md) — AI risk assessment, AI system impact assessment, and measurable objectives.
+6. [Clause 7 — Support](cards/reference/clause-07-support.md) — competence, awareness, communication, and documented information.
+7. [Clause 8 — Operation](cards/reference/clause-08-operation.md) — running the processes and retaining the evidence that they ran.
+8. [Clause 9 — Performance Evaluation](cards/reference/clause-09-performance-evaluation.md) — monitoring, internal audit, and management review.
+9. [Clause 10 — Improvement](cards/reference/clause-10-improvement.md) — nonconformities, corrective action, and continual improvement.
+
+### 🗂️ Annex A controls
+
+10. [Annex A domain overview](#iso-42001-annex-a-domain-cards) — how Governance, Organisation, Operation, and Relationships divide the control set.
+11. [A.2 Policies Related to AI](cards/annex-a/reference/control/a-02-policies-related-to-ai.md) — the anchor document auditors ask for first.
+12. [A.5 Assessing Impacts of AI Systems](cards/annex-a/reference/control/a-05-assessing-impacts-of-ai-systems.md) — impact assessment, and why it is not the same as risk assessment.
+13. [A.6 AI System Life Cycle](cards/annex-a/reference/control/a-06-ai-system-life-cycle.md) — governance built into how systems are made.
+14. [A.7 Data for AI Systems](cards/annex-a/reference/control/a-07-data-for-ai-systems.md) — quality and provenance, a frequent focus of audit attention.
+15. [All nine controls, A.2 to A.10](#iso-42001-annex-a-control-cards) — the full control set with cards and reference notes.
+
+### 🎓 Getting audit-ready
+
+16. [What an auditor actually looks for](cards/audit/reference/audit-01-what-an-auditor-actually-looks-for.md) — what gets verified, and how.
+17. [Evidence vs good intentions](cards/audit/reference/audit-02-evidence-vs-good-intentions.md) — the single largest source of audit findings.
+18. [Common audit failure modes across Annex A](cards/audit/reference/audit-04-common-audit-failure-modes-across-annex-a.md) — the patterns that repeat across organisations.
+
+### 🧠 The underlying principles
+
+19. [AI principles cards](#iso-42001-ai-principles-cards) — fairness, transparency, accountability, human oversight, privacy, and safety and reliability.
+
+</details>
+
+## Browse by category
+
+<details>
+<summary>Click to expand</summary>
+
+| Category | Cards | |
+|---|---:|---|
+| ISO 42001 overview | 2 | [View ↗](#iso-42001-overview) |
+| Clause memory cards (quick recall) | 14 | [View ↗](#iso-42001-clause-memory-cards) |
+| Clause cards, Clauses 4–10 | 14 | [View ↗](#iso-42001-clause-cards) |
+| Annex A domain cards | 10 | [View ↗](#iso-42001-annex-a-domain-cards) |
+| Annex A control cards, A.2–A.10 | 18 | [View ↗](#iso-42001-annex-a-control-cards) |
+| Audit readiness cards | 10 | [View ↗](#iso-42001-audit-readiness-cards) |
+| AI principles cards | 12 | [View ↗](#iso-42001-ai-principles-cards) |
+| Archive variants | 13 | [View ↗](#iso-42001-additional-variants) |
+
+</details>
 
 ## Card gallery
 
