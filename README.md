@@ -1,7 +1,8 @@
 # ISO-42001-Visual-Library
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE.md)
-![Status](https://img.shields.io/badge/status-work%20in%20progress-orange)
+![Cards](https://img.shields.io/badge/cards-87-1565c0)
+![Status](https://img.shields.io/badge/status-actively%20maintained-brightgreen)
 ![Last commit](https://img.shields.io/github/last-commit/nelsambrose/ISO-42001-Visual-Library)
 
 ![ISO 42001 Visual Library Banner](https://github.com/nelsambrose/ISO-42001-Visual-Library/blob/main/cards/banner/iso-42001-visual-library-banner.jpg)
@@ -19,7 +20,7 @@ A collection of professional and humorous infographic cards to help you understa
 >
 > If you find them useful, consider leaving a ⭐ — it helps others find the library too.
 >
-> Status: Work in progress. Current coverage includes Clauses 4–10, Annex A domain and control cards, the Audit Readiness mini-deck, and AI Principles cards.
+> **87 cards and 32 written reference notes**, covering Clauses 4–10 in full, all four Annex A domains, controls A.2 to A.10, the Audit Readiness mini-deck, and the six AI Principles. Actively maintained and still growing — see [planned additions](#planned-additions).
 <br>
 
 <details>
