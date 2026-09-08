@@ -1,6 +1,6 @@
 # ISO 42001 Visual Library
 
-> Free infographic cards for learning and explaining ISO/IEC 42001:2023, the international standard for AI Management Systems (AIMS). Covers the mandatory Clauses 4–10, the Annex A controls, audit readiness, and core responsible AI principles. Every card is available in a professional and a humorous version, licensed CC BY 4.0 — free to use, share, or remix with attribution.
+> Free infographic cards for learning and explaining ISO/IEC 42001:2023, the international standard for AI Management Systems (AIMS). Covers the mandatory Clauses 4–10, the Annex A controls, audit readiness, and core responsible AI principles. Every card is available in a professional and a humorous version, released under the MIT Licence — free to use, share, or adapt, including commercially.
 
 Created and maintained by Nelson Ambrose. Independent learning resource — not affiliated with or endorsed by ISO, IEC, or any certification body.
 
@@ -32,4 +32,4 @@ Created and maintained by Nelson Ambrose. Independent learning resource — not 
 ## Optional
 
 - [Changelog](https://github.com/nelsambrose/ISO-42001-Visual-Library/blob/main/CHANGELOG.md): Release history of cards and site improvements
-- [License](https://github.com/nelsambrose/ISO-42001-Visual-Library/blob/main/LICENSE.md): CC BY 4.0
+- [License](https://github.com/nelsambrose/ISO-42001-Visual-Library/blob/main/LICENSE.md): MIT Licence

@@ -143,7 +143,7 @@ sharing.
 ## Current status
 
 The library is public and actively maintained. Assets are
-free to use under CC BY 4.0 for personal learning, training,
+free to use under the MIT Licence for personal learning, training,
 and sharing online.
 
 The repo currently contains project documentation, reference catalogue

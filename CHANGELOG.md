@@ -14,6 +14,24 @@ Cards in development:
 
 ---
 
+## [0.3.0] - 2026-09-08
+
+### Changed
+
+- **Licence changed from CC BY 4.0 to MIT.** All cards are now free to use for any purpose, personal or commercial, with attribution appreciated but no longer required. `LICENSE.md` replaced with the standard MIT text; licence references updated across `README.md`, `index.html` (badge, footer, FAQ answer, and `ImageGallery` JSON-LD), all 80 `sitemap.xml` image entries, `llms.txt`, and `CONTEXT.md`. This resolves a contradiction where the README claimed MIT while the badge, licence section, and `LICENSE.md` all stated CC BY 4.0.
+- `README.md` per-card descriptions added to all 31 card topics — Clauses 4–10, the four Annex A domains, controls A.2–A.10, the five audit readiness cards, and the six AI principles — adding roughly 1,065 words of descriptive text to what were previously bare image tables.
+
+### Added
+
+- `README.md` "Recommended learning path" — a 19-step ordered route through the library, grouped from foundations through the mandatory clauses, Annex A, audit readiness, and the underlying AI principles.
+- `README.md` "Browse by category" — a table of all eight card groups with verified card counts.
+
+### Fixed
+
+- `README.md` table of contents pointed at a non-existent `#how-to-use-it` anchor and omitted half the gallery sections. Rebuilt against the actual headings.
+
+---
+
 ## [0.2.1] - 2026-05-25
 
 ### Added
