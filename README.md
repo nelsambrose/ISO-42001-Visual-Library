@@ -1,6 +1,6 @@
 # ISO-42001-Visual-Library
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE.md)
 ![Status](https://img.shields.io/badge/status-work%20in%20progress-orange)
 ![Last commit](https://img.shields.io/github/last-commit/nelsambrose/ISO-42001-Visual-Library)
 
@@ -15,14 +15,11 @@ A collection of professional and humorous infographic cards to help you understa
 > [!NOTE]
 > #### 🔓 Project Access
 > <b>Free to use, share, or remix these cards in presentations, training, or anything else you wish to use them for.</b>
-> Attribution is appreciated but not required, but a star does help a lot continuing improvements on this library 😀   
-> Status: Work in progress. Current coverage includes Clauses 4–10, Annex A domain and control cards, the Audit Readiness mini-deck, and AI Principles cards.*
-
-> All diagrams in this repository were created by me and are free to use under the MIT License.
-> 
-> They are free to use for any purpose, personal or commercial, with no attribution required, though it’s always appreciated .
-> 
-> If you find them useful, consider leaving a ⭐ it helps others find the library too.
+> All cards in this repository were created by me and are released under the [MIT Licence](LICENSE.md) — free for any purpose, personal or commercial. Attribution is always appreciated but not required.
+>
+> If you find them useful, consider leaving a ⭐ — it helps others find the library too.
+>
+> Status: Work in progress. Current coverage includes Clauses 4–10, Annex A domain and control cards, the Audit Readiness mini-deck, and AI Principles cards.
 <br>
 
 <details>
@@ -502,12 +499,12 @@ This repository has been included in the following curated AI governance and res
 
 ## Licence
 
-This work is licensed under the Creative Commons Attribution 4.0 International License. See [LICENSE.md](LICENSE.md) for details.
+This work is released under the MIT Licence. See [LICENSE.md](LICENSE.md) for the full terms.
 
-Suggested attribution:
+You are free to use, copy, modify, and distribute these cards for any purpose, personal or commercial. Attribution is not required, but is always appreciated:
 
 ```text
-ISO 42001 Visual Library by Nelson Ambrose, licensed under CC BY 4.0.
+ISO 42001 Visual Library by Nelson Ambrose — https://github.com/nelsambrose/ISO-42001-Visual-Library
 ```
 
 Creator: [Nelson Ambrose](https://www.linkedin.com/in/nelson-ambrose/)
