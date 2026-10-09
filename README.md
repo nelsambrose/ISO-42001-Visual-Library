@@ -1,11 +1,27 @@
-# ISO-42001-Visual-Library
+# ISO 42001 Visual Library
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE.md)
 ![Cards](https://img.shields.io/badge/cards-87-1565c0)
 ![Status](https://img.shields.io/badge/status-actively%20maintained-brightgreen)
 ![Last commit](https://img.shields.io/github/last-commit/nelsambrose/ISO-42001-Visual-Library)
 
-![ISO 42001 Visual Library Banner](https://github.com/nelsambrose/ISO-42001-Visual-Library/blob/main/cards/banner/iso-42001-visual-library-banner.jpg)
+![ISO 42001 Visual Library Banner](cards/banner/iso-42001-visual-library-banner.jpg)
+
+**Understand ISO/IEC 42001 in visual cards — free, MIT-licensed, ready for slides and training.**
+
+<table>
+  <tr>
+    <td width="33%" align="center"><a href="cards/professional/iso-42001-ai-management-system-overview-professional-infographic.png"><img src="cards/thumbnails/iso-42001-ai-management-system-overview-professional-infographic.webp" alt="ISO 42001 AI Management System Overview - Professional Infographic" width="100%"></a><br><sub>AIMS overview</sub></td>
+    <td width="33%" align="center"><a href="cards/professional/iso-42001-clause-06-planning-professional-infographic.png"><img src="cards/thumbnails/iso-42001-clause-06-planning-professional-infographic.webp" alt="ISO 42001 Clause 6 Planning - Professional Infographic" width="100%"></a><br><sub>Clause 6: Planning</sub></td>
+    <td width="33%" align="center"><a href="cards/annex-a/overview/iso-42001-annex-a-overview-professional-infographic.png"><img src="cards/thumbnails/iso-42001-annex-a-overview-professional-infographic.webp" alt="ISO 42001 Annex A Overview - Professional Domain Infographic" width="100%"></a><br><sub>Annex A overview</sub></td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://nelsambrose.github.io/ISO-42001-Visual-Library/"><b>🖼️ View gallery</b></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/nelsambrose/ISO-42001-Visual-Library/archive/refs/heads/main.zip"><b>⬇️ Download all cards (ZIP)</b></a> <sub>(~220 MB)</sub>
+</p>
 
 A collection of professional and humorous infographic cards to help you understand, remember, and explain **ISO/IEC 42001.**
 
