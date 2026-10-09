@@ -82,7 +82,8 @@ ISO-42001-Visual-Library/
 │   ├── *.png (main infographic cards)
 │   ├── simple/ (clause-04-....png etc.)
 │   └── expanded/
-└── archive/
+├── archive/
+└── thumbnails/ (600px WebP previews used by README.md; generated from the PNGs)
 
 ---
 
@@ -166,9 +167,11 @@ If you are an AI assistant helping with this project:
 - When adding new entries to CHANGELOG.md, follow the 
   existing format exactly
 - When updating README.md card tables, keep the formatting
-  consistent and embed image cards directly when available
+  consistent: show professional cards as WebP thumbnails from
+  `cards/thumbnails/` linking to the full-size PNG, and link to
+  humorous versions as text (the GitHub Pages gallery shows all cards)
 - Keep the documented `cards/annex-a/`, `cards/audit/`, `cards/ai-principles/`,
-  `cards/about/`, `cards/archive/`, `cards/reference/`, `cards/funny/`, and
-  `cards/professional/` structure unless instructed otherwise
+  `cards/about/`, `cards/archive/`, `cards/reference/`, `cards/funny/`,
+  `cards/professional/`, and `cards/thumbnails/` structure unless instructed otherwise
 - The content is ISO 42001 specific: do not introduce 
   content from other frameworks without instruction
