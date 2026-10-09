@@ -12,6 +12,10 @@ The format follows [Keep a Changelog](https://keepachangelog.com).
 Cards in development:
 - Additional reference topics: certification, people impact, ISO 42001 vs ISO 27001, EU AI Act alignment, common failure modes, and AI policy templates
 
+### Removed
+
+- `CLAUDE.md` (internal AI-assistant workflow instructions, not intended as public project documentation). Project context for contributors and assistants remains in `CONTEXT.md`.
+
 ---
 
 ## [0.3.0] - 2026-09-08
@@ -47,7 +51,7 @@ Cards in development:
 ### Added
 
 - GitHub Pages site (`index.html` at repo root) — full card gallery with semantic `<figure>`/`<figcaption>` markup, sticky navigation, responsive layout, Open Graph tags, Twitter Card tags, and Schema.org `ImageGallery` structured data.
-- Image sitemap (`sitemap.xml`) listing all 80 current cards with titles, captions, and CC BY 4.0 licence URLs, served from the GitHub Pages domain for proper search engine attribution.
+- Image sitemap (`sitemap.xml`) listing all 80 current cards with titles, captions, and CC BY 4.0 licence URLs (since updated to MIT in 0.3.0; the library is now MIT-licensed), served from the GitHub Pages domain for proper search engine attribution.
 - `robots.txt` — allows all crawlers and explicitly declares the sitemap URL.
 - SVG favicon (`favicon.svg`) — dark navy rounded square with white "ISO" text, consistent with the site colour scheme.
 - `.nojekyll` — disables Jekyll processing so the static HTML is served as-is.
